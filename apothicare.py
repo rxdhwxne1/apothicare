@@ -7,6 +7,8 @@ import pandas as pd
 import streamlit as st
 from io import BytesIO
 from info_fields import info_fields
+from streamlit import session_state as ss
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -42,8 +44,12 @@ class MedicalInfoExtractor:
     def extract_info_with_ollama(self, text: str, field: str) -> str:
         """Extract specific information using Ollama model."""
         try:
-            prompt = f"""Voici un rapport hospitalier :\n\n{text}\n\n
-            Extrait uniquement la valeur brute de '{field}', répond uniquement avec la donnée sans ajouter de texte ou phrase supplémentaire.
+            prompt = f"""            
+            Voici un rapport médical hospitalier détaillé contenant des informations démographiques, biologiques, et des antécédents médicaux : \n{text}\n
+
+            Extrait uniquement la valeur brute pour le champ ci-dessous. Répond uniquement avec la donnée sans ajouter de texte supplémentaire ou de phrase explicative. Si la donnée n'est pas trouvée, indique "Non renseigné".
+
+            Champ demandé : '{field}'
             """
             
             response = ollama.generate(
@@ -85,16 +91,35 @@ class MedicalInfoExtractor:
         
         return pd.DataFrame([data])
 
+    
 def main():
     st.set_page_config(
-        page_title="Extraction d'informations médicales",
-        page_icon="🏥",
+        page_title="Apothicare - Extraction d'informations médicales depuis PDF",
+        page_icon="./assets/logo.png",
         layout="wide"
     )
 
+
+    page_bg_img = '''
+                <style>
+                .stApp {
+                    background-image: url("data:image/png;base64,%s");
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: center 50px;                
+                    }
+                </style>
+                '''
+    import base64
+    with open("./assets/background.png", "rb") as image_file:
+        encoded_string = base64.b64encode(image_file.read()).decode()
+
+    # Appliquer le CSS personnalisé
+    st.markdown(page_bg_img % encoded_string, unsafe_allow_html=True)
+
     st.title("Extraction d'informations médicales depuis PDF")
+    st.header("Instructions")
     st.markdown("""
-    ### Instructions
     1. Importer un fichier PDF contenant des informations médicales
     2. Cliquez sur le bouton d'extraction
     3. Téléchargez le fichier Excel généré
@@ -105,42 +130,54 @@ def main():
     pdf_file = st.file_uploader(
         "Téléchargez un fichier PDF",
         type=["pdf"],
-        help="Sélectionnez un fichier PDF contenant le rapport médical"
+        help="Sélectionnez un fichier PDF contenant le rapport médical",
+        key="pdf"
     )
 
+    col1, col2, col3 = st.columns(3) # Colonnes pour la mise en page
+
     if pdf_file:
-        if st.button("Extraire les informations", type="primary"):
-            try:
-                with st.spinner("Extraction en cours..."):
-                    df = extractor.process_pdf(pdf_file)
-                    
-                if df is not None:
-                    # Save to BytesIO instead of file
-                    buffer = BytesIO()
-                    with pd.ExcelWriter(buffer, engine='openpyxl') as writer:
-                        df.to_excel(writer, index=False)
-                    
-                    buffer.seek(0)  # Reset buffer position to the beginning
-                    
-                    st.success("✅ Extraction terminée avec succès!")
-                    
-                    # Offer download button
-                    st.download_button(
-                        label="📥 Télécharger le fichier Excel",
-                        data=buffer,
-                        file_name=OUTPUT_FILENAME,
-                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-                    )
-                    
-                    # Show preview
-                    with st.expander("Aperçu des données extraites"):
-                        st.dataframe(df)
-                else:
-                    st.error("❌ Erreur lors de l'extraction du PDF")
+        with col2:
+            base64_pdf = base64.b64encode(pdf_file.read()).decode('utf-8')
+            pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="700px" style="border:none;"></iframe>'
+            st.markdown(pdf_display, unsafe_allow_html=True)
             
-            except Exception as e:
-                st.error(f"❌ Une erreur est survenue: {str(e)}")
-                logger.exception("Error in main process")
+        
+        with col1:
+            if st.button("Extraire les informations", type="primary"):
+                try:
+                    with st.spinner("Extraction en cours..."):
+                        df = extractor.process_pdf(pdf_file)
+                        
+                    if df is not None:
+                        # Save to BytesIO instead of file
+                        buffer = BytesIO()
+                        with pd.ExcelWriter(buffer, engine='openpyxl') as writer:
+                            df.to_excel(writer, index=False)
+                        
+                        buffer.seek(0)  # Reset buffer position to the beginning
+                        
+                        st.success("✅ Extraction terminée avec succès!")
+                        
+                        # Offer download button
+                        st.download_button(
+                            label="📥 Télécharger le fichier Excel",
+                            data=buffer,
+                            file_name=OUTPUT_FILENAME,
+                            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                        )
+                        
+                        # Show preview
+                        with st.expander("Aperçu des données extraites"):
+                            st.dataframe(df, height=200)
+                            #ajouter un peu de place dans le container
+
+                    else:
+                        st.error("❌ Erreur lors de l'extraction du PDF")
+                
+                except Exception as e:
+                    st.error(f"❌ Une erreur est survenue: {str(e)}")
+                    logger.exception("Error in main process")
 
 if __name__ == "__main__":
     main()

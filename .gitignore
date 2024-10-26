@@ -6,6 +6,7 @@ __pycache__/
 extraction_infos_pdf.xlsx
 
 # Dossiers et fichiers de configuration de l'environnement virtuel
+env/
 venv/
 .env
 *.env

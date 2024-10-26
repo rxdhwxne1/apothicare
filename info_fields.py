@@ -14,8 +14,8 @@ info_fields = [
     'Dialyse',
     
     # # Antécédents et comorbidités
-    # 'Diabète',
-    # 'Traitement diabète pré-op',
+     'Diabète',
+     'Traitement diabète pré-op',
     # 'BPCO',
     # 'EI ttt par ATB',
     # 'EI sterilisée',
