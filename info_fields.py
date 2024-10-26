@@ -29,7 +29,7 @@ info_fields = [
     # 'Type d\'intervention cardiaque ANT',
     # 'HTA',
     # 'Hypercholestérolémie',
-    # 'Tabac',
+     'Tabac',
     # 'FA',
     # 'Stimulateur cardiaque implanté',
     
