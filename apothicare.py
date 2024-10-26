@@ -8,6 +8,7 @@ import streamlit as st
 from io import BytesIO
 from info_fields import info_fields
 from streamlit import session_state as ss
+import base64
 
 
 # Configure logging
@@ -47,7 +48,7 @@ class MedicalInfoExtractor:
             prompt = f"""            
             Voici un rapport médical hospitalier détaillé contenant des informations démographiques, biologiques, et des antécédents médicaux : \n{text}\n
 
-            Extrait uniquement la valeur brute pour le champ ci-dessous. Répond uniquement avec la donnée sans ajouter de texte supplémentaire ou de phrase explicative. Si la donnée n'est pas trouvée, indique "Non renseigné".
+            Extrait uniquement la valeur brute pour le champ ci-dessous, ainsi que son unité si nécessaire. Répond uniquement avec la donnée sans ajouter de texte supplémentaire ou de phrase explicative. Si la donnée n'est pas renseignée, indique "Non renseigné", mais si elle est négative, indique le (exemple : "pas de diabète").
 
             Champ demandé : '{field}'
             """
@@ -110,7 +111,7 @@ def main():
                     }
                 </style>
                 '''
-    import base64
+
     with open("./assets/background.png", "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode()
 
