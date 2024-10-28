@@ -35,7 +35,6 @@ pip install -r requirements.txt
 Ollama est utilisé pour gérer les modèles de génération de texte (LLM) comme llama2. Assurez-vous que ollama est installé :
 
 Téléchargez et installez Ollama depuis [Ollama.com](https://ollama.com/).
-Configurez votre clé API dans l'environnement pour accéder à Ollama (voir la documentation d'Ollama pour générer une clé d'API).
 
 # Utilisation
 1. Lancer l'application Streamlit :
