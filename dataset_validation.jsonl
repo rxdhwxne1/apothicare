@@ -1,0 +1,1170 @@
+// Date de naissance
+
+{"text": "La date de naissance du patient est le 15 avril 1985.", "entities": [{"start": 0, "end": 53, "label": "Date de naissance"}]}
+{"text": "Né(e) le 22 mars 1977, cette information figure dans le dossier médical.", "entities": [{"start": 0, "end": 68, "label": "Date de naissance"}]}
+{"text": "Le patient est né le 05 octobre 1990 selon les archives.", "entities": [{"start": 0, "end": 58, "label": "Date de naissance"}]}
+
+// Sexe
+
+{"text": "Le sexe du patient est masculin.", "entities": [{"start": 0, "end": 33, "label": "Sexe"}]}
+{"text": "Genre : féminin, selon le rapport médical.", "entities": [{"start": 0, "end": 41, "label": "Sexe"}]}
+{"text": "Sexe enregistré : masculin.", "entities": [{"start": 0, "end": 28, "label": "Sexe"}]}
+
+// Poids
+
+{"text": "Le poids du patient est de 75 kg.", "entities": [{"start": 0, "end": 34, "label": "Poids"}]}
+{"text": "Poids : 62 kg, noté lors de la dernière admission.", "entities": [{"start": 0, "end": 47, "label": "Poids"}]}
+{"text": "Le patient pèse 85 kilogrammes.", "entities": [{"start": 0, "end": 32, "label": "Poids"}]}
+
+// Taille
+
+{"text": "La taille du patient est de 1,75 m.", "entities": [{"start": 0, "end": 34, "label": "Taille"}]}
+{"text": "Taille : 1,68 m, enregistré dans le dossier médical.", "entities": [{"start": 0, "end": 48, "label": "Taille"}]}
+{"text": "Mesure de taille : 1,82 m.", "entities": [{"start": 0, "end": 27, "label": "Taille"}]}
+
+// Date d'admission
+
+{"text": "Date d'admission : 10 janvier 2023.", "entities": [{"start": 0, "end": 38, "label": "Date d'admission"}]}
+{"text": "Le patient a été admis le 03 mars 2022.", "entities": [{"start": 0, "end": 42, "label": "Date d'admission"}]}
+{"text": "Admission le 15 novembre 2021.", "entities": [{"start": 0, "end": 29, "label": "Date d'admission"}]}
+
+// Date d'intervention
+
+{"text": "La date d'intervention est fixée au 25 avril 2023.", "entities": [{"start": 0, "end": 49, "label": "Date d'intervention"}]}
+{"text": "Intervention prévue le 17 juillet 2022.", "entities": [{"start": 0, "end": 39, "label": "Date d'intervention"}]}
+{"text": "Date de l'intervention : 30 septembre 2021.", "entities": [{"start": 0, "end": 44, "label": "Date d'intervention"}]}
+
+// Date de sortie
+
+{"text": "La date de sortie du patient est le 12 juin 2023.", "entities": [{"start": 0, "end": 48, "label": "Date de sortie"}]}
+{"text": "Sortie prévue le 05 octobre 2022.", "entities": [{"start": 0, "end": 36, "label": "Date de sortie"}]}
+{"text": "Date de sortie : 18 février 2021.", "entities": [{"start": 0, "end": 33, "label": "Date de sortie"}]}
+
+// Créat pré op
+
+{"text": "La créatinine préopératoire du patient était à 1,2 mg/dL.", "entities": [{"start": 3, "end": 23, "label": "Créat pré op"}]}
+{"text": "Les valeurs de créat préopératoire montrent un taux légèrement élevé.", "entities": [{"start": 12, "end": 32, "label": "Créat pré op"}]}
+{"text": "Le taux de créatinine avant l'opération a été évalué comme normal.", "entities": [{"start": 10, "end": 34, "label": "Créat pré op"}]}
+
+// Clairance de la créat
+
+{"text": "La clairance de la créatinine est estimée à 90 mL/min.", "entities": [{"start": 3, "end": 25, "label": "Clairance de la créat"}]}
+{"text": "Les résultats indiquent une clairance de créat de 85 mL/min.", "entities": [{"start": 26, "end": 46, "label": "Clairance de la créat"}]}
+{"text": "Le test montre une clairance de la créat mesurée à 75 mL/min.", "entities": [{"start": 16, "end": 39, "label": "Clairance de la créat"}]}
+
+// Dialyse
+
+{"text": "Le patient a débuté une dialyse en raison d'une insuffisance rénale aiguë.", "entities": [{"start": 18, "end": 25, "label": "Dialyse"}]}
+{"text": "La dialyse a été initiée pour traiter la défaillance rénale.", "entities": [{"start": 3, "end": 10, "label": "Dialyse"}]}
+{"text": "Il est sous traitement par dialyse trois fois par semaine.", "entities": [{"start": 26, "end": 33, "label": "Dialyse"}]}
+
+// Diabète
+
+{"text": "Le patient est atteint de diabète de type 2.", "entities": [{"start": 18, "end": 25, "label": "Diabète"}]}
+{"text": "Antécédents médicaux révèlent un diabète contrôlé par l'insuline.", "entities": [{"start": 32, "end": 39, "label": "Diabète"}]}
+{"text": "Le patient souffre de diabète et est sous traitement.", "entities": [{"start": 18, "end": 25, "label": "Diabète"}]}
+
+// Traitement diabète pré-op
+
+{"text": "Traitement diabétique pré-opératoire instauré pour stabiliser le taux de glucose.", "entities": [{"start": 0, "end": 29, "label": "Traitement diabète pré-op"}]}
+{"text": "Le patient a reçu un traitement pour son diabète avant l'opération.", "entities": [{"start": 19, "end": 48, "label": "Traitement diabète pré-op"}]}
+{"text": "En pré-op, un traitement diabétique a été administré.", "entities": [{"start": 7, "end": 36, "label": "Traitement diabète pré-op"}]}
+
+// BPCO
+
+{"text": "Le patient présente une bronchopneumopathie chronique obstructive (BPCO).", "entities": [{"start": 47, "end": 51, "label": "BPCO"}]}
+{"text": "Antécédent de BPCO détecté lors des examens pré-opératoires.", "entities": [{"start": 13, "end": 17, "label": "BPCO"}]}
+{"text": "Diagnostic confirmé de BPCO nécessitant une attention particulière.", "entities": [{"start": 21, "end": 25, "label": "BPCO"}]}
+
+// EI ttt par ATB
+
+{"text": "Effet indésirable observé sous traitement antibiotique (EI ttt par ATB).", "entities": [{"start": 51, "end": 64, "label": "EI ttt par ATB"}]}
+{"text": "Le patient a développé un EI en cours de traitement par ATB.", "entities": [{"start": 29, "end": 42, "label": "EI ttt par ATB"}]}
+{"text": "Effet indésirable (EI) lié à un traitement antibiotique pré-opératoire.", "entities": [{"start": 18, "end": 31, "label": "EI ttt par ATB"}]}
+
+// EI sterilisée
+
+{"text": "Effet indésirable stérilisé observé chez le patient.", "entities": [{"start": 0, "end": 21, "label": "EI sterilisée"}]}
+{"text": "L'effet indésirable a été stérilisé selon les protocoles.", "entities": [{"start": 2, "end": 27, "label": "EI sterilisée"}]}
+{"text": "Le traitement a permis de stériliser l'effet indésirable (EI).", "entities": [{"start": 29, "end": 51, "label": "EI sterilisée"}]}
+
+// Atteinte neuro-musculo-squelettique
+
+{"text": "Le patient souffre d'atteinte neuro-musculo-squelettique nécessitant une rééducation.", "entities": [{"start": 18, "end": 51, "label": "Atteinte neuro-musculo-squelettique"}]}
+{"text": "Antécédent d'atteinte neuro-musculo-squelettique répertorié.", "entities": [{"start": 12, "end": 45, "label": "Atteinte neuro-musculo-squelettique"}]}
+{"text": "Une atteinte au niveau neuro-musculo-squelettique a été diagnostiquée.", "entities": [{"start": 14, "end": 48, "label": "Atteinte neuro-musculo-squelettique"}]}
+
+// Stenose carotidienne ou intervention
+
+{"text": "Sténose carotidienne confirmée par intervention.", "entities": [{"start": 0, "end": 23, "label": "Stenose carotidienne ou intervention"}]}
+{"text": "Le patient a subi une intervention pour sténose carotidienne.", "entities": [{"start": 33, "end": 56, "label": "Stenose carotidienne ou intervention"}]}
+{"text": "Une intervention sur la sténose carotidienne a été effectuée.", "entities": [{"start": 20, "end": 43, "label": "Stenose carotidienne ou intervention"}]}
+
+// AOMI
+
+{"text": "AOMI décelé lors de l'examen clinique.", "entities": [{"start": 0, "end": 4, "label": "AOMI"}]}
+{"text": "Diagnostic d'AOMI posé en pré-opératoire.", "entities": [{"start": 12, "end": 16, "label": "AOMI"}]}
+{"text": "L'examen révèle une atteinte de type AOMI.", "entities": [{"start": 32, "end": 36, "label": "AOMI"}]}
+
+// Aorte intervention
+
+{"text": "Une intervention aortique a été programmée.", "entities": [{"start": 14, "end": 32, "label": "Aorte intervention"}]}
+{"text": "L'intervention sur l'aorte est prévue pour stabiliser le patient.", "entities": [{"start": 20, "end": 38, "label": "Aorte intervention"}]}
+{"text": "Le patient nécessitera une intervention aortique.", "entities": [{"start": 34, "end": 52, "label": "Aorte intervention"}]}
+
+// NYHA
+
+{"text": "Classe NYHA III pour le patient, nécessitant une surveillance accrue.", "entities": [{"start": 6, "end": 10, "label": "NYHA"}]}
+{"text": "Le patient est classé NYHA IV en pré-opératoire.", "entities": [{"start": 22, "end": 26, "label": "NYHA"}]}
+{"text": "Classement NYHA du patient : stade II.", "entities": [{"start": 10, "end": 14, "label": "NYHA"}]}
+
+// ATCD d\'autre chirurgie avec ouverture pericardiaque
+
+{"text": "Antécédent de chirurgie avec ouverture péricardiaque noté.", "entities": [{"start": 15, "end": 60, "label": "ATCD d'autre chirurgie avec ouverture pericardiaque"}]}
+{"text": "Le patient a subi une chirurgie précédente avec ouverture péricardiaque.", "entities": [{"start": 21, "end": 71, "label": "ATCD d'autre chirurgie avec ouverture pericardiaque"}]}
+{"text": "Un antécédent de chirurgie péricardique a été enregistré.", "entities": [{"start": 16, "end": 55, "label": "ATCD d'autre chirurgie avec ouverture pericardiaque"}]}
+
+// Nombre
+
+{"text": "Nombre de procédures effectuées sur le patient : 3.", "entities": [{"start": 0, "end": 6, "label": "Nombre"}]}
+{"text": "Le nombre de consultations pour ce cas atteint quatre.", "entities": [{"start": 3, "end": 9, "label": "Nombre"}]}
+{"text": "Nombre de visites de suivi : 5.", "entities": [{"start": 0, "end": 6, "label": "Nombre"}]}
+
+// Type d\'intervention cardiaque ANT
+
+{"text": "Le type d'intervention cardiaque antérieure est spécifié.", "entities": [{"start": 7, "end": 42, "label": "Type d'intervention cardiaque ANT"}]}
+{"text": "Une intervention cardiaque de type antérieure a été pratiquée.", "entities": [{"start": 11, "end": 47, "label": "Type d'intervention cardiaque ANT"}]}
+{"text": "Antécédent de type d'intervention cardiaque enregistré.", "entities": [{"start": 12, "end": 47, "label": "Type d'intervention cardiaque ANT"}]}
+
+// HTA
+
+{"text": "Hypertension artérielle détectée chez le patient.", "entities": [{"start": 0, "end": 3, "label": "HTA"}]}
+{"text": "HTA diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "HTA"}]}
+{"text": "Le patient présente une hypertension (HTA) nécessitant un suivi.", "entities": [{"start": 37, "end": 40, "label": "HTA"}]}
+
+// Hypercholestérolémie
+
+{"text": "Le patient présente un taux de cholestérol élevé.", "entities": [{"start": 20, "end": 41, "label": "Hypercholestérolémie"}]}
+{"text": "Hypercholestérolémie détectée lors du bilan médical.", "entities": [{"start": 0, "end": 21, "label": "Hypercholestérolémie"}]}
+{"text": "Antécédent d'hypercholestérolémie à surveiller.", "entities": [{"start": 13, "end": 34, "label": "Hypercholestérolémie"}]}
+
+// Tabac
+
+{"text": "Le patient a des antécédents de consommation de tabac.", "entities": [{"start": 0, "end": 42, "label": "Tabac"}]}
+{"text": "Antécédents de tabagisme notés dans le dossier médical.", "entities": [{"start": 0, "end": 44, "label": "Tabac"}]}
+{"text": "Le patient fume depuis plusieurs années, ce qui est un facteur de risque.", "entities": [{"start": 0, "end": 70, "label": "Tabac"}]}
+
+// FA
+
+{"text": "Le patient présente une fibrillation atriale au moment de l'examen.", "entities": [{"start": 0, "end": 63, "label": "FA"}]}
+{"text": "Diagnostic de FA confirmé par un électrocardiogramme.", "entities": [{"start": 0, "end": 51, "label": "FA"}]}
+{"text": "Historique de fibrillation atriale récurrente chez ce patient.", "entities": [{"start": 0, "end": 60, "label": "FA"}]}
+
+// Stimulateur cardiaque implanté
+
+{"text": "Un stimulateur cardiaque a été implanté chez le patient en 2020.", "entities": [{"start": 0, "end": 66, "label": "Stimulateur cardiaque implanté"}]}
+{"text": "Le patient a un antécédent de stimulateur cardiaque implanté, ce qui est noté.", "entities": [{"start": 0, "end": 78, "label": "Stimulateur cardiaque implanté"}]}
+{"text": "Il y a un stimulateur cardiaque implanté en cours de suivi dans ce dossier médical.", "entities": [{"start": 0, "end": 88, "label": "Stimulateur cardiaque implanté"}]}
+
+// Angor classe IV
+
+{"text": "Le patient est classé en stade IV d'angor.", "entities": [{"start": 22, "end": 26, "label": "Angor classe IV"}]}
+{"text": "Diagnostic d'angor de classe IV établi.", "entities": [{"start": 13, "end": 17, "label": "Angor classe IV"}]}
+{"text": "Classement en stade IV d'angor pour ce patient.", "entities": [{"start": 17, "end": 21, "label": "Angor classe IV"}]}
+
+// 'IDM<90j'
+
+{"text": "Le patient a eu un infarctus du myocarde il y a 60 jours.", "entities": [{"start": 23, "end": 29, "label": "IDM<90j"}]}
+{"text": "Infarctus du myocarde datant de moins de 90 jours.", "entities": [{"start": 0, "end": 6, "label": "IDM<90j"}]}
+{"text": "Historique d'infarctus du myocarde récent, il y a 80 jours.", "entities": [{"start": 11, "end": 17, "label": "IDM<90j"}]}
+
+// 'TV ou FV<24h',
+
+{"text": "Le patient a eu une tachycardie ventriculaire il y a 12 heures.", "entities": [{"start": 23, "end": 29, "label": "TV ou FV<24h"}]}
+{"text": "Fibrillation ventriculaire survenue il y a moins de 24 heures.", "entities": [{"start": 0, "end": 6, "label": "TV ou FV<24h"}]}
+{"text": "Historique de tachycardie ventriculaire récente, il y a 20 heures.", "entities": [{"start": 11, "end": 17, "label": "TV ou FV<24h"}]}
+
+// 'Choc cardiogénique/anurie/oligurie<24h',
+
+{"text": "Le patient a eu un choc cardiogénique il y a 12 heures.", "entities": [{"start": 23, "end": 39, "label": "Choc cardiogénique/anurie/oligurie<24h"}]}
+{"text": "Anurie survenue il y a moins de 24 heures.", "entities": [{"start": 0, "end": 5, "label": "Choc cardiogénique/anurie/oligurie<24h"}]}
+{"text": "Historique de choc cardiogénique récent, il y a 20 heures.", "entities": [{"start": 11, "end": 27, "label": "Choc cardiogénique/anurie/oligurie<24h"}]}
+
+// 'Inotropes voie IV',
+
+{"text": "Le patient a reçu des inotropes par voie intraveineuse.", "entities": [{"start": 23, "end": 39, "label": "Inotropes voie IV"}]}
+{"text": "Inotropes administrés par voie IV pour stabiliser le patient.", "entities": [{"start": 0, "end": 6, "label": "Inotropes voie IV"}]}
+{"text": "Historique d'inotropes par voie IV récents.", "entities": [{"start": 11, "end": 27, "label": "Inotropes voie IV"}]}
+
+// 'Ballon contre pulsion',
+
+{"text": "Le patient a bénéficié d'un ballon de contre-pulsion.", "entities": [{"start": 23, "end": 43, "label": "Ballon contre pulsion"}]}
+{"text": "Ballon de contre-pulsion utilisé pour stabiliser le patient.", "entities": [{"start": 0, "end": 6, "label": "Ballon contre pulsion"}]}
+{"text": "Historique de ballon de contre-pulsion récent.", "entities": [{"start": 11, "end": 27, "label": "Ballon contre pulsion"}]}
+
+// 'ECMO/ECLS',
+
+{"text": "Le patient a été placé sous ECMO pour stabiliser son état.", "entities": [{"start": 23, "end": 27, "label": "ECMO/ECLS"}]}
+{"text": "ECMO utilisé pour maintenir la circulation sanguine.", "entities": [{"start": 0, "end": 3, "label": "ECMO/ECLS"}]}
+{"text": "Historique d'ECMO récent pour ce patient.", "entities": [{"start": 11, "end": 15, "label": "ECMO/ECLS"}]}
+
+// 'Intubation pré op',
+
+{"text": "Le patient a été intubé avant l'opération.", "entities": [{"start": 23, "end": 31, "label": "Intubation pré op"}]}
+{"text": "Intubation réalisée en pré-opératoire pour la chirurgie.", "entities": [{"start": 0, "end": 9, "label": "Intubation pré op"}]}
+{"text": "Historique d'intubation pré-opératoire récente.", "entities": [{"start": 11, "end": 27, "label": "Intubation pré op"}]}
+
+// 'Massage cardiaque pré op',
+
+{"text": "Le patient a reçu un massage cardiaque avant l'opération.", "entities": [{"start": 23, "end": 43, "label": "Massage cardiaque pré op"}]}
+{"text": "Massage cardiaque effectué en pré-opératoire pour stabiliser le patient.", "entities": [{"start": 0, "end": 6, "label": "Massage cardiaque pré op"}]}
+{"text": "Historique de massage cardiaque pré-opératoire récent.", "entities": [{"start": 11, "end": 27, "label": "Massage cardiaque pré op"}]}
+
+// 'FEVG',
+
+{"text": "Fraction d'éjection ventriculaire gauche (FEVG) mesurée à 50%.", "entities": [{"start": 0, "end": 4, "label": "FEVG"}]}
+{"text": "FEVG évaluée à 55% lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 4, "label": "FEVG"}]}
+{"text": "La FEVG est de 60% selon les résultats des examens.", "entities": [{"start": 3, "end": 7, "label": "FEVG"}]}
+
+// 'PAPS'
+
+{"text": "Pression artérielle pulmonaire systolique (PAPS) mesurée à 30 mmHg.", "entities": [{"start": 0, "end": 4, "label": "PAPS"}]}
+{"text": "PAPS évaluée à 35 mmHg lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 4, "label": "PAPS"}]}
+{"text": "La PAPS est de 40 mmHg selon les résultats des examens.", "entities": [{"start": 3, "end": 7, "label": "PAPS"}]}
+
+// 'Degré d\'urgence',
+
+{"text": "Le degré d'urgence de l'intervention est évalué à 3.", "entities": [{"start": 3, "end": 19, "label": "Degré d'urgence"}]}
+{"text": "Degré d'urgence de l'opération classé à 2 sur une échelle de 5.", "entities": [{"start": 0, "end": 16, "label": "Degré d'urgence"}]}
+{"text": "Le patient nécessite une intervention en urgence de degré 1.", "entities": [{"start": 33, "end": 49, "label": "Degré d'urgence"}]}
+
+// 'Complexité de l\'intervention',
+
+{"text": "L'intervention est classée comme complexe selon les critères.", "entities": [{"start": 23, "end": 45, "label": "Complexité de l'intervention"}]}
+{"text": "Complexité de l'opération évaluée comme moyenne par l'équipe.", "entities": [{"start": 0, "end": 22, "label": "Complexité de l'intervention"}]}
+{"text": "Le patient nécessite une intervention de complexité élevée.", "entities": [{"start": 33, "end": 55, "label": "Complexité de l'intervention"}]}
+
+// 'Chirurgie de l\'aorte',
+
+{"text": "Le patient a subi une chirurgie de l'aorte en 2020.", "entities": [{"start": 23, "end": 42, "label": "Chirurgie de l'aorte"}]}
+{"text": "Chirurgie de l'aorte pratiquée pour traiter une sténose.", "entities": [{"start": 0, "end": 19, "label": "Chirurgie de l'aorte"}]}
+{"text": "Historique de chirurgie de l'aorte récente pour ce patient.", "entities": [{"start": 11, "end": 30, "label": "Chirurgie de l'aorte"}]}
+
+// 'Flap intimal',
+
+{"text": "Flap intimal détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 10, "label": "Flap intimal"}]}
+{"text": "Le patient présente un flap intimal nécessitant une surveillance.", "entities": [{"start": 21, "end": 31, "label": "Flap intimal"}]}
+{"text": "Flap intimal diagnostiqué lors des examens pré-opératoires.", "entities": [{"start": 0, "end": 10, "label": "Flap intimal"}]}
+
+// 'Maladie des tissus elastiques',
+
+{"text": "Maladie des tissus élastiques confirmée par les analyses.", "entities": [{"start": 0, "end": 32, "label": "Maladie des tissus elastiques"}]}
+{"text": "Le patient souffre de maladie des tissus élastiques nécessitant un suivi.", "entities": [{"start": 18, "end": 50, "label": "Maladie des tissus elastiques"}]}
+{"text": "Maladie des tissus élastiques détectée lors des examens médicaux.", "entities": [{"start": 0, "end": 32, "label": "Maladie des tissus elastiques"}]}
+
+// 'CIV post infarctus',
+
+{"text": "Communication interventriculaire (CIV) détectée après un infarctus.", "entities": [{"start": 0, "end": 3, "label": "CIV post infarctus"}]}
+{"text": "Le patient présente une CIV suite à un infarctus du myocarde.", "entities": [{"start": 21, "end": 24, "label": "CIV post infarctus"}]}
+{"text": "CIV diagnostiquée après un infarctus lors des examens.", "entities": [{"start": 0, "end": 3, "label": "CIV post infarctus"}]}
+
+// 'NB branche coronaire sténosées',
+
+{"text": "Le patient a deux branches coronaires sténosées.", "entities": [{"start": 23, "end": 50, "label": "NB branche coronaire sténosées"}]}
+{"text": "Nombre de branches coronaires sténosées : trois.", "entities": [{"start": 0, "end": 37, "label": "NB branche coronaire sténosées"}]}
+{"text": "Le patient présente une sténose sur une branche coronaire.", "entities": [{"start": 33, "end": 60, "label": "NB branche coronaire sténosées"}]}
+
+// 'SS TCCG',
+
+{"text": "Le patient a une sténose sous-totale de l'artère coronaire gauche.", "entities": [{"start": 23, "end": 33, "label": "SS TCCG"}]}
+{"text": "Sténose sous-totale de l'artère coronaire gauche détectée.", "entities": [{"start": 0, "end": 10, "label": "SS TCCG"}]}
+{"text": "Le patient présente une sténose sous-totale de l'ACG.", "entities": [{"start": 33, "end": 43, "label": "SS TCCG"}]}
+
+// 'ATCD ATL/Stent',
+
+{"text": "Antécédent de stent posé sur l'artère thoracique latérale.", "entities": [{"start": 12, "end": 17, "label": "ATCD ATL/Stent"}]}
+{"text": "Le patient a un antécédent de stent sur l'ATL.", "entities": [{"start": 33, "end": 38, "label": "ATCD ATL/Stent"}]}
+{"text": "Historique de stent posé sur l'artère thoracique latérale.", "entities": [{"start": 11, "end": 16, "label": "ATCD ATL/Stent"}]}
+
+// 'IA(0/1/2/3/4)',
+
+{"text": "Insuffisance aortique de grade 2 diagnostiquée chez le patient.", "entities": [{"start": 0, "end": 18, "label": "IA(0/1/2/3/4)"}]}
+{"text": "Le patient présente une insuffisance aortique de grade 3.", "entities": [{"start": 21, "end": 39, "label": "IA(0/1/2/3/4)"}]}
+{"text": "Diagnostic d'insuffisance aortique de grade 4 chez ce patient.", "entities": [{"start": 12, "end": 30, "label": "IA(0/1/2/3/4)"}]}
+
+// 'RA',
+
+{"text": "Régurgitation aortique détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "RA"}]}
+{"text": "Le patient présente une régurgitation aortique nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "RA"}]}
+{"text": "Régurgitation aortique diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "RA"}]}
+
+// 'Etiologie valve aortique',
+
+{"text": "L'étiologie de la valve aortique est une malformation congénitale.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve aortique"}]}
+{"text": "Etiologie de la valve aortique : calcification des valves.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve aortique"}]}
+{"text": "Le patient présente une étiologie de la valve aortique inconnue.", "entities": [{"start": 18, "end": 43, "label": "Etiologie valve aortique"}]}
+
+// 'IM(0/1/2/3/4)',
+
+{"text": "Insuffisance mitrale de grade 2 diagnostiquée chez le patient.", "entities": [{"start": 0, "end": 17, "label": "IM(0/1/2/3/4)"}]}
+{"text": "Le patient présente une insuffisance mitrale de grade 3.", "entities": [{"start": 21, "end": 38, "label": "IM(0/1/2/3/4)"}]}
+{"text": "Diagnostic d'insuffisance mitrale de grade 4 chez ce patient.", "entities": [{"start": 12, "end": 29, "label": "IM(0/1/2/3/4)"}]}
+
+// 'RM',
+
+{"text": "Régurgitation mitrale détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "RM"}]}
+{"text": "Le patient présente une régurgitation mitrale nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "RM"}]}
+{"text": "Régurgitation mitrale diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "RM"}]}
+
+// 'Etiologie valve mitrale',
+
+{"text": "L'étiologie de la valve mitrale est une malformation congénitale.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve mitrale"}]}
+{"text": "Etiologie de la valve mitrale : calcification des valves.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve mitrale"}]}
+{"text": "Le patient présente une étiologie de la valve mitrale inconnue.", "entities": [{"start": 18, "end": 43, "label": "Etiologie valve mitrale"}]}
+
+// 'IT',
+
+{"text": "Insuffisance tricuspide détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "IT"}]}
+{"text": "Le patient présente une insuffisance tricuspide nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "IT"}]}
+{"text": "Insuffisance tricuspide diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "IT"}]}
+
+// 'Etiologie valve tricuspide',
+
+{"text": "L'étiologie de la valve tricuspide est une malformation congénitale.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve tricuspide"}]}
+{"text": "Etiologie de la valve tricuspide : calcification des valves.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve tricuspide"}]}
+{"text": "Le patient présente une étiologie de la valve tricuspide inconnue.", "entities": [{"start": 18, "end": 43, "label": "Etiologie valve tricuspide"}]}
+
+// 'IP',
+
+{"text": "Insuffisance pulmonaire détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "IP"}]}
+{"text": "Le patient présente une insuffisance pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "IP"}]}
+{"text": "Insuffisance pulmonaire diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "IP"}]}
+
+// 'RP',
+
+{"text": "Régurgitation pulmonaire détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "RP"}]}
+{"text": "Le patient présente une régurgitation pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "RP"}]}
+{"text": "Régurgitation pulmonaire diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "RP"}]}
+
+// 'Etiologie valve pulmonaire'
+
+{"text": "L'étiologie de la valve pulmonaire est une malformation congénitale.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve pulmonaire"}]}
+{"text": "Etiologie de la valve pulmonaire : calcification des valves.", "entities": [{"start": 0, "end": 25, "label": "Etiologie valve pulmonaire"}]}
+{"text": "Le patient présente une étiologie de la valve pulmonaire inconnue.", "entities": [{"start": 18, "end": 43, "label": "Etiologie valve pulmonaire"}]}
+
+// 'AVK pre op',
+
+{"text": "Le patient est sous traitement anticoagulant (AVK) avant l'opération.", "entities": [{"start": 41, "end": 44, "label": "AVK pre op"}]}
+{"text": "Traitement anticoagulant (AVK) administré en pré-opératoire.", "entities": [{"start": 0, "end": 3, "label": "AVK pre op"}]}
+{"text": "Le patient nécessite un suivi pour son traitement anticoagulant (AVK).", "entities": [{"start": 47, "end": 50, "label": "AVK pre op"}]}
+
+// 'NACO pre op',
+
+{"text": "Le patient est sous traitement anticoagulant oral non antivitamine K (NACO) avant l'opération.", "entities": [{"start": 51, "end": 55, "label": "NACO pre op"}]}
+{"text": "Traitement anticoagulant oral non antivitamine K (NACO) administré en pré-opératoire.", "entities": [{"start": 0, "end": 4, "label": "NACO pre op"}]}
+{"text": "Le patient nécessite un suivi pour son traitement anticoagulant oral non antivitamine K (NACO).", "entities": [{"start": 58, "end": 62, "label": "NACO pre op"}]}
+
+// 'AAG pre op',
+
+{"text": "Le patient est sous traitement antiagrégant (AAG) avant l'opération.", "entities": [{"start": 41, "end": 44, "label": "AAG pre op"}]}
+{"text": "Traitement antiagrégant (AAG) administré en pré-opératoire.", "entities": [{"start": 0, "end": 3, "label": "AAG pre op"}]}
+{"text": "Le patient nécessite un suivi pour son traitement antiagrégant (AAG).", "entities": [{"start": 47, "end": 50, "label": "AAG pre op"}]}
+
+// 'double AAG',
+
+{"text": "Le patient est sous double traitement antiagrégant (double AAG) avant l'opération.", "entities": [{"start": 41, "end": 50, "label": "double AAG"}]}
+{"text": "Double traitement antiagrégant (double AAG) administré en pré-opératoire.", "entities": [{"start": 0, "end": 9, "label": "double AAG"}]}
+{"text": "Le patient nécessite un suivi pour son double traitement antiagrégant (double AAG).", "entities": [{"start": 53, "end": 62, "label": "double AAG"}]}
+
+// 'Sars Cov 2 prouvé par PCR',
+
+{"text": "Le patient est positif au Sars Cov 2 selon le test PCR.", "entities": [{"start": 21, "end": 31, "label": "Sars Cov 2 prouvé par PCR"}]}
+{"text": "Test PCR positif pour le Sars Cov 2 chez ce patient.", "entities": [{"start": 9, "end": 19, "label": "Sars Cov 2 prouvé par PCR"}]}
+{"text": "Le patient a été testé positif pour le Sars Cov 2 par PCR.", "entities": [{"start": 33, "end": 43, "label": "Sars Cov 2 prouvé par PCR"}]}
+
+// 'COVID 19 symptomatique',
+
+{"text": "Le patient présente des symptômes de la COVID 19.", "entities": [{"start": 33, "end": 40, "label": "COVID 19 symptomatique"}]}
+{"text": "Symptômes de la COVID 19 détectés lors de l'examen clinique.", "entities": [{"start": 12, "end": 19, "label": "COVID 19 symptomatique"}]}
+{"text": "Le patient est considéré comme COVID 19 symptomatique.", "entities": [{"start": 26, "end": 33, "label": "COVID 19 symptomatique"}]}
+
+// 'Patient reculé pour COVID 19',
+
+{"text": "Le patient a été renvoyé pour un test COVID 19.", "entities": [{"start": 33, "end": 40, "label": "Patient reculé pour COVID 19"}]}
+{"text": "Test COVID 19 demandé pour le patient renvoyé.", "entities": [{"start": 5, "end": 12, "label": "Patient reculé pour COVID 19"}]}
+{"text": "Le patient a été renvoyé pour un test de dépistage COVID 19.", "entities": [{"start": 45, "end": 52, "label": "Patient reculé pour COVID 19"}]}
+
+// 'DTD',
+
+{"text": "Dilatation du tronc droit (DTD) détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "DTD"}]}
+{"text": "Le patient présente une dilatation du tronc droit (DTD) nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "DTD"}]}
+{"text": "Dilatation du tronc droit (DTD) diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "DTD"}]}
+
+// 'DTS',
+
+{"text": "Dilatation du tronc saphène (DTS) détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "DTS"}]}
+{"text": "Le patient présente une dilatation du tronc saphène (DTS) nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "DTS"}]}
+{"text": "Dilatation du tronc saphène (DTS) diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "DTS"}]}
+
+// 'SIV',
+
+{"text": "Séparation interventriculaire (SIV) détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "SIV"}]}
+{"text": "Le patient présente une séparation interventriculaire (SIV) nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "SIV"}]}
+{"text": "Séparation interventriculaire (SIV) diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "SIV"}]}
+
+// 'Paroi postérieure',
+
+{"text": "Epaississement de la paroi postérieure détecté lors de l'échographie cardiaque.", "entities": [{"start": 15, "end": 31, "label": "Paroi postérieure"}]}
+{"text": "Le patient présente un épaississement de la paroi postérieure nécessitant un suivi.", "entities": [{"start": 18, "end": 34, "label": "Paroi postérieure"}]}
+{"text": "Epaississement de la paroi postérieure diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 16, "label": "Paroi postérieure"}]}
+
+// 'Chambre de chasse',
+
+{"text": "Dilatation de la chambre de chasse détectée lors de l'échographie cardiaque.", "entities": [{"start": 15, "end": 31, "label": "Chambre de chasse"}]}
+{"text": "Le patient présente une dilatation de la chambre de chasse nécessitant un suivi.", "entities": [{"start": 18, "end": 34, "label": "Chambre de chasse"}]}
+{"text": "Dilatation de la chambre de chasse diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 16, "label": "Chambre de chasse"}]}
+
+// 'Cinétique paroi antérieure',
+
+{"text": "Cinétique de la paroi antérieure détectée lors de l'échographie cardiaque.", "entities": [{"start": 15, "end": 34, "label": "Cinétique paroi antérieure"}]}
+{"text": "Le patient présente une cinétique de la paroi antérieure nécessitant un suivi.", "entities": [{"start": 18, "end": 37, "label": "Cinétique paroi antérieure"}]}
+{"text": "Cinétique de la paroi antérieure diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 16, "label": "Cinétique paroi antérieure"}]}
+
+// 'Cinétique paroi latérale',
+
+{"text": "Cinétique de la paroi latérale détectée lors de l'échographie cardiaque.", "entities": [{"start": 15, "end": 33, "label": "Cinétique paroi latérale"}]}
+{"text": "Le patient présente une cinétique de la paroi latérale nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Cinétique paroi latérale"}]}
+{"text": "Cinétique de la paroi latérale diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 16, "label": "Cinétique paroi latérale"}]}
+
+// 'Cinétique paroi inférieure',
+
+{"text": "Cinétique de la paroi inférieure détectée lors de l'échographie cardiaque.", "entities": [{"start": 15, "end": 35, "label": "Cinétique paroi inférieure"}]}
+{"text": "Le patient présente une cinétique de la paroi inférieure nécessitant un suivi.", "entities": [{"start": 18, "end": 38, "label": "Cinétique paroi inférieure"}]}
+{"text": "Cinétique de la paroi inférieure diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 16, "label": "Cinétique paroi inférieure"}]}
+
+// 'Rupture pariétale ou CIV',
+
+{"text": "Rupture pariétale et communication interventriculaire (CIV) détectées lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 16, "label": "Rupture pariétale ou CIV"}]}
+{"text": "Le patient présente une rupture pariétale et une CIV nécessitant un suivi.", "entities": [{"start": 18, "end": 34, "label": "Rupture pariétale ou CIV"}]}
+{"text": "Rupture pariétale et CIV diagnostiquées lors des examens médicaux.", "entities": [{"start": 0, "end": 16, "label": "Rupture pariétale ou CIV"}]}
+
+// 'Epanchement péricardique',
+
+{"text": "Epanchement péricardique détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 22, "label": "Epanchement péricardique"}]}
+{"text": "Le patient présente un épanchement péricardique nécessitant un suivi.", "entities": [{"start": 18, "end": 40, "label": "Epanchement péricardique"}]}
+{"text": "Epanchement péricardique diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 22, "label": "Epanchement péricardique"}]}
+
+// 'VCI',
+
+{"text": "Thrombus ou tumeur dans la veine cave inférieure (VCI) détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VCI"}]}
+{"text": "Le patient présente un thrombus ou une tumeur dans la VCI nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "VCI"}]}
+{"text": "Thrombus ou tumeur dans la VCI diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VCI"}]}
+
+// 'Epaississement péricarde',
+
+{"text": "Epaississement du péricarde détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 22, "label": "Epaississement péricarde"}]}
+{"text": "Le patient présente un épaississement du péricarde nécessitant un suivi.", "entities": [{"start": 18, "end": 40, "label": "Epaississement péricarde"}]}
+{"text": "Epaississement du péricarde diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 22, "label": "Epaississement péricarde"}]}
+
+// 'Thrombus/Tumeur OD',
+
+{"text": "Thrombus ou tumeur dans l'oreillette droite (OD) détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Thrombus/Tumeur OD"}]}
+{"text": "Le patient présente un thrombus ou une tumeur dans l'OD nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "Thrombus/Tumeur OD"}]}
+{"text": "Thrombus ou tumeur dans l'OD diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Thrombus/Tumeur OD"}]}
+
+// 'Thrombus/tumeur OG',
+
+{"text": "Thrombus ou tumeur dans l'oreillette gauche (OG) détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Thrombus/tumeur OG"}]}
+{"text": "Le patient présente un thrombus ou une tumeur dans l'OG nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "Thrombus/tumeur OG"}]}
+{"text": "Thrombus ou tumeur dans l'OG diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Thrombus/tumeur OG"}]}
+
+// 'Aspect'
+
+{"text": "Aspect de la valve aortique évalué lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 5, "label": "Aspect"}]}
+{"text": "Le patient présente un aspect de la valve aortique nécessitant un suivi.", "entities": [{"start": 18, "end": 24, "label": "Aspect"}]}
+{"text": "Aspect de la valve aortique diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 5, "label": "Aspect"}]}
+
+// 'IA',
+
+{"text": "Insuffisance aortique détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "IA"}]}
+{"text": "Le patient présente une insuffisance aortique nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "IA"}]}
+{"text": "Insuffisance aortique diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "IA"}]}
+
+// 'Gradient max',
+
+{"text": "Gradient maximal mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Gradient max"}]}
+{"text": "Le patient présente un gradient maximal nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Gradient max"}]}
+{"text": "Gradient maximal diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Gradient max"}]}
+
+// 'Gradient moyen',
+
+{"text": "Gradient moyen mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Gradient moyen"}]}
+{"text": "Le patient présente un gradient moyen nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Gradient moyen"}]}
+{"text": "Gradient moyen diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Gradient moyen"}]}
+
+// 'Vmax',
+
+{"text": "Vitesse maximale mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 4, "label": "Vmax"}]}
+{"text": "Le patient présente une vitesse maximale nécessitant un suivi.", "entities": [{"start": 18, "end": 23, "label": "Vmax"}]}
+{"text": "Vitesse maximale diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 4, "label": "Vmax"}]}
+
+// 'Surface effective',
+
+{"text": "Surface effective mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 15, "label": "Surface effective"}]}
+{"text": "Le patient présente une surface effective nécessitant un suivi.", "entities": [{"start": 18, "end": 33, "label": "Surface effective"}]}
+{"text": "Surface effective diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 15, "label": "Surface effective"}]}
+
+// 'Surace indexéee',
+
+{"text": "Surface indexée mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 15, "label": "Surface indexée"}]}
+{"text": "Le patient présente une surface indexée nécessitant un suivi.", "entities": [{"start": 18, "end": 33, "label": "Surface indexée"}]}
+{"text": "Surface indexée diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 15, "label": "Surface indexée"}]}
+
+// 'ITV sous aortique',
+
+{"text": "Insuffisance tricuspide ventriculaire sous aortique détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "ITV sous aortique"}]}
+{"text": "Le patient présente une insuffisance tricuspide ventriculaire sous aortique nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "ITV sous aortique"}]}
+{"text": "Insuffisance tricuspide ventriculaire sous aortique diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "ITV sous aortique"}]}
+
+// 'ITV aortique',
+
+{"text": "Insuffisance tricuspide ventriculaire aortique détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "ITV aortique"}]}
+{"text": "Le patient présente une insuffisance tricuspide ventriculaire aortique nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "ITV aortique"}]}
+{"text": "Insuffisance tricuspide ventriculaire aortique diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "ITV aortique"}]}
+
+// 'Index de perméabillité',
+
+{"text": "Index de perméabilité mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 21, "label": "Index de perméabillité"}]}
+{"text": "Le patient présente un index de perméabilité nécessitant un suivi.", "entities": [{"start": 18, "end": 39, "label": "Index de perméabillité"}]}
+{"text": "Index de perméabilité diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 21, "label": "Index de perméabillité"}]}
+
+// 'SOR',
+
+{"text": "Surface orificielle régurgitante mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "SOR"}]}
+{"text": "Le patient présente une surface orificielle régurgitante nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "SOR"}]}
+{"text": "Surface orificielle régurgitante diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "SOR"}]}
+
+// 'Volume regurgitant',
+
+{"text": "Volume régurgitant mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 17, "label": "Volume regurgitant"}]}
+{"text": "Le patient présente un volume régurgitant nécessitant un suivi.", "entities": [{"start": 18, "end": 35, "label": "Volume regurgitant"}]}
+{"text": "Volume régurgitant diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 17, "label": "Volume regurgitant"}]}
+
+// 'Temps 1/2 pression',
+
+{"text": "Temps de demi-pression mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 18, "label": "Temps 1/2 pression"}]}
+{"text": "Le patient présente un temps de demi-pression nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Temps 1/2 pression"}]}
+{"text": "Temps de demi-pression diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 18, "label": "Temps 1/2 pression"}]}
+
+// 'Reflux diastolique crosse (OUI/NON)',
+
+{"text": "Reflux diastolique de la crosse détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 18, "label": "Reflux diastolique crosse (OUI/NON)"}]}
+{"text": "Le patient présente un reflux diastolique de la crosse nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Reflux diastolique crosse (OUI/NON)"}]}
+{"text": "Reflux diastolique de la crosse diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 18, "label": "Reflux diastolique crosse (OUI/NON)"}]}
+
+// 'IM',
+
+{"text": "Insuffisance mitrale détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "IM"}]}
+{"text": "Le patient présente une insuffisance mitrale nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "IM"}]}
+{"text": "Insuffisance mitrale diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "IM"}]}
+
+// 'Prolapsus',
+
+{"text": "Prolapsus de la valve mitrale détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 8, "label": "Prolapsus"}]}
+{"text": "Le patient présente un prolapsus nécessitant un suivi.", "entities": [{"start": 18, "end": 26, "label": "Prolapsus"}]}
+{"text": "Prolapsus de la valve mitrale diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 8, "label": "Prolapsus"}]}
+
+// 'Rupture de cordage',
+
+{"text": "Rupture de cordage détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 15, "label": "Rupture de cordage"}]}
+{"text": "Le patient présente une rupture de cordage nécessitant un suivi.", "entities": [{"start": 18, "end": 33, "label": "Rupture de cordage"}]}
+{"text": "Rupture de cordage diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 15, "label": "Rupture de cordage"}]}
+
+// 'IM dystrophique (Barlow)',
+
+{"text": "Insuffisance mitrale dystrophique (Barlow) détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "IM dystrophique (Barlow)"}]}
+{"text": "Le patient présente une insuffisance mitrale dystrophique (Barlow) nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "IM dystrophique (Barlow)"}]}
+{"text": "Insuffisance mitrale dystrophique (Barlow) diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "IM dystrophique (Barlow)"}]}
+
+// 'Cordages épaissis/raccourcis',
+
+{"text": "Cordages épaissis et raccourcis détectés lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 8, "label": "Cordages épaissis/raccourcis"}]}
+{"text": "Le patient présente des cordages épaissis et raccourcis nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Cordages épaissis/raccourcis"}]}
+{"text": "Cordages épaissis et raccourcis diagnostiqués lors des examens médicaux.", "entities": [{"start": 0, "end": 8, "label": "Cordages épaissis/raccourcis"}]}
+
+// 'Calcifications',
+
+{"text": "Calcifications de la valve mitrale détectées lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Calcifications"}]}
+{"text": "Le patient présente des calcifications nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Calcifications"}]}
+{"text": "Calcifications de la valve mitrale diagnostiquées lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Calcifications"}]}
+
+// 'Diamètre anneau mitral',
+
+{"text": "Diamètre de l'anneau mitral mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau mitral"}]}
+{"text": "Le patient présente un diamètre de l'anneau mitral nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Diamètre anneau mitral"}]}
+{"text": "Diamètre de l'anneau mitral diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau mitral"}]}
+
+// 'OG dilatée',
+
+{"text": "Oreillette gauche dilatée détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "OG dilatée"}]}
+{"text": "Le patient présente une oreillette gauche dilatée nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "OG dilatée"}]}
+{"text": "Oreillette gauche dilatée diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "OG dilatée"}]}
+
+// 'Surface de l\'OG',
+
+{"text": "Surface de l'oreillette gauche mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 17, "label": "Surface de l'OG"}]}
+{"text": "Le patient présente une surface de l'oreillette gauche nécessitant un suivi.", "entities": [{"start": 18, "end": 35, "label": "Surface de l'OG"}]}
+{"text": "Surface de l'oreillette gauche diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 17, "label": "Surface de l'OG"}]}
+
+// 'Volume de l\'OG',
+
+{"text": "Volume de l'oreillette gauche mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 17, "label": "Volume de l'OG"}]}
+{"text": "Le patient présente un volume de l'oreillette gauche nécessitant un suivi.", "entities": [{"start": 18, "end": 35, "label": "Volume de l'OG"}]}
+{"text": "Volume de l'oreillette gauche diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 17, "label": "Volume de l'OG"}]}
+
+// 'Volume indexé de l\'OG',
+
+{"text": "Volume indexé de l'oreillette gauche mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 17, "label": "Volume indexé de l'OG"}]}
+{"text": "Le patient présente un volume indexé de l'oreillette gauche nécessitant un suivi.", "entities": [{"start": 18, "end": 35, "label": "Volume indexé de l'OG"}]}
+{"text": "Volume indexé de l'oreillette gauche diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 17, "label": "Volume indexé de l'OG"}]}
+
+// 'RM : surface effective',
+
+{"text": "Surface effective de la valve mitrale mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 15, "label": "RM : surface effective"}]}
+{"text": "Le patient présente une surface effective de la valve mitrale nécessitant un suivi.", "entities": [{"start": 18, "end": 33, "label": "RM : surface effective"}]}
+{"text": "Surface effective de la valve mitrale diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 15, "label": "RM : surface effective"}]}
+
+// 'RM : gradient moyen',
+
+{"text": "Gradient moyen de la valve mitrale mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "RM : gradient moyen"}]}
+{"text": "Le patient présente un gradient moyen de la valve mitrale nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "RM : gradient moyen"}]}
+{"text": "Gradient moyen de la valve mitrale diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "RM : gradient moyen"}]}
+
+// 'Diamètre anneau tricuspide',
+
+{"text": "Diamètre de l'anneau tricuspide mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau tricuspide"}]}
+{"text": "Le patient présente un diamètre de l'anneau tricuspide nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Diamètre anneau tricuspide"}]}
+{"text": "Diamètre de l'anneau tricuspide diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau tricuspide"}]}
+
+// 'TAPSE',
+
+{"text": "TAPSE mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 4, "label": "TAPSE"}]}
+{"text": "Le patient présente un TAPSE nécessitant un suivi.", "entities": [{"start": 18, "end": 23, "label": "TAPSE"}]}
+{"text": "TAPSE diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 4, "label": "TAPSE"}]}
+
+// 'Strain longitudinal global',
+
+{"text": "Strain longitudinal global mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 24, "label": "Strain longitudinal global"}]}
+{"text": "Le patient présente un strain longitudinal global nécessitant un suivi.", "entities": [{"start": 18, "end": 42, "label": "Strain longitudinal global"}]}
+{"text": "Strain longitudinal global diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 24, "label": "Strain longitudinal global"}]}
+
+// 'S\'',
+
+{"text": "S' mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "S'"}]}
+{"text": "Le patient présente un S' nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "S'"}]}
+{"text": "S' diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "S'"}]}
+
+// 'Rapport E/A',
+
+{"text": "Rapport E/A mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 10, "label": "Rapport E/A"}]}
+{"text": "Le patient présente un rapport E/A nécessitant un suivi.", "entities": [{"start": 18, "end": 28, "label": "Rapport E/A"}]}
+{"text": "Rapport E/A diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 10, "label": "Rapport E/A"}]}
+
+// 'Rapport E/E\'',
+
+{"text": "Rapport E/E' mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 10, "label": "Rapport E/E'"}]}
+{"text": "Le patient présente un rapport E/E' nécessitant un suivi.", "entities": [{"start": 18, "end": 28, "label": "Rapport E/E'"}]}
+{"text": "Rapport E/E' diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 10, "label": "Rapport E/E'"}]}
+
+// 'Fonction VD',
+
+{"text": "Fonction ventriculaire droite mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 15, "label": "Fonction VD"}]}
+{"text": "Le patient présente une fonction ventriculaire droite nécessitant un suivi.", "entities": [{"start": 18, "end": 33, "label": "Fonction VD"}]}
+{"text": "Fonction ventriculaire droite diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 15, "label": "Fonction VD"}]}
+
+// 'Flux inversé veines sus hépatiques',
+
+{"text": "Flux inversé des veines sus-hépatiques détecté lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 18, "label": "Flux inversé veines sus hépatiques"}]}
+{"text": "Le patient présente un flux inversé des veines sus-hépatiques nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Flux inversé veines sus hépatiques"}]}
+{"text": "Flux inversé des veines sus-hépatiques diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 18, "label": "Flux inversé veines sus hépatiques"}]}
+
+// 'Dilatation OD',
+
+{"text": "Dilatation de l'oreillette droite détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Dilatation OD"}]}
+{"text": "Le patient présente une dilatation de l'oreillette droite nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Dilatation OD"}]}
+{"text": "Dilatation de l'oreillette droite diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Dilatation OD"}]}
+
+// 'Dilatation VD',
+
+{"text": "Dilatation du ventricule droit détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Dilatation VD"}]}
+{"text": "Le patient présente une dilatation du ventricule droit nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Dilatation VD"}]}
+{"text": "Dilatation du ventricule droit diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Dilatation VD"}]}
+
+// 'Dilatation VCI',
+
+{"text": "Dilatation de la veine cave inférieure détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Dilatation VCI"}]}
+{"text": "Le patient présente une dilatation de la veine cave inférieure nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Dilatation VCI"}]}
+{"text": "Dilatation de la veine cave inférieure diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Dilatation VCI"}]}
+
+// 'Insuffisance pulmonaire',
+
+{"text": "Insuffisance pulmonaire détectée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 2, "label": "Insuffisance pulmonaire"}]}
+{"text": "Le patient présente une insuffisance pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 20, "label": "Insuffisance pulmonaire"}]}
+{"text": "Insuffisance pulmonaire diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 2, "label": "Insuffisance pulmonaire"}]}
+
+// 'Diamètre anneau pulmonaire',
+
+{"text": "Diamètre de l'anneau pulmonaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau pulmonaire"}]}
+{"text": "Le patient présente un diamètre de l'anneau pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Diamètre anneau pulmonaire"}]}
+{"text": "Diamètre de l'anneau pulmonaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau pulmonaire"}]}
+
+// 'Gradient maximal pulmonaire',
+
+{"text": "Gradient maximal pulmonaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Gradient maximal pulmonaire"}]}
+{"text": "Le patient présente un gradient maximal pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Gradient maximal pulmonaire"}]}
+{"text": "Gradient maximal pulmonaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Gradient maximal pulmonaire"}]}
+
+// 'Gradient moyen pulmonaire',
+
+{"text": "Gradient moyen pulmonaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 12, "label": "Gradient moyen pulmonaire"}]}
+{"text": "Le patient présente un gradient moyen pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 30, "label": "Gradient moyen pulmonaire"}]}
+{"text": "Gradient moyen pulmonaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 12, "label": "Gradient moyen pulmonaire"}]}
+
+// 'Diamètre anneau aortique',
+
+{"text": "Diamètre de l'anneau aortique mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau aortique"}]}
+{"text": "Le patient présente un diamètre de l'anneau aortique nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Diamètre anneau aortique"}]}
+{"text": "Diamètre de l'anneau aortique diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 23, "label": "Diamètre anneau aortique"}]}
+
+// 'Sinus de valsalva',
+
+{"text": "Diamètre des sinus de valsalva mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 18, "label": "Sinus de valsalva"}]}
+{"text": "Le patient présente un diamètre des sinus de valsalva nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Sinus de valsalva"}]}
+{"text": "Diamètre des sinus de valsalva diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 18, "label": "Sinus de valsalva"}]}
+
+// 'JST',
+
+{"text": "Diamètre de l'aorte tubulaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "JST"}]}
+{"text": "Le patient présente un diamètre de l'aorte tubulaire nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "JST"}]}
+{"text": "Diamètre de l'aorte tubulaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "JST"}]}
+
+// 'Aorte tubulaire',
+
+{"text": "Diamètre de l'aorte tubulaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Aorte tubulaire"}]}
+{"text": "Le patient présente un diamètre de l'aorte tubulaire nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "Aorte tubulaire"}]}
+{"text": "Diamètre de l'aorte tubulaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Aorte tubulaire"}]}
+
+// 'Diamètre tronc artère pulmonaire',
+
+{"text": "Diamètre du tronc de l'artère pulmonaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 23, "label": "Diamètre tronc artère pulmonaire"}]}
+{"text": "Le patient présente un diamètre du tronc de l'artère pulmonaire nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Diamètre tronc artère pulmonaire"}]}
+{"text": "Diamètre du tronc de l'artère pulmonaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 23, "label": "Diamètre tronc artère pulmonaire"}]}
+
+// 'CEC',
+
+{"text": "Durée de CEC mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "CEC"}]}
+{"text": "Le patient présente une durée de CEC nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "CEC"}]}
+{"text": "Durée de CEC diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "CEC"}]}
+
+// 'Durée de clampage',
+
+{"text": "Durée de clampage mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Durée de clampage"}]}
+{"text": "Le patient présente une durée de clampage nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Durée de clampage"}]}
+{"text": "Durée de clampage diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Durée de clampage"}]}
+
+// 'Durée CEC',
+
+{"text": "Durée de CEC mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Durée CEC"}]}
+{"text": "Le patient présente une durée de CEC nécessitant un suivi.", "entities": [{"start": 18, "end": 21, "label": "Durée CEC"}]}
+{"text": "Durée de CEC diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Durée CEC"}]}
+
+// 'Intervention necessitant une protection cérébrale',
+
+{"text": "Intervention nécessitant une protection cérébrale lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 18, "label": "Intervention necessitant une protection cérébrale"}]}
+{"text": "Le patient présente une intervention nécessitant une protection cérébrale nécessitant un suivi.", "entities": [{"start": 18, "end": 36, "label": "Intervention necessitant une protection cérébrale"}]}
+{"text": "Intervention nécessitant une protection cérébrale diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 18, "label": "Intervention necessitant une protection cérébrale"}]}
+
+// 'Type de protection cérébrale',
+
+{"text": "Type de protection cérébrale mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Type de protection cérébrale"}]}
+{"text": "Le patient présente un type de protection cérébrale nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Type de protection cérébrale"}]}
+{"text": "Type de protection cérébrale diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Type de protection cérébrale"}]}
+
+// 'Geste video assisté',
+
+{"text": "Geste video assisté mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Geste video assisté"}]}
+{"text": "Le patient présente un geste video assisté nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Geste video assisté"}]}
+{"text": "Geste video assisté diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Geste video assisté"}]}
+
+// 'Voie d\'abord',
+
+{"text": "Voie d'abord mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Voie d'abord"}]}
+{"text": "Le patient présente une voie d'abord nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Voie d'abord"}]}
+{"text": "Voie d'abord diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Voie d'abord"}]}
+
+// 'Si voie d\'abord endovasculaire',
+
+{"text": "Si voie d'abord endovasculaire mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Si voie d'abord endovasculaire"}]}
+{"text": "Le patient présente une si voie d'abord endovasculaire nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Si voie d'abord endovasculaire"}]}
+{"text": "Si voie d'abord endovasculaire diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Si voie d'abord endovasculaire"}]}
+
+// 'Si voie d\'abord transthoracique',
+
+{"text": "Si voie d'abord transthoracique mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Si voie d'abord transthoracique"}]}
+{"text": "Le patient présente une si voie d'abord transthoracique nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Si voie d'abord transthoracique"}]}
+{"text": "Si voie d'abord transthoracique diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Si voie d'abord transthoracique"}]}
+
+// 'Si voie d\'abord périphérique',
+
+{"text": "Si voie d'abord périphérique mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Si voie d'abord périphérique"}]}
+{"text": "Le patient présente une si voie d'abord périphérique nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Si voie d'abord périphérique"}]}
+{"text": "Si voie d'abord périphérique diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Si voie d'abord périphérique"}]}
+
+// 'Chirurgien 1',
+
+{"text": "Chirurgien 1 mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Chirurgien 1"}]}
+{"text": "Le patient présente un chirurgien 1 nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Chirurgien 1"}]}
+{"text": "Chirurgien 1 diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Chirurgien 1"}]}
+
+// 'Chirurgien 2',
+
+{"text": "Chirurgien 2 mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Chirurgien 2"}]}
+{"text": "Le patient présente un chirurgien 2 nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Chirurgien 2"}]}
+{"text": "Chirurgien 2 diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Chirurgien 2"}]}
+
+// 'Chirurgien en formation',
+
+{"text": "Chirurgien en formation mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Chirurgien en formation"}]}
+{"text": "Le patient présente un chirurgien en formation nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Chirurgien en formation"}]}
+{"text": "Chirurgien en formation diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Chirurgien en formation"}]}
+
+// 'Type de chirurgie',
+
+{"text": "Type de chirurgie mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "Type de chirurgie"}]}
+{"text": "Le patient présente un type de chirurgie nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "Type de chirurgie"}]}
+{"text": "Type de chirurgie diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "Type de chirurgie"}]}
+
+// 'NB total de conduit artériel',
+
+{"text": "Nombre total de conduit artériel mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "NB total de conduit artériel"}]}
+{"text": "Le patient présente un nombre total de conduit artériel nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "NB total de conduit artériel"}]}
+{"text": "Nombre total de conduit artériel diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "NB total de conduit artériel"}]}
+
+// 'NB anastomoses coronaires avec conduit artériel',
+
+{"text": "Nombre d'anastomoses coronaires avec conduit artériel mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "NB anastomoses coronaires avec conduit artériel"}]}
+{"text": "Le patient présente un nombre d'anastomoses coronaires avec conduit artériel nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "NB anastomoses coronaires avec conduit artériel"}]}
+{"text": "Nombre d'anastomoses coronaires avec conduit artériel diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "NB anastomoses coronaires avec conduit artériel"}]}
+
+// 'NB total conduit veineux',
+
+{"text": "Nombre total de conduit veineux mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "NB total conduit veineux"}]}
+{"text": "Le patient présente un nombre total de conduit veineux nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "NB total conduit veineux"}]}
+{"text": "Nombre total de conduit veineux diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "NB total conduit veineux"}]}
+
+// 'NB anastomoses coronaires avec conduit veineux',
+
+{"text": "Nombre d'anastomoses coronaires avec conduit veineux mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "NB anastomoses coronaires avec conduit veineux"}]}
+{"text": "Le patient présente un nombre d'anastomoses coronaires avec conduit veineux nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "NB anastomoses coronaires avec conduit veineux"}]}
+{"text": "Nombre d'anastomoses coronaires avec conduit veineux diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "NB anastomoses coronaires avec conduit veineux"}]}
+
+// 'VA_Geste valvulaire',
+
+{"text": "Geste valvulaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Geste valvulaire"}]}
+{"text": "Le patient présente un geste valvulaire nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Geste valvulaire"}]}
+{"text": "Geste valvulaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Geste valvulaire"}]}
+
+// 'VA_Type de prothèse',
+
+{"text": "Type de prothèse mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Type de prothèse"}]}
+{"text": "Le patient présente un type de prothèse nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Type de prothèse"}]}
+{"text": "Type de prothèse diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Type de prothèse"}]}
+
+// 'VA_Fabricant',
+
+{"text": "Fabricant mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Fabricant"}]}
+{"text": "Le patient présente un fabricant nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Fabricant"}]}
+{"text": "Fabricant diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Fabricant"}]}
+
+// 'VA_Modèle',
+
+{"text": "Modèle mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Modèle"}]}
+{"text": "Le patient présente un modèle nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Modèle"}]}
+{"text": "Modèle diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Modèle"}]}
+
+// 'VA_Taille (mm)',
+
+{"text": "Taille (mm) mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Taille (mm)"}]}
+{"text": "Le patient présente une taille (mm) nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Taille (mm)"}]}
+{"text": "Taille (mm) diagnostiquée lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Taille (mm)"}]}
+
+// 'VA_Numéro de série',
+
+{"text": "Numéro de série mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Numéro de série"}]}
+{"text": "Le patient présente un numéro de série nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Numéro de série"}]}
+{"text": "Numéro de série diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Numéro de série"}]}
+
+// 'VA_Numéro de lot',
+
+{"text": "Numéro de lot mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VA_Numéro de lot"}]}
+{"text": "Le patient présente un numéro de lot nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VA_Numéro de lot"}]}
+{"text": "Numéro de lot diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VA_Numéro de lot"}]}
+
+// 'VM_Geste valvulaire',
+
+{"text": "Geste valvulaire mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VM_Geste valvulaire"}]}
+{"text": "Le patient présente un geste valvulaire nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VM_Geste valvulaire"}]}
+{"text": "Geste valvulaire diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VM_Geste valvulaire"}]}
+
+// 'VM_Type de prothèse',
+
+{"text": "Type de prothèse mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VM_Type de prothèse"}]}
+{"text": "Le patient présente un type de prothèse nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VM_Type de prothèse"}]}
+{"text": "Type de prothèse diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VM_Type de prothèse"}]}
+
+// 'VM_Fabricant',
+
+{"text": "Le fabricant de la prothèse est Medtronic.", "entities": [{"start": 0, "end": 38, "label": "VM_Fabricant"}]}
+{"text": "Cette valve est fabriquée par Medtronic.", "entities": [{"start": 0, "end": 38, "label": "VM_Fabricant"}]}
+{"text": "La prothèse a été fabriquée par Medtronic.", "entities": [{"start": 0, "end": 38, "label": "VM_Fabricant"}]}
+
+// 'VM_Modèle',
+
+{"text": "Modèle mesuré lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VM_Modèle"}]}
+{"text": "Le patient présente un modèle nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VM_Modèle"}]}
+{"text": "Modèle diagnostiqué lors des examens médicaux.", "entities": [{"start": 0, "end": 3, "label": "VM_Modèle"}]}
+
+// 'VM_Taille (mm)',
+
+{"text": "La taille de la prothèse est de 23 mm.", "entities": [{"start": 0, "end": 35, "label": "VM_Taille (mm)"}]}
+{"text": "Le patient présente une taille (mm) nécessitant un suivi.", "entities": [{"start": 18, "end": 41, "label": "VM_Taille (mm)"}]}
+{"text": "Taille (mm) mesurée lors de l'échographie cardiaque.", "entities": [{"start": 0, "end": 3, "label": "VM_Taille (mm)"}]}
+
+// 'VM_Numéro de série',
+
+{"text": "Le numéro de série de la prothèse est 12345AB.", "entities": [{"start": 0, "end": 41, "label": "VM_Numéro de série"}]}
+{"text": "Cette valve porte le numéro de série 2494RF3.", "entities": [{"start": 0, "end": 38, "label": "VM_Numéro de série"}]}
+{"text": "La prothèse a le numéro de série 24680GH.", "entities": [{"start": 0, "end": 37, "label": "VM_Numéro de série"}]}
+
+// 'VM_Numéro de lot',
+
+{"text": "Le numéro de lot de la prothèse est 12345AB.", "entities": [{"start": 0, "end": 41, "label": "VM_Numéro de lot"}]}
+{"text": "Cette valve porte le numéro de lot 2494RF3.", "entities": [{"start": 0, "end": 38, "label": "VM_Numéro de lot"}]}
+{"text": "La prothèse a le numéro de lot 24680GH.", "entities": [{"start": 0, "end": 37, "label": "VM_Numéro de lot"}]}
+
+// 'VT_Geste valvulaire',
+
+{"text": "Un geste valvulaire a été réalisé sur la valve tricuspide.", "entities": [{"start": 0, "end": 61, "label": "VT_Geste valvulaire"}]}
+{"text": "La procédure inclut un geste valvulaire sur la valve aortique.", "entities": [{"start": 0, "end": 60, "label": "VT_Geste valvulaire"}]}
+{"text": "Un geste valvulaire mitral est mentionné dans le rapport opératoire.", "entities": [{"start": 0, "end": 64, "label": "VT_Geste valvulaire"}]}
+
+// 'VT_Type de prothèse',
+
+{"text": "Le type de prothèse utilisé est une valve mécanique.", "entities": [{"start": 0, "end": 53, "label": "VT_Type de prothèse"}]}
+{"text": "Type de prothèse documenté : biologique.", "entities": [{"start": 0, "end": 39, "label": "VT_Type de prothèse"}]}
+{"text": "Le dossier indique que la prothèse est du type biologique.", "entities": [{"start": 0, "end": 56, "label": "VT_Type de prothèse"}]}
+
+// 'VT_Fabricant',
+
+{"text": "La prothèse a été fabriquée par Edwards Lifesciences.", "entities": [{"start": 0, "end": 56, "label": "VT_Fabricant"}]}
+{"text": "Fabricant : Medtronic selon les informations du dossier.", "entities": [{"start": 0, "end": 55, "label": "VT_Fabricant"}]}
+{"text": "Le fabricant indiqué est Abbott.", "entities": [{"start": 0, "end": 36, "label": "VT_Fabricant"}]}
+
+// 'VT_Modèle',
+
+{"text": "Le modèle implanté est SAPIEN 3.", "entities": [{"start": 0, "end": 38, "label": "VT_Modèle"}]}
+{"text": "Modèle noté : Hancock II dans le rapport médical.", "entities": [{"start": 0, "end": 49, "label": "VT_Modèle"}]}
+{"text": "Prothèse de modèle CoreValve trouvée dans les notes opératoires.", "entities": [{"start": 0, "end": 61, "label": "VT_Modèle"}]}
+
+// 'VT_Taille (mm)',
+
+{"text": "La taille de la prothèse est 23 mm.", "entities": [{"start": 0, "end": 40, "label": "VT_Taille (mm)"}]}
+{"text": "Taille mesurée : 25 mm selon le dossier opératoire.", "entities": [{"start": 0, "end": 53, "label": "VT_Taille (mm)"}]}
+{"text": "La prothèse implantée mesure 27 mm.", "entities": [{"start": 0, "end": 42, "label": "VT_Taille (mm)"}]}
+
+// 'VT_Numéro de série',
+
+{"text": "Le numéro de série de la valve est SN12345678.", "entities": [{"start": 0, "end": 51, "label": "VT_Numéro de série"}]}
+{"text": "Numéro de série inscrit : SN87654321 dans le rapport.", "entities": [{"start": 0, "end": 54, "label": "VT_Numéro de série"}]}
+{"text": "La documentation mentionne un numéro de série SN11223344.", "entities": [{"start": 0, "end": 58, "label": "VT_Numéro de série"}]}
+
+// 'VT_Numéro de lot',
+
+{"text": "Numéro de lot pour la valve tricuspide : LOT123456.", "entities": [{"start": 0, "end": 56, "label": "VT_Numéro de lot"}]}
+{"text": "LOT654321 est le numéro de lot associé à la valve tricuspide.", "entities": [{"start": 0, "end": 59, "label": "VT_Numéro de lot"}]}
+{"text": "Valve tricuspide avec un lot enregistré : LOT987654.", "entities": [{"start": 0, "end": 54, "label": "VT_Numéro de lot"}]}
+
+// 'VP_Geste valvulaire',
+
+{"text": "Le chirurgien a réalisé un geste valvulaire pulmonaire.", "entities": [{"start": 0, "end": 59, "label": "VP_Geste valvulaire"}]}
+{"text": "Un geste valvulaire sur la valve pulmonaire a été noté.", "entities": [{"start": 0, "end": 58, "label": "VP_Geste valvulaire"}]}
+{"text": "Le geste valvulaire VP a été confirmé pour la valve pulmonaire.", "entities": [{"start": 0, "end": 63, "label": "VP_Geste valvulaire"}]}
+
+// 'VP_Type de prothèse',
+
+{"text": "Type de prothèse pulmonaire utilisé : valve biologique.", "entities": [{"start": 0, "end": 54, "label": "VP_Type de prothèse"}]}
+{"text": "La valve pulmonaire implantée est de type mécanique.", "entities": [{"start": 0, "end": 52, "label": "VP_Type de prothèse"}]}
+{"text": "Prothèse pulmonaire identifiée comme biologique.", "entities": [{"start": 0, "end": 50, "label": "VP_Type de prothèse"}]}
+
+// 'VP_Fabricant',
+
+{"text": "La prothèse pulmonaire a été fabriquée par Edwards Lifesciences.", "entities": [{"start": 0, "end": 65, "label": "VP_Fabricant"}]}
+{"text": "Fabricant noté : Medtronic pour la valve pulmonaire.", "entities": [{"start": 0, "end": 53, "label": "VP_Fabricant"}]}
+{"text": "Valve pulmonaire de fabricant Abbott selon le dossier.", "entities": [{"start": 0, "end": 56, "label": "VP_Fabricant"}]}
+
+// 'VP_Modèle',
+
+{"text": "Modèle de valve pulmonaire implanté : CoreValve.", "entities": [{"start": 0, "end": 48, "label": "VP_Modèle"}]}
+{"text": "Valve pulmonaire modèle noté : Hancock II.", "entities": [{"start": 0, "end": 48, "label": "VP_Modèle"}]}
+{"text": "Modèle pulmonaire identifié : SAPIEN 3.", "entities": [{"start": 0, "end": 44, "label": "VP_Modèle"}]}
+
+// 'VP_Taille (mm)',
+
+{"text": "La taille de la valve pulmonaire est 23 mm.", "entities": [{"start": 0, "end": 48, "label": "VP_Taille (mm)"}]}
+{"text": "Valve pulmonaire mesurant 25 mm, d'après les notes opératoires.", "entities": [{"start": 0, "end": 60, "label": "VP_Taille (mm)"}]}
+{"text": "La prothèse pulmonaire a une taille de 27 mm.", "entities": [{"start": 0, "end": 48, "label": "VP_Taille (mm)"}]}
+
+// 'VP_Numéro de série',
+
+{"text": "Numéro de série de la valve pulmonaire : SN12345678.", "entities": [{"start": 0, "end": 55, "label": "VP_Numéro de série"}]}
+{"text": "Série SN87654321 notée pour la valve pulmonaire.", "entities": [{"start": 0, "end": 50, "label": "VP_Numéro de série"}]}
+{"text": "Valve pulmonaire avec le numéro de série SN11223344.", "entities": [{"start": 0, "end": 54, "label": "VP_Numéro de série"}]}
+
+// 'VP_Numéro de lot',
+
+{"text": "Numéro de lot pour la valve pulmonaire : LOT987654.", "entities": [{"start": 0, "end": 52, "label": "VP_Numéro de lot"}]}
+{"text": "Le lot LOT543210 est associé à la valve pulmonaire.", "entities": [{"start": 0, "end": 50, "label": "VP_Numéro de lot"}]}
+{"text": "Numéro de lot noté dans le rapport : LOT112233.", "entities": [{"start": 0, "end": 50, "label": "VP_Numéro de lot"}]}
+
+// 'Diagnostic',
+
+{"text": "Diagnostic principal : insuffisance cardiaque gauche.", "entities": [{"start": 0, "end": 53, "label": "Diagnostic"}]}
+{"text": "Le patient est diagnostiqué avec une sténose aortique.", "entities": [{"start": 0, "end": 57, "label": "Diagnostic"}]}
+{"text": "Diagnostic établi : endocardite infectieuse sur valve native.", "entities": [{"start": 0, "end": 62, "label": "Diagnostic"}]}
+
+// 'Indication',
+
+{"text": "L'indication opératoire principale est une insuffisance mitrale sévère.", "entities": [{"start": 0, "end": 69, "label": "Indication"}]}
+{"text": "Indication notée : remplacement valvulaire aortique en urgence.", "entities": [{"start": 0, "end": 65, "label": "Indication"}]}
+{"text": "Le dossier mentionne une indication de réparation valvulaire.", "entities": [{"start": 0, "end": 59, "label": "Indication"}]}
+
+// 'Geste',
+
+{"text": "Le geste chirurgical effectué était une plastie mitrale.", "entities": [{"start": 0, "end": 59, "label": "Geste"}]}
+{"text": "Un geste d'annuloplastie a été réalisé sur la valve aortique.", "entities": [{"start": 0, "end": 62, "label": "Geste"}]}
+{"text": "Geste rapporté : remplacement complet de la valve tricuspide.", "entities": [{"start": 0, "end": 65, "label": "Geste"}]}
+
+// 'Plastie valve aortique',
+
+{"text": "Une plastie de la valve aortique a été réalisée avec succès.", "entities": [{"start": 0, "end": 63, "label": "Plastie valve aortique"}]}
+{"text": "La plastie valvulaire aortique était nécessaire pour corriger la sténose.", "entities": [{"start": 0, "end": 71, "label": "Plastie valve aortique"}]}
+{"text": "Le chirurgien a procédé à une plastie de la valve aortique.", "entities": [{"start": 0, "end": 55, "label": "Plastie valve aortique"}]}
+
+// 'Clampage aortique pour nouvelle plastie',
+
+{"text": "Un clampage aortique a été réalisé pour une nouvelle plastie.", "entities": [{"start": 0, "end": 62, "label": "Clampage aortique pour nouvelle plastie"}]}
+{"text": "La procédure inclut un clampage aortique en vue d'une nouvelle plastie.", "entities": [{"start": 0, "end": 66, "label": "Clampage aortique pour nouvelle plastie"}]}
+{"text": "Le clampage de l'aorte était nécessaire pour la plastie valvulaire répétée.", "entities": [{"start": 0, "end": 67, "label": "Clampage aortique pour nouvelle plastie"}]}
+
+// 'Localisation du geste chirurgical',
+
+{"text": "La localisation du geste chirurgical était sur la valve mitrale.", "entities": [{"start": 0, "end": 64, "label": "Localisation du geste chirurgical"}]}
+{"text": "Geste chirurgical localisé sur la valve tricuspide selon les notes.", "entities": [{"start": 0, "end": 67, "label": "Localisation du geste chirurgical"}]}
+{"text": "Localisation rapportée : intervention sur la valve pulmonaire.", "entities": [{"start": 0, "end": 65, "label": "Localisation du geste chirurgical"}]}
+
+// 'Stent',
+
+{"text": "Un stent coronarien a été implanté lors de la procédure.", "entities": [{"start": 0, "end": 54, "label": "Stent"}]}
+{"text": "Stent vasculaire placé pour traiter une sténose critique.", "entities": [{"start": 0, "end": 57, "label": "Stent"}]}
+{"text": "Le rapport mentionne l'utilisation d'un stent lors de l'intervention.", "entities": [{"start": 0, "end": 65, "label": "Stent"}]}
+
+// 'Type de stent',
+
+{"text": "Le type de stent utilisé est un stent actif pharmacologique.", "entities": [{"start": 0, "end": 65, "label": "Type de stent"}]}
+{"text": "Type de stent rapporté : stent métallique non recouvert.", "entities": [{"start": 0, "end": 56, "label": "Type de stent"}]}
+{"text": "Un stent actif a été choisi pour cette intervention coronarienne.", "entities": [{"start": 0, "end": 61, "label": "Type de stent"}]}
+
+// 'Nombre de tube vasculaire non valvé',
+
+{"text": "Nombre de tubes vasculaires non valvés implantés : 2.", "entities": [{"start": 0, "end": 59, "label": "Nombre de tube vasculaire non valvé"}]}
+{"text": "Deux tubes vasculaires non valvés sont signalés dans le rapport.", "entities": [{"start": 0, "end": 61, "label": "Nombre de tube vasculaire non valvé"}]}
+{"text": "Le chirurgien a implanté trois tubes vasculaires non valvés.", "entities": [{"start": 0, "end": 61, "label": "Nombre de tube vasculaire non valvé"}]}
+
+// 'Prothèse valvulaire aortique',
+
+{"text": "Une prothèse valvulaire aortique a été implantée lors de l'intervention.", "entities": [{"start": 0, "end": 68, "label": "Prothèse valvulaire aortique"}]}
+{"text": "Prothèse valvulaire aortique utilisée pour remplacer la valve native défectueuse.", "entities": [{"start": 0, "end": 74, "label": "Prothèse valvulaire aortique"}]}
+{"text": "L'implantation d'une prothèse valvulaire aortique était nécessaire en raison de la sténose.", "entities": [{"start": 0, "end": 78, "label": "Prothèse valvulaire aortique"}]}
+
+// 'Autres chirurgies',
+
+{"text": "Le patient a un historique d'autres chirurgies, y compris des interventions digestives.", "entities": [{"start": 0, "end": 73, "label": "Autres chirurgies"}]}
+{"text": "Rapporté dans les antécédents : autres chirurgies effectuées par le passé.", "entities": [{"start": 0, "end": 67, "label": "Autres chirurgies"}]}
+{"text": "Le dossier mentionne d'autres chirurgies en dehors du domaine cardiovasculaire.", "entities": [{"start": 0, "end": 73, "label": "Autres chirurgies"}]}
+
+// 'Autres chirurgies non cardiaque : vasculaire',
+
+{"text": "Autres chirurgies non cardiaques rapportées : intervention vasculaire des membres inférieurs.", "entities": [{"start": 0, "end": 79, "label": "Autres chirurgies non cardiaque : vasculaire"}]}
+{"text": "Le patient a subi des chirurgies vasculaires dans le cadre de soins non cardiaques.", "entities": [{"start": 0, "end": 71, "label": "Autres chirurgies non cardiaque : vasculaire"}]}
+{"text": "Intervention rapportée : autres chirurgies non cardiaques de type vasculaire.", "entities": [{"start": 0, "end": 72, "label": "Autres chirurgies non cardiaque : vasculaire"}]}
+
+// 'Autres chirurgies non cardiaque : thoracique',
+
+{"text": "Antécédents de chirurgie non cardiaque : intervention thoracique pour tumeur pulmonaire.", "entities": [{"start": 0, "end": 82, "label": "Autres chirurgies non cardiaque : thoracique"}]}
+{"text": "Chirurgie thoracique non cardiaque réalisée pour une pathologie pulmonaire bénigne.", "entities": [{"start": 0, "end": 78, "label": "Autres chirurgies non cardiaque : thoracique"}]}
+{"text": "Les antécédents incluent d'autres chirurgies thoraciques non cardiaques.", "entities": [{"start": 0, "end": 67, "label": "Autres chirurgies non cardiaque : thoracique"}]}
+
+// 'Drainage/ECMO/Assistance ventriculaire',
+
+{"text": "Le patient a bénéficié d'une assistance ventriculaire et d'un drainage préopératoire.", "entities": [{"start": 0, "end": 75, "label": "Drainage/ECMO/Assistance ventriculaire"}]}
+{"text": "Une ECMO a été mise en place en urgence avec drainage thoracique associé.", "entities": [{"start": 0, "end": 70, "label": "Drainage/ECMO/Assistance ventriculaire"}]}
+{"text": "Le rapport mentionne une assistance ventriculaire accompagnée d'un drainage post-chirurgie.", "entities": [{"start": 0, "end": 79, "label": "Drainage/ECMO/Assistance ventriculaire"}]}
+
+// 'Transfusion',
+
+{"text": "Une transfusion sanguine a été réalisée après l'intervention.", "entities": [{"start": 0, "end": 57, "label": "Transfusion"}]}
+{"text": "Le patient a reçu une transfusion intra-opératoire pour éviter l'hypovolémie.", "entities": [{"start": 0, "end": 68, "label": "Transfusion"}]}
+{"text": "Rapporté : transfusion en cours d'hospitalisation pour correction d'anémie sévère.", "entities": [{"start": 0, "end": 74, "label": "Transfusion"}]}
+
+// 'Type de PSL',
+
+{"text": "Le type de PSL administré était un concentré de globules rouges (CGR).", "entities": [{"start": 0, "end": 69, "label": "Type de PSL"}]}
+{"text": "Type de produit sanguin labile : plasma frais congelé (PFC).", "entities": [{"start": 0, "end": 61, "label": "Type de PSL"}]}
+{"text": "Produit transfusé : plaquettes (PSL) en raison d'une thrombopénie sévère.", "entities": [{"start": 0, "end": 70, "label": "Type de PSL"}]}
+
+// 'Complications',
+// 'Gravité globale',
+// 'Réintervention précoce',
+// 'Si oui : réintervention sous CEC',
+// 'Complication survenues',
+// 'Septum paradoxal',
+// 'Epanchemeent péricardique',
+// 'Epaisseur épancchemeent',
+// 'Localisation de l\'épanchement (circonférentiel/localisé)',
+// 'Si épanchement localisé',
+// 'Nature épanchement',
+// 'Compression des cavités',
+// 'Veine cave InF',
+// 'IA post op',
+// 'Fuite sur prothèse',
+// 'Fuite sur plastie',
+// 'Surface indexée',
+// 'Index de perméabilité',
+// 'Surface orifice régurgitant',
+// 'Volume régurgitant',
+// 'IM résiduelle',
+// 'Plastie, fuite résiduelle',
+// 'Dimaètre. Anneau mitral',
+// 'IT résiduelle',
+// 'Flux inversé des veines sus-hépatiques',
+// 'Flap intimal (OUI / NON)',
+// 'Calcification prothèse Vavlv ao',
+// 'Epaississement feuillet valv ao',
+// 'Restriction mouvement valv ao',
+// 'Diamètre sinus de valsalva',
+// 'Diamètre ao tubulaire',
+// 'Diamètre ao isthmique',
+// 'Diamètre ao thoracique',
+// 'Statut à la sortie',
+// 'Statut à J30',
+// 'Décès après la sortie ou au-delà de 30j'
