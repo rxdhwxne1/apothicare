@@ -245,7 +245,7 @@
             {
                 "start": 3,
                 "end": 25,
-                "label": "Clairance de la créat"
+                "label": "Clairance de la creat"
             }
         ]
     },
@@ -255,7 +255,7 @@
             {
                 "start": 26,
                 "end": 46,
-                "label": "Clairance de la créat"
+                "label": "Clairance de la creat"
             }
         ]
     },
@@ -265,7 +265,7 @@
             {
                 "start": 16,
                 "end": 39,
-                "label": "Clairance de la créat"
+                "label": "Clairance de la creat"
             }
         ]
     },
@@ -875,7 +875,7 @@
             {
                 "start": 0,
                 "end": 3,
-                "label": "IDM inf 90j"
+                "label": "IDM<90j"
             }
         ]
     },
@@ -885,7 +885,7 @@
             {
                 "start": 24,
                 "end": 27,
-                "label": "IDM inf 90j"
+                "label": "IDM<90j"
             }
         ]
     },
@@ -895,7 +895,7 @@
             {
                 "start": 14,
                 "end": 17,
-                "label": "IDM inf 90j"
+                "label": "IDM<90j"
             }
         ]
     },
@@ -905,7 +905,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "TV ou FV inf 24h"
+                "label": "TV ou FV<24h"
             }
         ]
     },
@@ -915,7 +915,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "TV ou FV inf 24h"
+                "label": "TV ou FV<24h"
             }
         ]
     },
@@ -925,7 +925,7 @@
             {
                 "start": 24,
                 "end": 26,
-                "label": "TV ou FV inf 24h"
+                "label": "TV ou FV<24h"
             }
         ]
     },
@@ -935,7 +935,7 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Choc cardiogenique anurie oligurie inf 24h"
+                "label": "Choc cardiogenique/anurie/oligurie<24h"
             }
         ]
     },
@@ -945,7 +945,7 @@
             {
                 "start": 0,
                 "end": 6,
-                "label": "Choc cardiogenique anurie oligurie inf 24h"
+                "label": "Choc cardiogenique/anurie/oligurie<24h"
             }
         ]
     },
@@ -955,7 +955,7 @@
             {
                 "start": 0,
                 "end": 8,
-                "label": "Choc cardiogenique anurie oligurie inf 24h"
+                "label": "Choc cardiogenique/anurie/oligurie<24h"
             }
         ]
     },
@@ -1025,7 +1025,7 @@
             {
                 "start": 0,
                 "end": 4,
-                "label": "ECMO ECLS"
+                "label": "ECMO/ECLS"
             }
         ]
     },
@@ -1035,7 +1035,7 @@
             {
                 "start": 11,
                 "end": 15,
-                "label": "ECMO ECLS"
+                "label": "ECMO/ECLS"
             }
         ]
     },
@@ -1045,7 +1045,7 @@
             {
                 "start": 0,
                 "end": 9,
-                "label": "ECMO ECLS"
+                "label": "ECMO/ECLS"
             }
         ]
     },
@@ -1175,7 +1175,7 @@
             {
                 "start": 0,
                 "end": 13,
-                "label": "Degre urgence"
+                "label": "Degre d'urgence"
             }
         ]
     },
@@ -1185,7 +1185,7 @@
             {
                 "start": 20,
                 "end": 33,
-                "label": "Degre urgence"
+                "label": "Degre d'urgence"
             }
         ]
     },
@@ -1195,7 +1195,7 @@
             {
                 "start": 24,
                 "end": 37,
-                "label": "Degre urgence"
+                "label": "Degre d'urgence"
             }
         ]
     },
@@ -1205,7 +1205,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Complexite intervention"
+                "label": "Complexite de l'intervention"
             }
         ]
     },
@@ -1215,7 +1215,7 @@
             {
                 "start": 14,
                 "end": 39,
-                "label": "Complexite intervention"
+                "label": "Complexite de l'intervention"
             }
         ]
     },
@@ -1225,7 +1225,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Complexite intervention"
+                "label": "Complexite de l'intervention"
             }
         ]
     },
@@ -1235,7 +1235,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Chirurgie aorte"
+                "label": "Chirurgie de l'aorte"
             }
         ]
     },
@@ -1245,7 +1245,7 @@
             {
                 "start": 24,
                 "end": 43,
-                "label": "Chirurgie aorte"
+                "label": "Chirurgie de l'aorte"
             }
         ]
     },
@@ -1255,7 +1255,7 @@
             {
                 "start": 14,
                 "end": 33,
-                "label": "Chirurgie aorte"
+                "label": "Chirurgie de l'aorte"
             }
         ]
     },
@@ -1265,17 +1265,17 @@
             {
                 "start": 0,
                 "end": 11,
-                "label": "Flap intimal"
+                "label": "Flap intimal (OUI / NON)"
             }
         ]
     },
     {
-        "text": "Présence d'un flap intimal dans l'aorte.",
+        "text": "Présence d'un Flap intimal dans l'aorte.",
         "entities": [
             {
                 "start": 13,
                 "end": 24,
-                "label": "Flap intimal"
+                "label": "Flap intimal (OUI / NON)"
             }
         ]
     },
@@ -1285,7 +1285,7 @@
             {
                 "start": 0,
                 "end": 11,
-                "label": "Flap intimal"
+                "label": "Flap intimal (OUI / NON)"
             }
         ]
     },
@@ -1295,7 +1295,7 @@
             {
                 "start": 0,
                 "end": 27,
-                "label": "Maladie tissus elastiques"
+                "label": "Maladie des tissus elastiques"
             }
         ]
     },
@@ -1305,7 +1305,7 @@
             {
                 "start": 14,
                 "end": 41,
-                "label": "Maladie tissus elastiques"
+                "label": "Maladie des tissus elastiques"
             }
         ]
     },
@@ -1315,7 +1315,7 @@
             {
                 "start": 17,
                 "end": 44,
-                "label": "Maladie tissus elastiques"
+                "label": "Maladie des tissus elastiques"
             }
         ]
     },
@@ -1415,7 +1415,7 @@
             {
                 "start": 13,
                 "end": 16,
-                "label": "ATCD ATL Stent"
+                "label": "ATCD ATL/Stent"
             }
         ]
     },
@@ -1425,7 +1425,7 @@
             {
                 "start": 14,
                 "end": 17,
-                "label": "ATCD ATL Stent"
+                "label": "ATCD ATL/Stent"
             }
         ]
     },
@@ -1435,7 +1435,7 @@
             {
                 "start": 0,
                 "end": 3,
-                "label": "ATCD ATL Stent"
+                "label": "ATCD ATL/Stent"
             }
         ]
     },
@@ -1445,7 +1445,7 @@
             {
                 "start": 22,
                 "end": 24,
-                "label": "IA"
+                "label": "IA(0/1/2/3/4)"
             }
         ]
     },
@@ -1455,7 +1455,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "IA"
+                "label": "IA(0/1/2/3/4)"
             }
         ]
     },
@@ -1465,7 +1465,7 @@
             {
                 "start": 14,
                 "end": 16,
-                "label": "IA"
+                "label": "IA(0/1/2/3/4)"
             }
         ]
     },
@@ -1535,7 +1535,7 @@
             {
                 "start": 22,
                 "end": 24,
-                "label": "IM"
+                "label": "IM(0/1/2/3/4)"
             }
         ]
     },
@@ -1545,7 +1545,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "IM"
+                "label": "IM(0/1/2/3/4)"
             }
         ]
     },
@@ -1555,7 +1555,7 @@
             {
                 "start": 14,
                 "end": 16,
-                "label": "IM"
+                "label": "IM(0/1/2/3/4)"
             }
         ]
     },
@@ -2345,7 +2345,7 @@
             {
                 "start": 0,
                 "end": 7,
-                "label": "Thrombus Tumeur OD"
+                "label": "Thrombus/Tumeur OD"
             }
         ]
     },
@@ -2355,7 +2355,7 @@
             {
                 "start": 0,
                 "end": 6,
-                "label": "Thrombus Tumeur OD"
+                "label": "Thrombus/Tumeur OD"
             }
         ]
     },
@@ -2365,7 +2365,7 @@
             {
                 "start": 0,
                 "end": 7,
-                "label": "Thrombus Tumeur OD"
+                "label": "Thrombus/Tumeur OD"
             }
         ]
     },
@@ -2375,7 +2375,7 @@
             {
                 "start": 0,
                 "end": 7,
-                "label": "Thrombus Tumeur OG"
+                "label": "Thrombus/tumeur OG"
             }
         ]
     },
@@ -2385,7 +2385,7 @@
             {
                 "start": 0,
                 "end": 6,
-                "label": "Thrombus Tumeur OG"
+                "label": "Thrombus/tumeur OG"
             }
         ]
     },
@@ -2395,7 +2395,7 @@
             {
                 "start": 0,
                 "end": 7,
-                "label": "Thrombus Tumeur OG"
+                "label": "Thrombus/tumeur OG"
             }
         ]
     },
@@ -2675,7 +2675,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Index permeabilite"
+                "label": "Index de permeabillite"
             }
         ]
     },
@@ -2685,7 +2685,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Index permeabilite"
+                "label": "Index de permeabillite"
             }
         ]
     },
@@ -2695,7 +2695,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Index permeabilite"
+                "label": "Index de permeabillite"
             }
         ]
     },
@@ -2765,7 +2765,7 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Temps 1 2 pression"
+                "label": "Temps 1/2 pression"
             }
         ]
     },
@@ -2775,7 +2775,7 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Temps 1 2 pression"
+                "label": "Temps 1/2 pression"
             }
         ]
     },
@@ -2785,37 +2785,37 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Temps 1 2 pression"
+                "label": "Temps 1/2 pression"
             }
         ]
     },
     {
-        "text": "Reflux diastolique crosse : OUI.",
+        "text": "Reflux diastolique crosse (OUI/NON) : OUI.",
         "entities": [
             {
                 "start": 0,
                 "end": 25,
-                "label": "Reflux diastolique crosse"
+                "label": "Reflux diastolique crosse (OUI/NON)"
             }
         ]
     },
     {
-        "text": "Pas de reflux diastolique crosse : NON.",
+        "text": "Pas de Reflux diastolique crosse (OUI/NON) : NON.",
         "entities": [
             {
                 "start": 0,
                 "end": 25,
-                "label": "Reflux diastolique crosse"
+                "label": "Reflux diastolique crosse (OUI/NON)"
             }
         ]
     },
     {
-        "text": "Reflux diastolique crosse absent.",
+        "text": "Reflux diastolique crosse (OUI/NON) absent.",
         "entities": [
             {
                 "start": 0,
                 "end": 25,
-                "label": "Reflux diastolique crosse"
+                "label": "Reflux diastolique crosse (OUI/NON)"
             }
         ]
     },
@@ -2915,7 +2915,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "IM dystrophique Barlow"
+                "label": "IM dystrophique (Barlow)"
             }
         ]
     },
@@ -2925,7 +2925,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "IM dystrophique Barlow"
+                "label": "IM dystrophique (Barlow)"
             }
         ]
     },
@@ -2935,7 +2935,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "IM dystrophique Barlow"
+                "label": "IM dystrophique (Barlow)"
             }
         ]
     },
@@ -2945,7 +2945,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Cordages epaissis raccourcis"
+                "label": "Cordages epaissis/raccourcis"
             }
         ]
     },
@@ -2955,7 +2955,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Cordages epaissis raccourcis"
+                "label": "Cordages epaissis/raccourcis"
             }
         ]
     },
@@ -2965,7 +2965,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Cordages epaissis raccourcis"
+                "label": "Cordages epaissis/raccourcis"
             }
         ]
     },
@@ -3005,7 +3005,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Diametre anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -3015,7 +3015,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Diametre anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -3025,7 +3025,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Diametre anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -3065,7 +3065,7 @@
             {
                 "start": 0,
                 "end": 15,
-                "label": "Surface OG"
+                "label": "Surface de l'OG"
             }
         ]
     },
@@ -3075,7 +3075,7 @@
             {
                 "start": 0,
                 "end": 15,
-                "label": "Surface OG"
+                "label": "Surface de l'OG"
             }
         ]
     },
@@ -3085,7 +3085,7 @@
             {
                 "start": 0,
                 "end": 15,
-                "label": "Surface OG"
+                "label": "Surface de l'OG"
             }
         ]
     },
@@ -3095,7 +3095,7 @@
             {
                 "start": 0,
                 "end": 14,
-                "label": "Volume OG"
+                "label": "Volume de l'OG"
             }
         ]
     },
@@ -3105,7 +3105,7 @@
             {
                 "start": 0,
                 "end": 14,
-                "label": "Volume OG"
+                "label": "Volume de l'OG"
             }
         ]
     },
@@ -3115,7 +3115,7 @@
             {
                 "start": 0,
                 "end": 14,
-                "label": "Volume OG"
+                "label": "Volume de l'OG"
             }
         ]
     },
@@ -3125,7 +3125,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "Volume indexe OG"
+                "label": "Volume indexe de l'OG"
             }
         ]
     },
@@ -3135,7 +3135,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "Volume indexe OG"
+                "label": "Volume indexe de l'OG"
             }
         ]
     },
@@ -3145,7 +3145,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "Volume indexe OG"
+                "label": "Volume indexe de l'OG"
             }
         ]
     },
@@ -3155,7 +3155,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "RM surface effective"
+                "label": "RM : surface effective"
             }
         ]
     },
@@ -3165,7 +3165,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "RM surface effective"
+                "label": "RM : surface effective"
             }
         ]
     },
@@ -3175,7 +3175,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "RM surface effective"
+                "label": "RM : surface effective"
             }
         ]
     },
@@ -3185,7 +3185,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "RM gradient moyen"
+                "label": "RM : gradient moyen"
             }
         ]
     },
@@ -3195,7 +3195,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "RM gradient moyen"
+                "label": "RM : gradient moyen"
             }
         ]
     },
@@ -3205,7 +3205,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "RM gradient moyen"
+                "label": "RM : gradient moyen"
             }
         ]
     },
@@ -3305,7 +3305,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "S prime"
+                "label": "S'"
             }
         ]
     },
@@ -3315,7 +3315,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "S prime"
+                "label": "S'"
             }
         ]
     },
@@ -3325,7 +3325,7 @@
             {
                 "start": 0,
                 "end": 2,
-                "label": "S prime"
+                "label": "S'"
             }
         ]
     },
@@ -3335,7 +3335,7 @@
             {
                 "start": 0,
                 "end": 11,
-                "label": "Rapport EA"
+                "label": "Rapport E/A"
             }
         ]
     },
@@ -3345,7 +3345,7 @@
             {
                 "start": 0,
                 "end": 11,
-                "label": "Rapport EA"
+                "label": "Rapport E/A"
             }
         ]
     },
@@ -3355,7 +3355,7 @@
             {
                 "start": 0,
                 "end": 11,
-                "label": "Rapport EA"
+                "label": "Rapport E/A"
             }
         ]
     },
@@ -3365,7 +3365,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Rapport EE prime"
+                "label": "Rapport E/E'"
             }
         ]
     },
@@ -3375,7 +3375,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Rapport EE prime"
+                "label": "Rapport E/E'"
             }
         ]
     },
@@ -3385,7 +3385,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Rapport EE prime"
+                "label": "Rapport E/E'"
             }
         ]
     },
@@ -3425,7 +3425,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Flux inverse veines sus hepatiques"
+                "label": "Flux inverse des veines sus hepatiques"
             }
         ]
     },
@@ -3435,7 +3435,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Flux inverse veines sus hepatiques"
+                "label": "Flux inverse des veines sus hepatiques"
             }
         ]
     },
@@ -3445,7 +3445,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Flux inverse veines sus hepatiques"
+                "label": "Flux inverse des veines sus hepatiques"
             }
         ]
     },
@@ -3690,7 +3690,7 @@
         ]
     },
     {
-        "text": "Sinus de Valsalva mesuré à 35 mm.",
+        "text": "Sinus de ValsalVA_mesuré à 35 mm.",
         "entities": [
             {
                 "start": 0,
@@ -3700,7 +3700,7 @@
         ]
     },
     {
-        "text": "Sinus de Valsalva dilaté à 40 mm.",
+        "text": "Sinus de ValsalVA_dilaté à 40 mm.",
         "entities": [
             {
                 "start": 0,
@@ -3710,7 +3710,7 @@
         ]
     },
     {
-        "text": "Sinus de Valsalva normal à 32 mm.",
+        "text": "Sinus de ValsalVA_normal à 32 mm.",
         "entities": [
             {
                 "start": 0,
@@ -3845,7 +3845,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "Duree clampage"
+                "label": "Duree de clampage"
             }
         ]
     },
@@ -3855,7 +3855,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "Duree clampage"
+                "label": "Duree de clampage"
             }
         ]
     },
@@ -3865,7 +3865,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "Duree clampage"
+                "label": "Duree de clampage"
             }
         ]
     },
@@ -3905,7 +3905,7 @@
             {
                 "start": 0,
                 "end": 43,
-                "label": "Intervention protection cerebrale"
+                "label": "Intervention necessitant une protection cerebrale"
             }
         ]
     },
@@ -3915,7 +3915,7 @@
             {
                 "start": 0,
                 "end": 43,
-                "label": "Intervention protection cerebrale"
+                "label": "Intervention necessitant une protection cerebrale"
             }
         ]
     },
@@ -3925,7 +3925,7 @@
             {
                 "start": 0,
                 "end": 43,
-                "label": "Intervention protection cerebrale"
+                "label": "Intervention necessitant une protection cerebrale"
             }
         ]
     },
@@ -3935,7 +3935,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Type protection cerebrale"
+                "label": "Type de protection cerebrale"
             }
         ]
     },
@@ -3945,7 +3945,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Type protection cerebrale"
+                "label": "Type de protection cerebrale"
             }
         ]
     },
@@ -3955,7 +3955,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Type protection cerebrale"
+                "label": "Type de protection cerebrale"
             }
         ]
     },
@@ -3995,7 +3995,7 @@
             {
                 "start": 0,
                 "end": 11,
-                "label": "Voie abord"
+                "label": "Voie d'abord"
             }
         ]
     },
@@ -4005,27 +4005,27 @@
             {
                 "start": 18,
                 "end": 29,
-                "label": "Voie abord"
+                "label": "Voie d'abord"
             }
         ]
     },
     {
-        "text": "Voie d'abord transthoracique utilisée.",
+        "text": "Si voie d'abord transthoracique utilisée.",
         "entities": [
             {
                 "start": 0,
                 "end": 11,
-                "label": "Voie abord"
+                "label": "Voie d'abord"
             }
         ]
     },
     {
-        "text": "Voie d'abord endovasculaire choisie.",
+        "text": "Si voie d'abord endovasculaire choisie.",
         "entities": [
             {
                 "start": 0,
                 "end": 25,
-                "label": "Voie abord endovasculaire"
+                "label": "Si voie d'abord endovasculaire"
             }
         ]
     },
@@ -4035,27 +4035,27 @@
             {
                 "start": 24,
                 "end": 49,
-                "label": "Voie abord endovasculaire"
+                "label": "Si voie d'abord endovasculaire"
             }
         ]
     },
     {
-        "text": "Voie d'abord endovasculaire préférée.",
+        "text": "Si voie d'abord endovasculaire préférée.",
         "entities": [
             {
                 "start": 0,
                 "end": 25,
-                "label": "Voie abord endovasculaire"
+                "label": "Si voie d'abord endovasculaire"
             }
         ]
     },
     {
-        "text": "Voie d'abord transthoracique utilisée.",
+        "text": "Si voie d'abord transthoracique utilisée.",
         "entities": [
             {
                 "start": 0,
                 "end": 27,
-                "label": "Voie abord transthoracique"
+                "label": "Si voie d'abord transthoracique"
             }
         ]
     },
@@ -4065,17 +4065,17 @@
             {
                 "start": 18,
                 "end": 45,
-                "label": "Voie abord transthoracique"
+                "label": "Si voie d'abord transthoracique"
             }
         ]
     },
     {
-        "text": "Voie d'abord transthoracique préférée.",
+        "text": "Si voie d'abord transthoracique préférée.",
         "entities": [
             {
                 "start": 0,
                 "end": 27,
-                "label": "Voie abord transthoracique"
+                "label": "Si voie d'abord transthoracique"
             }
         ]
     },
@@ -4085,7 +4085,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Voie abord peripherique"
+                "label": "Si voie d'abord peripherique"
             }
         ]
     },
@@ -4095,7 +4095,7 @@
             {
                 "start": 18,
                 "end": 42,
-                "label": "Voie abord peripherique"
+                "label": "Si voie d'abord peripherique"
             }
         ]
     },
@@ -4105,7 +4105,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Voie abord peripherique"
+                "label": "Si voie d'abord peripherique"
             }
         ]
     },
@@ -4175,7 +4175,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Chirurgien formation"
+                "label": "Chirurgien en formation"
             }
         ]
     },
@@ -4185,7 +4185,7 @@
             {
                 "start": 24,
                 "end": 44,
-                "label": "Chirurgien formation"
+                "label": "Chirurgien en formation"
             }
         ]
     },
@@ -4195,7 +4195,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Chirurgien formation"
+                "label": "Chirurgien en formation"
             }
         ]
     },
@@ -4235,7 +4235,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "Type chirurgie"
+                "label": "Type de chirurgie"
             }
         ]
     },
@@ -4245,7 +4245,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "Type chirurgie"
+                "label": "Type de chirurgie"
             }
         ]
     },
@@ -4255,7 +4255,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "Type chirurgie"
+                "label": "Type de chirurgie"
             }
         ]
     },
@@ -4265,7 +4265,7 @@
             {
                 "start": 0,
                 "end": 29,
-                "label": "NB total conduit arteriel"
+                "label": "NB total de conduit arteriel"
             }
         ]
     },
@@ -4275,7 +4275,7 @@
             {
                 "start": 0,
                 "end": 29,
-                "label": "NB total conduit arteriel"
+                "label": "NB total de conduit arteriel"
             }
         ]
     },
@@ -4285,7 +4285,7 @@
             {
                 "start": 0,
                 "end": 29,
-                "label": "NB total conduit arteriel"
+                "label": "NB total de conduit arteriel"
             }
         ]
     },
@@ -4295,7 +4295,7 @@
             {
                 "start": 0,
                 "end": 55,
-                "label": "NB anastomoses conduit arteriel"
+                "label": "NB anastomoses coronaires avec conduit arteriel"
             }
         ]
     },
@@ -4305,7 +4305,7 @@
             {
                 "start": 0,
                 "end": 55,
-                "label": "NB anastomoses conduit arteriel"
+                "label": "NB anastomoses coronaires avec conduit arteriel"
             }
         ]
     },
@@ -4315,7 +4315,7 @@
             {
                 "start": 0,
                 "end": 55,
-                "label": "NB anastomoses conduit arteriel"
+                "label": "NB anastomoses coronaires avec conduit arteriel"
             }
         ]
     },
@@ -4355,7 +4355,7 @@
             {
                 "start": 0,
                 "end": 53,
-                "label": "NB anastomoses conduit veineux"
+                "label": "NB anastomoses coronaires avec conduit veineux"
             }
         ]
     },
@@ -4365,7 +4365,7 @@
             {
                 "start": 0,
                 "end": 53,
-                "label": "NB anastomoses conduit veineux"
+                "label": "NB anastomoses coronaires avec conduit veineux"
             }
         ]
     },
@@ -4375,7 +4375,7 @@
             {
                 "start": 0,
                 "end": 53,
-                "label": "NB anastomoses conduit veineux"
+                "label": "NB anastomoses coronaires avec conduit veineux"
             }
         ]
     },
@@ -4385,7 +4385,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "VA Geste valvulaire"
+                "label": "VA_Geste valvulaire"
             }
         ]
     },
@@ -4395,7 +4395,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "VA Geste valvulaire"
+                "label": "VA_Geste valvulaire"
             }
         ]
     },
@@ -4405,7 +4405,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "VA Geste valvulaire"
+                "label": "VA_Geste valvulaire"
             }
         ]
     },
@@ -4415,7 +4415,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VA Type prothese"
+                "label": "VA_Type de prothese"
             }
         ]
     },
@@ -4425,7 +4425,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VA Type prothese"
+                "label": "VA_Type de prothese"
             }
         ]
     },
@@ -4435,7 +4435,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VA Type prothese"
+                "label": "VA_Type de prothese"
             }
         ]
     },
@@ -4445,7 +4445,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Fabricant"
+                "label": "VA_Fabricant"
             }
         ]
     },
@@ -4455,7 +4455,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Fabricant"
+                "label": "VA_Fabricant"
             }
         ]
     },
@@ -4465,7 +4465,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Fabricant"
+                "label": "VA_Fabricant"
             }
         ]
     },
@@ -4475,7 +4475,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VA Modele"
+                "label": "VA_Modele"
             }
         ]
     },
@@ -4485,7 +4485,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VA Modele"
+                "label": "VA_Modele"
             }
         ]
     },
@@ -4495,7 +4495,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VA Modele"
+                "label": "VA_Modele"
             }
         ]
     },
@@ -4505,7 +4505,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Taille"
+                "label": "VA_Taille (mm)"
             }
         ]
     },
@@ -4515,7 +4515,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Taille"
+                "label": "VA_Taille (mm)"
             }
         ]
     },
@@ -4525,7 +4525,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Taille"
+                "label": "VA_Taille (mm)"
             }
         ]
     },
@@ -4535,7 +4535,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VA Numero serie"
+                "label": "VA_Numero de serie"
             }
         ]
     },
@@ -4545,7 +4545,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VA Numero serie"
+                "label": "VA_Numero de serie"
             }
         ]
     },
@@ -4555,7 +4555,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VA Numero serie"
+                "label": "VA_Numero de serie"
             }
         ]
     },
@@ -4565,7 +4565,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Numero lot"
+                "label": "VA_Numero de lot"
             }
         ]
     },
@@ -4575,7 +4575,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Numero lot"
+                "label": "VA_Numero de lot"
             }
         ]
     },
@@ -4585,7 +4585,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VA Numero lot"
+                "label": "VA_Numero de lot"
             }
         ]
     },
@@ -4595,7 +4595,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "VM Geste valvulaire"
+                "label": "VM_Geste valvulaire"
             }
         ]
     },
@@ -4605,7 +4605,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "VM Geste valvulaire"
+                "label": "VM_Geste valvulaire"
             }
         ]
     },
@@ -4615,7 +4615,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "VM Geste valvulaire"
+                "label": "VM_Geste valvulaire"
             }
         ]
     },
@@ -4625,7 +4625,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "VM Type prothese"
+                "label": "VM_Type de prothese"
             }
         ]
     },
@@ -4635,7 +4635,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "VM Type prothese"
+                "label": "VM_Type de prothese"
             }
         ]
     },
@@ -4645,7 +4645,7 @@
             {
                 "start": 0,
                 "end": 21,
-                "label": "VM Type prothese"
+                "label": "VM_Type de prothese"
             }
         ]
     },
@@ -4655,7 +4655,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Fabricant"
+                "label": "VM_Fabricant"
             }
         ]
     },
@@ -4665,7 +4665,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Fabricant"
+                "label": "VM_Fabricant"
             }
         ]
     },
@@ -4675,7 +4675,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Fabricant"
+                "label": "VM_Fabricant"
             }
         ]
     },
@@ -4685,7 +4685,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VM Modele"
+                "label": "VM_Modele"
             }
         ]
     },
@@ -4695,7 +4695,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VM Modele"
+                "label": "VM_Modele"
             }
         ]
     },
@@ -4705,7 +4705,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VM Modele"
+                "label": "VM_Modele"
             }
         ]
     },
@@ -4715,7 +4715,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Taille"
+                "label": "VM_Taille (mm)"
             }
         ]
     },
@@ -4725,7 +4725,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Taille"
+                "label": "VM_Taille (mm)"
             }
         ]
     },
@@ -4735,7 +4735,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Taille"
+                "label": "VM_Taille (mm)"
             }
         ]
     },
@@ -4745,7 +4745,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VM Numero serie"
+                "label": "VM_Numero de serie"
             }
         ]
     },
@@ -4755,7 +4755,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VM Numero serie"
+                "label": "VM_Numero de serie"
             }
         ]
     },
@@ -4765,7 +4765,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VM Numero serie"
+                "label": "VM_Numero de serie"
             }
         ]
     },
@@ -4775,7 +4775,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Numero lot"
+                "label": "VM_Numero de lot"
             }
         ]
     },
@@ -4785,7 +4785,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Numero lot"
+                "label": "VM_Numero de lot"
             }
         ]
     },
@@ -4795,7 +4795,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VM Numero lot"
+                "label": "VM_Numero de lot"
             }
         ]
     },
@@ -4805,7 +4805,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "VT Geste valvulaire"
+                "label": "VT_Geste valvulaire"
             }
         ]
     },
@@ -4815,7 +4815,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "VT Geste valvulaire"
+                "label": "VT_Geste valvulaire"
             }
         ]
     },
@@ -4825,7 +4825,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "VT Geste valvulaire"
+                "label": "VT_Geste valvulaire"
             }
         ]
     },
@@ -4835,7 +4835,7 @@
             {
                 "start": 0,
                 "end": 23,
-                "label": "VT Type prothese"
+                "label": "VT_Type de prothese"
             }
         ]
     },
@@ -4845,7 +4845,7 @@
             {
                 "start": 0,
                 "end": 23,
-                "label": "VT Type prothese"
+                "label": "VT_Type de prothese"
             }
         ]
     },
@@ -4855,7 +4855,7 @@
             {
                 "start": 0,
                 "end": 23,
-                "label": "VT Type prothese"
+                "label": "VT_Type de prothese"
             }
         ]
     },
@@ -4865,7 +4865,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Fabricant"
+                "label": "VT_Fabricant"
             }
         ]
     },
@@ -4875,7 +4875,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Fabricant"
+                "label": "VT_Fabricant"
             }
         ]
     },
@@ -4885,7 +4885,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Fabricant"
+                "label": "VT_Fabricant"
             }
         ]
     },
@@ -4895,7 +4895,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VT Modele"
+                "label": "VT_Modele"
             }
         ]
     },
@@ -4905,7 +4905,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VT Modele"
+                "label": "VT_Modele"
             }
         ]
     },
@@ -4915,7 +4915,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VT Modele"
+                "label": "VT_Modele"
             }
         ]
     },
@@ -4925,7 +4925,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Taille"
+                "label": "VT_Taille (mm)"
             }
         ]
     },
@@ -4935,7 +4935,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Taille"
+                "label": "VT_Taille (mm)"
             }
         ]
     },
@@ -4945,7 +4945,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Taille"
+                "label": "VT_Taille (mm)"
             }
         ]
     },
@@ -4955,7 +4955,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VT Numero serie"
+                "label": "VT_Numero de serie"
             }
         ]
     },
@@ -4965,7 +4965,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VT Numero serie"
+                "label": "VT_Numero de serie"
             }
         ]
     },
@@ -4975,7 +4975,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VT Numero serie"
+                "label": "VT_Numero de serie"
             }
         ]
     },
@@ -4985,7 +4985,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Numero lot"
+                "label": "VT_Numero de lot"
             }
         ]
     },
@@ -4995,7 +4995,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Numero lot"
+                "label": "VT_Numero de lot"
             }
         ]
     },
@@ -5005,7 +5005,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VT Numero lot"
+                "label": "VT_Numero de lot"
             }
         ]
     },
@@ -5015,7 +5015,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "VP Geste valvulaire"
+                "label": "VP_Geste valvulaire"
             }
         ]
     },
@@ -5025,7 +5025,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "VP Geste valvulaire"
+                "label": "VP_Geste valvulaire"
             }
         ]
     },
@@ -5035,7 +5035,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "VP Geste valvulaire"
+                "label": "VP_Geste valvulaire"
             }
         ]
     },
@@ -5045,7 +5045,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "VP Type prothese"
+                "label": "VP_Type de prothese"
             }
         ]
     },
@@ -5055,7 +5055,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "VP Type prothese"
+                "label": "VP_Type de prothese"
             }
         ]
     },
@@ -5065,7 +5065,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "VP Type prothese"
+                "label": "VP_Type de prothese"
             }
         ]
     },
@@ -5075,7 +5075,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Fabricant"
+                "label": "VP_Fabricant"
             }
         ]
     },
@@ -5085,7 +5085,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Fabricant"
+                "label": "VP_Fabricant"
             }
         ]
     },
@@ -5095,7 +5095,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Fabricant"
+                "label": "VP_Fabricant"
             }
         ]
     },
@@ -5105,7 +5105,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VP Modele"
+                "label": "VP_Modele"
             }
         ]
     },
@@ -5115,7 +5115,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VP Modele"
+                "label": "VP_Modele"
             }
         ]
     },
@@ -5125,7 +5125,7 @@
             {
                 "start": 0,
                 "end": 16,
-                "label": "VP Modele"
+                "label": "VP_Modele"
             }
         ]
     },
@@ -5135,7 +5135,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Taille"
+                "label": "VP_Taille (mm)"
             }
         ]
     },
@@ -5145,7 +5145,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Taille"
+                "label": "VP_Taille (mm)"
             }
         ]
     },
@@ -5155,7 +5155,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Taille"
+                "label": "VP_Taille (mm)"
             }
         ]
     },
@@ -5165,7 +5165,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VP Numero serie"
+                "label": "VP_Numero de serie"
             }
         ]
     },
@@ -5175,7 +5175,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VP Numero serie"
+                "label": "VP_Numero de serie"
             }
         ]
     },
@@ -5185,7 +5185,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "VP Numero serie"
+                "label": "VP_Numero de serie"
             }
         ]
     },
@@ -5195,7 +5195,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Numero lot"
+                "label": "VP_Numero de lot"
             }
         ]
     },
@@ -5205,7 +5205,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Numero lot"
+                "label": "VP_Numero de lot"
             }
         ]
     },
@@ -5215,7 +5215,7 @@
             {
                 "start": 0,
                 "end": 18,
-                "label": "VP Numero lot"
+                "label": "VP_Numero de lot"
             }
         ]
     },
@@ -5345,7 +5345,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Clampage aortique nouvelle plastie"
+                "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
     },
@@ -5355,7 +5355,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Clampage aortique nouvelle plastie"
+                "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
     },
@@ -5365,7 +5365,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Clampage aortique nouvelle plastie"
+                "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
     },
@@ -5375,7 +5375,7 @@
             {
                 "start": 0,
                 "end": 30,
-                "label": "Localisation geste chirurgical"
+                "label": "Localisation du geste chirurgical"
             }
         ]
     },
@@ -5385,7 +5385,7 @@
             {
                 "start": 0,
                 "end": 30,
-                "label": "Localisation geste chirurgical"
+                "label": "Localisation du geste chirurgical"
             }
         ]
     },
@@ -5395,7 +5395,7 @@
             {
                 "start": 0,
                 "end": 30,
-                "label": "Localisation geste chirurgical"
+                "label": "Localisation du geste chirurgical"
             }
         ]
     },
@@ -5435,7 +5435,7 @@
             {
                 "start": 0,
                 "end": 14,
-                "label": "Type stent"
+                "label": "Type de stent"
             }
         ]
     },
@@ -5445,7 +5445,7 @@
             {
                 "start": 0,
                 "end": 14,
-                "label": "Type stent"
+                "label": "Type de stent"
             }
         ]
     },
@@ -5455,7 +5455,7 @@
             {
                 "start": 0,
                 "end": 14,
-                "label": "Type stent"
+                "label": "Type de stent"
             }
         ]
     },
@@ -5465,7 +5465,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Nombre tube vasculaire non valve"
+                "label": "Nombre de tube vasculaire non valve"
             }
         ]
     },
@@ -5475,7 +5475,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Nombre tube vasculaire non valve"
+                "label": "Nombre de tube vasculaire non valve"
             }
         ]
     },
@@ -5485,7 +5485,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Nombre tube vasculaire non valve"
+                "label": "Nombre de tube vasculaire non valve"
             }
         ]
     },
@@ -5555,7 +5555,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Autres chirurgies non cardiaque vasculaire"
+                "label": "Autres chirurgies non cardiaque : vasculaire"
             }
         ]
     },
@@ -5565,7 +5565,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Autres chirurgies non cardiaque vasculaire"
+                "label": "Autres chirurgies non cardiaque : vasculaire"
             }
         ]
     },
@@ -5575,7 +5575,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Autres chirurgies non cardiaque vasculaire"
+                "label": "Autres chirurgies non cardiaque : vasculaire"
             }
         ]
     },
@@ -5585,7 +5585,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Autres chirurgies non cardiaque thoracique"
+                "label": "Autres chirurgies non cardiaque : thoracique"
             }
         ]
     },
@@ -5595,7 +5595,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Autres chirurgies non cardiaque thoracique"
+                "label": "Autres chirurgies non cardiaque : thoracique"
             }
         ]
     },
@@ -5605,7 +5605,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Autres chirurgies non cardiaque thoracique"
+                "label": "Autres chirurgies non cardiaque : thoracique"
             }
         ]
     },
@@ -5615,7 +5615,7 @@
             {
                 "start": 0,
                 "end": 37,
-                "label": "Drainage ECMO Assistance ventriculaire"
+                "label": "Drainage/ECMO/Assistance ventriculaire"
             }
         ]
     },
@@ -5625,7 +5625,7 @@
             {
                 "start": 0,
                 "end": 37,
-                "label": "Drainage ECMO Assistance ventriculaire"
+                "label": "Drainage/ECMO/Assistance ventriculaire"
             }
         ]
     },
@@ -5635,7 +5635,7 @@
             {
                 "start": 0,
                 "end": 37,
-                "label": "Drainage ECMO Assistance ventriculaire"
+                "label": "Drainage/ECMO/Assistance ventriculaire"
             }
         ]
     },
@@ -5675,7 +5675,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Type PSL"
+                "label": "Type de PSL"
             }
         ]
     },
@@ -5685,7 +5685,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Type PSL"
+                "label": "Type de PSL"
             }
         ]
     },
@@ -5695,7 +5695,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Type PSL"
+                "label": "Type de PSL"
             }
         ]
     },
@@ -5795,7 +5795,7 @@
             {
                 "start": 0,
                 "end": 26,
-                "label": "Reintervention sous CEC"
+                "label": "Si oui : reintervention sous CEC"
             }
         ]
     },
@@ -5805,7 +5805,7 @@
             {
                 "start": 7,
                 "end": 33,
-                "label": "Reintervention sous CEC"
+                "label": "Si oui : reintervention sous CEC"
             }
         ]
     },
@@ -5815,7 +5815,7 @@
             {
                 "start": 0,
                 "end": 26,
-                "label": "Reintervention sous CEC"
+                "label": "Si oui : reintervention sous CEC"
             }
         ]
     },
@@ -5945,7 +5945,7 @@
             {
                 "start": 0,
                 "end": 41,
-                "label": "Localisation epanchement"
+                "label": "Localisation de l'epanchement (circonferentiel/localise)"
             }
         ]
     },
@@ -5955,7 +5955,7 @@
             {
                 "start": 0,
                 "end": 41,
-                "label": "Localisation epanchement"
+                "label": "Localisation de l'epanchement (circonferentiel/localise)"
             }
         ]
     },
@@ -5965,7 +5965,7 @@
             {
                 "start": 0,
                 "end": 41,
-                "label": "Localisation epanchement"
+                "label": "Localisation de l'epanchement (circonferentiel/localise)"
             }
         ]
     },
@@ -6035,7 +6035,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Compression cavites"
+                "label": "Compression des cavites"
             }
         ]
     },
@@ -6045,7 +6045,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Compression cavites"
+                "label": "Compression des cavites"
             }
         ]
     },
@@ -6055,7 +6055,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Compression cavites"
+                "label": "Compression des cavites"
             }
         ]
     },
@@ -6215,7 +6215,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Index permeabilite"
+                "label": "Index de permeabillite"
             }
         ]
     },
@@ -6225,7 +6225,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Index permeabilite"
+                "label": "Index de permeabillite"
             }
         ]
     },
@@ -6235,7 +6235,7 @@
             {
                 "start": 0,
                 "end": 20,
-                "label": "Index permeabilite"
+                "label": "Index de permeabillite"
             }
         ]
     },
@@ -6335,7 +6335,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Plastie fuite residuelle"
+                "label": "Plastie, fuite residuelle"
             }
         ]
     },
@@ -6345,7 +6345,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Plastie fuite residuelle"
+                "label": "Plastie, fuite residuelle"
             }
         ]
     },
@@ -6355,7 +6355,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Plastie fuite residuelle"
+                "label": "Plastie, fuite residuelle"
             }
         ]
     },
@@ -6365,7 +6365,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Diametre anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -6375,7 +6375,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Diametre anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -6385,7 +6385,7 @@
             {
                 "start": 0,
                 "end": 22,
-                "label": "Diametre anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -6425,7 +6425,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Flux inverse veines sus hepatiques"
+                "label": "Flux inverse des veines sus hepatiques"
             }
         ]
     },
@@ -6435,7 +6435,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Flux inverse veines sus hepatiques"
+                "label": "Flux inverse des veines sus hepatiques"
             }
         ]
     },
@@ -6445,37 +6445,37 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Flux inverse veines sus hepatiques"
+                "label": "Flux inverse des veines sus hepatiques"
             }
         ]
     },
     {
-        "text": "Flap intimal détecté : OUI.",
+        "text": "Flap intimal (OUI / NON) détecté : OUI.",
         "entities": [
             {
                 "start": 0,
                 "end": 18,
-                "label": "Flap intimal"
+                "label": "Flap intimal (OUI / NON)"
             }
         ]
     },
     {
-        "text": "Absence de flap intimal : NON.",
+        "text": "Absence de Flap intimal (OUI / NON) : NON.",
         "entities": [
             {
                 "start": 0,
                 "end": 18,
-                "label": "Flap intimal"
+                "label": "Flap intimal (OUI / NON)"
             }
         ]
     },
     {
-        "text": "Flap intimal présent : OUI.",
+        "text": "Flap intimal (OUI / NON) présent : OUI.",
         "entities": [
             {
                 "start": 0,
                 "end": 18,
-                "label": "Flap intimal"
+                "label": "Flap intimal (OUI / NON)"
             }
         ]
     },
@@ -6485,7 +6485,7 @@
             {
                 "start": 0,
                 "end": 30,
-                "label": "Calcification prothese valv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -6495,7 +6495,7 @@
             {
                 "start": 0,
                 "end": 30,
-                "label": "Calcification prothese valv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -6505,7 +6505,7 @@
             {
                 "start": 0,
                 "end": 30,
-                "label": "Calcification prothese valv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -6570,32 +6570,32 @@
         ]
     },
     {
-        "text": "Diamètre sinus de Valsalva mesuré à 35 mm.",
+        "text": "Diamètre sinus de ValsalVA_mesuré à 35 mm.",
         "entities": [
             {
                 "start": 0,
                 "end": 24,
-                "label": "Diametre sinus valsalva"
+                "label": "Diametre sinus de valsalva"
             }
         ]
     },
     {
-        "text": "Sinus de Valsalva dilaté à 40 mm.",
+        "text": "Sinus de ValsalVA_dilaté à 40 mm.",
         "entities": [
             {
                 "start": 0,
                 "end": 24,
-                "label": "Diametre sinus valsalva"
+                "label": "Diametre sinus de valsalva"
             }
         ]
     },
     {
-        "text": "Diamètre sinus de Valsalva normal à 32 mm.",
+        "text": "Diamètre sinus de ValsalVA_normal à 32 mm.",
         "entities": [
             {
                 "start": 0,
                 "end": 24,
-                "label": "Diametre sinus valsalva"
+                "label": "Diametre sinus de valsalva"
             }
         ]
     },
@@ -6695,7 +6695,7 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Statut sortie"
+                "label": "Statut a la sortie"
             }
         ]
     },
@@ -6705,7 +6705,7 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Statut sortie"
+                "label": "Statut a la sortie"
             }
         ]
     },
@@ -6715,7 +6715,7 @@
             {
                 "start": 0,
                 "end": 17,
-                "label": "Statut sortie"
+                "label": "Statut a la sortie"
             }
         ]
     },
@@ -6725,7 +6725,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Statut J30"
+                "label": "Statut a J30"
             }
         ]
     },
@@ -6735,7 +6735,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Statut J30"
+                "label": "Statut a J30"
             }
         ]
     },
@@ -6745,7 +6745,7 @@
             {
                 "start": 0,
                 "end": 12,
-                "label": "Statut J30"
+                "label": "Statut a J30"
             }
         ]
     },
@@ -6755,7 +6755,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Deces apres sortie"
+                "label": "Deces apres la sortie ou au dela de 30j"
             }
         ]
     },
@@ -6765,7 +6765,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Deces apres sortie"
+                "label": "Deces apres la sortie ou au dela de 30j"
             }
         ]
     },
@@ -6775,7 +6775,7 @@
             {
                 "start": 0,
                 "end": 34,
-                "label": "Deces apres sortie"
+                "label": "Deces apres la sortie ou au dela de 30j"
             }
         ]
     }

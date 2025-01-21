@@ -99,7 +99,6 @@
             }
         ]
     },
-
     {
         "text": "Sexe : féminin.",
         "entities": [
@@ -200,7 +199,6 @@
             }
         ]
     },
-
     {
         "text": "Poids du patient : 68 kg.",
         "entities": [
@@ -301,7 +299,6 @@
             }
         ]
     },
-
     {
         "text": "Taille mesurée : 1,72 m.",
         "entities": [
@@ -402,7 +399,6 @@
             }
         ]
     },
-
     {
         "text": "Date d'admission : 2023-10-01.",
         "entities": [
@@ -503,7 +499,6 @@
             }
         ]
     },
-
     {
         "text": "Date d'intervention : 2023-09-15.",
         "entities": [
@@ -604,7 +599,6 @@
             }
         ]
     },
-
     {
         "text": "Date de sortie : 2023-10-10.",
         "entities": [
@@ -705,8 +699,6 @@
             }
         ]
     },
-
-
     {
         "text": "Creat pre op : 12 mg/dL.",
         "entities": [
@@ -1247,7 +1239,6 @@
             }
         ]
     },
-
     {
         "text": "Sténose carotidienne diagnostiquée.",
         "entities": [
@@ -2008,7 +1999,6 @@
             }
         ]
     },
-
     {
         "text": "Angor classe IV diagnostiqué.",
         "entities": [
@@ -2669,7 +2659,6 @@
             }
         ]
     },
-
     {
         "text": "Degré d'urgence : élevé.",
         "entities": [
@@ -3240,7 +3229,6 @@
             }
         ]
     },
-
     {
         "text": "IA grade 2.",
         "entities": [
@@ -3921,7 +3909,6 @@
             }
         ]
     },
-
     {
         "text": "AVK pré-op : arrêt 5 jours avant l'intervention.",
         "entities": [
@@ -4382,7 +4369,6 @@
             }
         ]
     },
-
     {
         "text": "DTD : 55 mm.",
         "entities": [
@@ -5143,7 +5129,6 @@
             }
         ]
     },
-    
     {
         "text": "IA : grade 2.",
         "entities": [
@@ -5834,7 +5819,6 @@
             }
         ]
     },
-
     {
         "text": "IM : grade 2.",
         "entities": [
@@ -6505,7 +6489,6 @@
             }
         ]
     },
-
     {
         "text": "Diamètre anneau tricuspide : 35 mm.",
         "entities": [
@@ -7056,7 +7039,6 @@
             }
         ]
     },
-
     {
         "text": "Insuffisance pulmonaire : grade 2.",
         "entities": [
@@ -7527,7 +7509,6 @@
             }
         ]
     },
-
     {
         "text": "CEC : durée de 120 minutes.",
         "entities": [
@@ -8238,7 +8219,6 @@
             }
         ]
     },
-
     {
         "text": "Type de chirurgie : pontage aorto-coronarien.",
         "entities": [
@@ -8549,7 +8529,6 @@
             }
         ]
     },
-
     {
         "text": "VA_Geste valvulaire : remplacement valvulaire aortique.",
         "entities": [
@@ -9300,7 +9279,6 @@
             }
         ]
     },
-
     {
         "text": "VT_Type de prothèse : mécanique.",
         "entities": [
@@ -9951,7 +9929,6 @@
             }
         ]
     },
-
     {
         "text": "Diagnostic : insuffisance cardiaque.",
         "entities": [
@@ -10992,7 +10969,6 @@
             }
         ]
     },
-
     {
         "text": "Transfusion : 2 culots globulaires.",
         "entities": [
@@ -11533,7 +11509,6 @@
             }
         ]
     },
-
     {
         "text": "Septum paradoxal observé à l'échographie.",
         "entities": [
@@ -11680,7 +11655,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -11690,7 +11665,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -11700,7 +11675,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -11710,7 +11685,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -11720,7 +11695,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -11730,7 +11705,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -11740,7 +11715,7 @@
             {
                 "start": 0,
                 "end": 24,
-                "label": "Epaisseur epancchemeent"
+                "label": "Epaisseur epanchement"
             }
         ]
     },
@@ -12030,7 +12005,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
@@ -12040,7 +12015,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
@@ -12050,7 +12025,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
@@ -12060,7 +12035,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
@@ -12070,7 +12045,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
@@ -12080,7 +12055,7 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
@@ -12090,11 +12065,10 @@
             {
                 "start": 0,
                 "end": 19,
-                "label": "Veine cave InF"
+                "label": "Veine cave inf"
             }
         ]
     },
-
     {
         "text": "IA post op : absence de fuite.",
         "entities": [
@@ -12731,7 +12705,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12741,7 +12715,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12751,7 +12725,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12761,7 +12735,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12771,7 +12745,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12781,7 +12755,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12791,7 +12765,7 @@
             {
                 "start": 0,
                 "end": 25,
-                "label": "Dimaetre. Anneau mitral"
+                "label": "Diametre. Anneau mitral"
             }
         ]
     },
@@ -12935,7 +12909,6 @@
             }
         ]
     },
-
     {
         "text": "Flap intimal : OUI.",
         "entities": [
@@ -13012,7 +12985,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13022,7 +12995,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13032,7 +13005,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13042,7 +13015,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13052,7 +13025,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13062,7 +13035,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13072,7 +13045,7 @@
             {
                 "start": 0,
                 "end": 35,
-                "label": "Calcification prothese Vavlv ao"
+                "label": "Calcification prothese Valv ao"
             }
         ]
     },
@@ -13496,7 +13469,6 @@
             }
         ]
     },
-
     {
         "text": "Statut à la sortie : stable.",
         "entities": [
