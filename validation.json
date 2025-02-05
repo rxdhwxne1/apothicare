@@ -174,7 +174,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 44,
+                "end": 43,
                 "label": "Date d'intervention"
             }
         ]
@@ -194,7 +194,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 36,
+                "end": 33,
                 "label": "Date de sortie"
             }
         ]
@@ -674,7 +674,7 @@
         "entities": [
             {
                 "start": 24,
-                "end": 58,
+                "end": 53,
                 "label": "Type intervention cardiaque ANT"
             }
         ]
@@ -824,7 +824,7 @@
         "entities": [
             {
                 "start": 19,
-                "end": 44,
+                "end": 43,
                 "label": "Stimulateur cardiaque implante"
             }
         ]
@@ -1364,7 +1364,7 @@
         "entities": [
             {
                 "start": 14,
-                "end": 48,
+                "end": 45,
                 "label": "NB branche coronaire stenosees"
             }
         ]
@@ -1663,8 +1663,8 @@
         "text": "Valve tricuspide altérée, étiologie secondaire.",
         "entities": [
             {
-                "start": 20,
-                "end": 49,
+                "start": 0,
+                "end": 47,
                 "label": "Etiologie valve tricuspide"
             }
         ]
@@ -4034,7 +4034,7 @@
         "entities": [
             {
                 "start": 24,
-                "end": 49,
+                "end": 46,
                 "label": "Si voie d'abord endovasculaire"
             }
         ]
@@ -4063,8 +4063,8 @@
         "text": "Intervention par voie transthoracique.",
         "entities": [
             {
-                "start": 18,
-                "end": 45,
+                "start": 17,
+                "end": 38,
                 "label": "Si voie d'abord transthoracique"
             }
         ]
@@ -4093,8 +4093,8 @@
         "text": "Intervention par voie périphérique.",
         "entities": [
             {
-                "start": 18,
-                "end": 42,
+                "start": 17,
+                "end": 35,
                 "label": "Si voie d'abord peripherique"
             }
         ]
@@ -4314,7 +4314,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 55,
+                "end": 52,
                 "label": "NB anastomoses coronaires avec conduit arteriel"
             }
         ]
@@ -4374,7 +4374,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 53,
+                "end": 51,
                 "label": "NB anastomoses coronaires avec conduit veineux"
             }
         ]
@@ -4524,7 +4524,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 18,
+                "end": 15,
                 "label": "VA_Taille (mm)"
             }
         ]
@@ -4734,7 +4734,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 18,
+                "end": 15,
                 "label": "VM_Taille (mm)"
             }
         ]
@@ -4944,7 +4944,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 18,
+                "end": 15,
                 "label": "VT_Taille (mm)"
             }
         ]
@@ -5154,7 +5154,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 18,
+                "end": 15,
                 "label": "VP_Taille (mm)"
             }
         ]
@@ -5484,7 +5484,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 31,
                 "label": "Nombre de tube vasculaire non valve"
             }
         ]
@@ -5964,7 +5964,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 41,
+                "end": 36,
                 "label": "Localisation de l'epanchement (circonferentiel/localise)"
             }
         ]
@@ -6754,7 +6754,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 28,
                 "label": "Deces apres la sortie ou au dela de 30j"
             }
         ]

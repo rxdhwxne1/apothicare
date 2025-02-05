@@ -4314,7 +4314,7 @@
         "entities": [
             {
                 "start": 12,
-                "end": 31,
+                "end": 30,
                 "label": "Patient recule pour COVID 19"
             }
         ]
@@ -10294,7 +10294,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 37,
+                "end": 36,
                 "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
@@ -10334,7 +10334,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 37,
+                "end": 36,
                 "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
@@ -10344,7 +10344,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 37,
+                "end": 34,
                 "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
@@ -10354,7 +10354,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 37,
+                "end": 34,
                 "label": "Clampage aortique pour nouvelle plastie"
             }
         ]
@@ -10604,7 +10604,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 32,
                 "label": "Nombre de tube vasculaire non valve"
             }
         ]
@@ -10614,7 +10614,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 32,
                 "label": "Nombre de tube vasculaire non valve"
             }
         ]
@@ -10624,7 +10624,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 32,
                 "label": "Nombre de tube vasculaire non valve"
             }
         ]
@@ -10634,7 +10634,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 32,
                 "label": "Nombre de tube vasculaire non valve"
             }
         ]
@@ -10654,7 +10654,7 @@
         "entities": [
             {
                 "start": 0,
-                "end": 34,
+                "end": 32,
                 "label": "Nombre de tube vasculaire non valve"
             }
         ]
