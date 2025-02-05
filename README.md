@@ -13,37 +13,67 @@ Prérequis
 - **Ollama** : Nécessaire pour la gestion des modèles de génération de texte (LLM) comme llama2.
 
 # Étapes d'Installation
-1. **Clonez le dépôt** :
+
+## Étape 1. Cloner le dépôt :
+
 ```bash
 git clone https://github.com/rxdhwxne1/apothicare.git
 cd apothicare
 ```
 
-2. **Créez un environnement virtuel (pas obligatoire)**:
+## Étape 2. Créer un environnement virtuel (optionnel mais recommandé) :
+
 ```bash
 python -m venv env
 source env/bin/activate  # Pour macOS/Linux
 .\env\Scripts\activate   # Pour Windows
 ```
 
-3. **Installez les dépendances** :
+## Étape 3. Installer les dépendances :
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Installez et configurez Ollama** :
-Ollama est utilisé pour gérer les modèles de génération de texte (LLM) comme llama2. Assurez-vous que ollama est installé :
+## Étape 4. Installer et configurer Ollama :
 
-Téléchargez et installez Ollama depuis [Ollama.com](https://ollama.com/).
+Le projet utilise Ollama pour gérer le modèle de langage Llama 3.2.
 
-# Utilisation
-1. Lancer l'application Streamlit :
+Téléchargez et installez Ollama depuis ollama.com.
+
+### Exécutez le modèle Llama 3.2 en local :
+
+```bash
+ollama run llama3.2:1b
+```
+
+## Étape 5. Lancer l'application Streamlit :
+
 ```bash
 streamlit run apothicare.py
 ```
 
-2. Importer un fichier PDF :
-Une fois l'application lancée, vous pouvez importer un fichier PDF contenant un rapport médical via l'interface.
+# Utilisation
 
-3. Extraire les informations :
-Cliquez sur le bouton d'extraction pour démarrer le processus. Une fois l'extraction terminée, un bouton de téléchargement vous permettra de télécharger le fichier Excel généré avec les données extraites.
+**Importer un fichier PDF** : Téléchargez un rapport médical au format PDF via l'interface Streamlit.
+
+**Extraire les informations** : Cliquez sur le bouton d'extraction pour démarrer le traitement.
+
+**Télécharger les résultats** : Une fois l'extraction terminée, téléchargez le fichier Excel généré contenant les données extraites.
+
+# Structure du code
+
+apothicare.py : Script principal pour exécuter l'application Streamlit.
+
+requirements.txt : Liste des dépendances requises pour le projet.
+
+# Dépendances
+
+streamlit : Pour l'interface web interactive.
+
+ollama : Pour le traitement du texte médical avec les modèles de langage.
+
+# Contribution
+
+Namaoui Radhwane
+Baptiste Prevot
+Thomas Van Der Perre
