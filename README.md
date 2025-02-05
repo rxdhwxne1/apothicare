@@ -52,7 +52,7 @@ ollama run llama3.2:1b
 streamlit run apothicare.py
 ```
 
-# Utilisation
+## Utilisation
 
 **Importer un fichier PDF** : Téléchargez un rapport médical au format PDF via l'interface Streamlit.
 
@@ -60,20 +60,22 @@ streamlit run apothicare.py
 
 **Télécharger les résultats** : Une fois l'extraction terminée, téléchargez le fichier Excel généré contenant les données extraites.
 
-# Structure du code
+## Structure du code
 
 apothicare.py : Script principal pour exécuter l'application Streamlit.
 
 requirements.txt : Liste des dépendances requises pour le projet.
 
-# Dépendances
+## Dépendances
 
 streamlit : Pour l'interface web interactive.
 
 ollama : Pour le traitement du texte médical avec les modèles de langage.
 
-# Contribution
+## Contribution
 
 Namaoui Radhwane
+
 Baptiste Prevot
+
 Thomas Van Der Perre
