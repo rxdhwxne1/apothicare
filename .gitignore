@@ -1,0 +1,21 @@
+# Ignorer les dossiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Fichier de sortie Excel
+extraction_infos_pdf.xlsx
+
+# Dossiers et fichiers de configuration de l'environnement virtuel
+env/
+venv/
+.env
+*.env
+
+# Fichiers de configuration spécifiques à certains IDE
+.vscode/
+.idea/
+
+# Fichiers de log et autres fichiers temporaires
+*.log
+.DS_Store
+*.swp

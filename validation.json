@@ -1,0 +1,6782 @@
+[
+    {
+        "text": "Né(e) le 25 décembre 1995.",
+        "entities": [
+            {
+                "start": 6,
+                "end": 22,
+                "label": "Date de naissance"
+            }
+        ]
+    },
+    {
+        "text": "Date de naissance : 1988-07-14.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 30,
+                "label": "Date de naissance"
+            }
+        ]
+    },
+    {
+        "text": "Patient né le 03.09.1976.",
+        "entities": [
+            {
+                "start": 12,
+                "end": 22,
+                "label": "Date de naissance"
+            }
+        ]
+    },
+    {
+        "text": "Sexe : féminin.",
+        "entities": [
+            {
+                "start": 7,
+                "end": 14,
+                "label": "Sexe"
+            }
+        ]
+    },
+    {
+        "text": "Genre : femme.",
+        "entities": [
+            {
+                "start": 8,
+                "end": 13,
+                "label": "Sexe"
+            }
+        ]
+    },
+    {
+        "text": "Patient de sexe masculin.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 24,
+                "label": "Sexe"
+            }
+        ]
+    },
+    {
+        "text": "Poids du patient : 68 kg.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 22,
+                "label": "Poids"
+            }
+        ]
+    },
+    {
+        "text": "Patient pesant 82 kg.",
+        "entities": [
+            {
+                "start": 15,
+                "end": 20,
+                "label": "Poids"
+            }
+        ]
+    },
+    {
+        "text": "Poids estimé à 70 kg.",
+        "entities": [
+            {
+                "start": 15,
+                "end": 20,
+                "label": "Poids"
+            }
+        ]
+    },
+    {
+        "text": "Taille mesurée : 1,72 m.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 23,
+                "label": "Taille"
+            }
+        ]
+    },
+    {
+        "text": "Patient mesurant 1,65 m.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 24,
+                "label": "Taille"
+            }
+        ]
+    },
+    {
+        "text": "Taille : 1,80 m.",
+        "entities": [
+            {
+                "start": 8,
+                "end": 14,
+                "label": "Taille"
+            }
+        ]
+    },
+    {
+        "text": "Admis le 12 novembre 2022.",
+        "entities": [
+            {
+                "start": 8,
+                "end": 24,
+                "label": "Date d admission"
+            }
+        ]
+    },
+    {
+        "text": "Date d'admission : 2023-02-15.",
+        "entities": [
+            {
+                "start": 19,
+                "end": 29,
+                "label": "Date d admission"
+            }
+        ]
+    },
+    {
+        "text": "Admission le 05/06/2021.",
+        "entities": [
+            {
+                "start": 12,
+                "end": 22,
+                "label": "Date d admission"
+            }
+        ]
+    },
+    {
+        "text": "La date d'intervention est fixée au 25 avril 2023.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 49,
+                "label": "Date d'intervention"
+            }
+        ]
+    },
+    {
+        "text": "Intervention prévue le 17 juillet 2022.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 39,
+                "label": "Date d'intervention"
+            }
+        ]
+    },
+    {
+        "text": "Date de l'intervention : 30 septembre 2021.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 44,
+                "label": "Date d'intervention"
+            }
+        ]
+    },
+    {
+        "text": "La date de sortie du patient est le 12 juin 2023.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 48,
+                "label": "Date de sortie"
+            }
+        ]
+    },
+    {
+        "text": "Sortie prévue le 05 octobre 2022.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 36,
+                "label": "Date de sortie"
+            }
+        ]
+    },
+    {
+        "text": "Date de sortie : 18 février 2021.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Date de sortie"
+            }
+        ]
+    },
+    {
+        "text": "Créat préopératoire à 115 µmol/L.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Creat pre op"
+            }
+        ]
+    },
+    {
+        "text": "Créatinine avant l'opération : 98 µmol/L.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Creat pre op"
+            }
+        ]
+    },
+    {
+        "text": "Créat pré-opératoire mesurée à 105 µmol/L.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Creat pre op"
+            }
+        ]
+    },
+    {
+        "text": "La clairance de la créatinine est estimée à 90 mL/min.",
+        "entities": [
+            {
+                "start": 3,
+                "end": 25,
+                "label": "Clairance de la creat"
+            }
+        ]
+    },
+    {
+        "text": "Les résultats indiquent une clairance de créat de 85 mL/min.",
+        "entities": [
+            {
+                "start": 26,
+                "end": 46,
+                "label": "Clairance de la creat"
+            }
+        ]
+    },
+    {
+        "text": "Le test montre une clairance de la créat mesurée à 75 mL/min.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 39,
+                "label": "Clairance de la creat"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous dialyse depuis 6 mois.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 21,
+                "label": "Dialyse"
+            }
+        ]
+    },
+    {
+        "text": "Dialyse hebdomadaire en cours.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Dialyse"
+            }
+        ]
+    },
+    {
+        "text": "Programme de dialyse pour insuffisance rénale.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 21,
+                "label": "Dialyse"
+            }
+        ]
+    },
+    {
+        "text": "Patient suivi pour diabète de type 2.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 25,
+                "label": "Diabete"
+            }
+        ]
+    },
+    {
+        "text": "Diabète insulino-dépendant diagnostiqué.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Diabete"
+            }
+        ]
+    },
+    {
+        "text": "Antécédents de diabète non insulinodépendant.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 21,
+                "label": "Diabete"
+            }
+        ]
+    },
+    {
+        "text": "Traitement du diabète par insuline avant l'intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Traitement diabete pre op"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous antidiabétiques oraux en pré-opératoire.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 42,
+                "label": "Traitement diabete pre op"
+            }
+        ]
+    },
+    {
+        "text": "Diabète contrôlé par insuline avant l'opération.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Traitement diabete pre op"
+            }
+        ]
+    },
+    {
+        "text": "BPCO diagnostiquée il y a 10 ans, stable sous traitement.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "BPCO"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une BPCO sévère, sous oxygénothérapie.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 18,
+                "label": "BPCO"
+            }
+        ]
+    },
+    {
+        "text": "Bronchopneumopathie chronique obstructive (BPCO) modérée.",
+        "entities": [
+            {
+                "start": 44,
+                "end": 48,
+                "label": "BPCO"
+            }
+        ]
+    },
+    {
+        "text": "Effet indésirable lié au traitement antibiotique observé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "EI ttt par ATB"
+            }
+        ]
+    },
+    {
+        "text": "EI en lien avec un traitement par ATB.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "EI ttt par ATB"
+            }
+        ]
+    },
+    {
+        "text": "Effet secondaire sous antibiothérapie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "EI ttt par ATB"
+            }
+        ]
+    },
+    {
+        "text": "Effet indésirable stérilisé, suivi en cours.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "EI sterilisee"
+            }
+        ]
+    },
+    {
+        "text": "Épisode d'EI stérilisé chez ce patient.",
+        "entities": [
+            {
+                "start": 10,
+                "end": 22,
+                "label": "EI sterilisee"
+            }
+        ]
+    },
+    {
+        "text": "Effet indésirable stérilisé suite au traitement.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "EI sterilisee"
+            }
+        ]
+    },
+    {
+        "text": "Atteinte neuro-musculo-squelettique diagnostiquée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Atteinte neuro musculo squelettique"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une atteinte neuro-musculo-squelettique sévère.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 48,
+                "label": "Atteinte neuro musculo squelettique"
+            }
+        ]
+    },
+    {
+        "text": "Atteinte neuro-musculo-squelettique confirmée par IRM.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Atteinte neuro musculo squelettique"
+            }
+        ]
+    },
+    {
+        "text": "Sténose carotidienne bilatérale détectée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Stenose carotidienne ou intervention"
+            }
+        ]
+    },
+    {
+        "text": "Intervention pour sténose carotidienne réalisée.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 36,
+                "label": "Stenose carotidienne ou intervention"
+            }
+        ]
+    },
+    {
+        "text": "Sténose carotidienne gauche, nécessitant une intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Stenose carotidienne ou intervention"
+            }
+        ]
+    },
+    {
+        "text": "AOMI diagnostiquée chez le patient.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "AOMI"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une AOMI stade II.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 18,
+                "label": "AOMI"
+            }
+        ]
+    },
+    {
+        "text": "Artériopathie oblitérante des membres inférieurs (AOMI) confirmée.",
+        "entities": [
+            {
+                "start": 54,
+                "end": 58,
+                "label": "AOMI"
+            }
+        ]
+    },
+    {
+        "text": "Intervention sur l'aorte réalisée avec succès.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 29,
+                "label": "Aorte intervention"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgie de l'aorte thoracique prévue.",
+        "entities": [
+            {
+                "start": 12,
+                "end": 27,
+                "label": "Aorte intervention"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant subi une intervention sur l'aorte abdominale.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 39,
+                "label": "Aorte intervention"
+            }
+        ]
+    },
+    {
+        "text": "Patient classé NYHA II.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 20,
+                "label": "NYHA"
+            }
+        ]
+    },
+    {
+        "text": "Classe NYHA III, insuffisance cardiaque avancée.",
+        "entities": [
+            {
+                "start": 7,
+                "end": 11,
+                "label": "NYHA"
+            }
+        ]
+    },
+    {
+        "text": "NYHA IV, nécessitant une prise en charge urgente.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "NYHA"
+            }
+        ]
+    },
+    {
+        "text": "Antécédent de chirurgie avec ouverture péricardiaque.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 47,
+                "label": "ATCD chirurgie ouverture pericardiaque"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant subi une chirurgie cardiaque avec ouverture péricardiaque.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 71,
+                "label": "ATCD chirurgie ouverture pericardiaque"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgie antérieure avec ouverture péricardiaque notée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 47,
+                "label": "ATCD chirurgie ouverture pericardiaque"
+            }
+        ]
+    },
+    {
+        "text": "Nombre de pontages réalisés : 3.",
+        "entities": [
+            {
+                "start": 25,
+                "end": 26,
+                "label": "Nombre"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec 2 interventions cardiaques antérieures.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 15,
+                "label": "Nombre"
+            }
+        ]
+    },
+    {
+        "text": "Nombre de stents posés : 1.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 21,
+                "label": "Nombre"
+            }
+        ]
+    },
+    {
+        "text": "Type d'intervention cardiaque antérieure : pontage aorto-coronarien.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Type intervention cardiaque ANT"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant subi une valve aortique bioprothétique.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 58,
+                "label": "Type intervention cardiaque ANT"
+            }
+        ]
+    },
+    {
+        "text": "Intervention cardiaque antérieure : remplacement valvulaire mitral.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Type intervention cardiaque ANT"
+            }
+        ]
+    },
+    {
+        "text": "HTA diagnostiquée depuis 5 ans.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "HTA"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une HTA résistante.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 17,
+                "label": "HTA"
+            }
+        ]
+    },
+    {
+        "text": "Hypertension artérielle (HTA) bien contrôlée.",
+        "entities": [
+            {
+                "start": 23,
+                "end": 26,
+                "label": "HTA"
+            }
+        ]
+    },
+    {
+        "text": "Hypercholestérolémie traitée par statines.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Hypercholesterolemie"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une hypercholestérolémie familiale.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 33,
+                "label": "Hypercholesterolemie"
+            }
+        ]
+    },
+    {
+        "text": "Hypercholestérolémie sévère, sous traitement.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Hypercholesterolemie"
+            }
+        ]
+    },
+    {
+        "text": "Tabagisme actif depuis 10 ans.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Tabac"
+            }
+        ]
+    },
+    {
+        "text": "Patient ancien fumeur, sevré depuis 5 ans.",
+        "entities": [
+            {
+                "start": 8,
+                "end": 22,
+                "label": "Tabac"
+            }
+        ]
+    },
+    {
+        "text": "Tabagisme passif rapporté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Tabac"
+            }
+        ]
+    },
+    {
+        "text": "Fibrillation auriculaire (FA) diagnostiquée.",
+        "entities": [
+            {
+                "start": 23,
+                "end": 25,
+                "label": "FA"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une FA paroxystique.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "FA"
+            }
+        ]
+    },
+    {
+        "text": "FA persistante sous traitement anticoagulant.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "FA"
+            }
+        ]
+    },
+    {
+        "text": "Stimulateur cardiaque implanté en 2020.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Stimulateur cardiaque implante"
+            }
+        ]
+    },
+    {
+        "text": "Patient porteur d'un stimulateur cardiaque.",
+        "entities": [
+            {
+                "start": 19,
+                "end": 44,
+                "label": "Stimulateur cardiaque implante"
+            }
+        ]
+    },
+    {
+        "text": "Stimulateur cardiaque bicaméral implanté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Stimulateur cardiaque implante"
+            }
+        ]
+    },
+    {
+        "text": "Angor classe IV diagnostiqué chez le patient.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "Angor classe IV"
+            }
+        ]
+    },
+    {
+        "text": "Patient présentant un angor de classe IV.",
+        "entities": [
+            {
+                "start": 26,
+                "end": 39,
+                "label": "Angor classe IV"
+            }
+        ]
+    },
+    {
+        "text": "Angor instable de classe IV, nécessitant une intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "Angor classe IV"
+            }
+        ]
+    },
+    {
+        "text": "IDM datant de moins de 90 jours.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "IDM<90j"
+            }
+        ]
+    },
+    {
+        "text": "Infarctus du myocarde (IDM) récent (<90j).",
+        "entities": [
+            {
+                "start": 24,
+                "end": 27,
+                "label": "IDM<90j"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec un IDM survenu il y a 60 jours.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 17,
+                "label": "IDM<90j"
+            }
+        ]
+    },
+    {
+        "text": "TV survenue il y a moins de 24 heures.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "TV ou FV<24h"
+            }
+        ]
+    },
+    {
+        "text": "FV détectée il y a 12 heures.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "TV ou FV<24h"
+            }
+        ]
+    },
+    {
+        "text": "Tachycardie ventriculaire (TV) récente (<24h).",
+        "entities": [
+            {
+                "start": 24,
+                "end": 26,
+                "label": "TV ou FV<24h"
+            }
+        ]
+    },
+    {
+        "text": "Choc cardiogénique survenu il y a moins de 24 heures.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Choc cardiogenique/anurie/oligurie<24h"
+            }
+        ]
+    },
+    {
+        "text": "Anurie détectée il y a 18 heures.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "label": "Choc cardiogenique/anurie/oligurie<24h"
+            }
+        ]
+    },
+    {
+        "text": "Oligurie observée il y a moins de 24 heures.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 8,
+                "label": "Choc cardiogenique/anurie/oligurie<24h"
+            }
+        ]
+    },
+    {
+        "text": "Traitement par inotropes en voie IV.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 30,
+                "label": "Inotropes voie IV"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous inotropes par voie intraveineuse.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 25,
+                "label": "Inotropes voie IV"
+            }
+        ]
+    },
+    {
+        "text": "Inotropes administrés par voie IV.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Inotropes voie IV"
+            }
+        ]
+    },
+    {
+        "text": "Ballon de contre-pulsion intra-aortique utilisé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Ballon contre pulsion"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous ballon de contre-pulsion.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 35,
+                "label": "Ballon contre pulsion"
+            }
+        ]
+    },
+    {
+        "text": "Ballon de contre-pulsion mis en place en urgence.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Ballon contre pulsion"
+            }
+        ]
+    },
+    {
+        "text": "ECMO mise en place pour insuffisance cardiaque.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "ECMO/ECLS"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous ECLS pour choc cardiogénique.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 15,
+                "label": "ECMO/ECLS"
+            }
+        ]
+    },
+    {
+        "text": "ECMO/ECLS utilisée en réanimation.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 9,
+                "label": "ECMO/ECLS"
+            }
+        ]
+    },
+    {
+        "text": "Intubation réalisée en pré-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 9,
+                "label": "Intubation pre op"
+            }
+        ]
+    },
+    {
+        "text": "Patient intubé avant l'intervention.",
+        "entities": [
+            {
+                "start": 8,
+                "end": 17,
+                "label": "Intubation pre op"
+            }
+        ]
+    },
+    {
+        "text": "Intubation pré-opératoire pour assistance respiratoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 9,
+                "label": "Intubation pre op"
+            }
+        ]
+    },
+    {
+        "text": "Massage cardiaque externe réalisé en pré-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Massage cardiaque pre op"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant reçu un massage cardiaque avant l'opération.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 45,
+                "label": "Massage cardiaque pre op"
+            }
+        ]
+    },
+    {
+        "text": "Massage cardiaque pré-opératoire en urgence.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Massage cardiaque pre op"
+            }
+        ]
+    },
+    {
+        "text": "FEVG mesurée à 45%.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "FEVG"
+            }
+        ]
+    },
+    {
+        "text": "Fraction d'éjection ventriculaire gauche (FEVG) à 30%.",
+        "entities": [
+            {
+                "start": 42,
+                "end": 46,
+                "label": "FEVG"
+            }
+        ]
+    },
+    {
+        "text": "FEVG réduite à 35%.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "FEVG"
+            }
+        ]
+    },
+    {
+        "text": "PAPS estimée à 50 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "PAPS"
+            }
+        ]
+    },
+    {
+        "text": "Pression artérielle pulmonaire systolique (PAPS) élevée.",
+        "entities": [
+            {
+                "start": 46,
+                "end": 50,
+                "label": "PAPS"
+            }
+        ]
+    },
+    {
+        "text": "PAPS mesurée à 60 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "PAPS"
+            }
+        ]
+    },
+    {
+        "text": "Degré d'urgence : intervention immédiate.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "Degre d'urgence"
+            }
+        ]
+    },
+    {
+        "text": "Patient classé en degré d'urgence élevé.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 33,
+                "label": "Degre d'urgence"
+            }
+        ]
+    },
+    {
+        "text": "Intervention programmée en urgence relative.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 37,
+                "label": "Degre d'urgence"
+            }
+        ]
+    },
+    {
+        "text": "Complexité de l'intervention : élevée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Complexite de l'intervention"
+            }
+        ]
+    },
+    {
+        "text": "Intervention de haute complexité réalisée.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 39,
+                "label": "Complexite de l'intervention"
+            }
+        ]
+    },
+    {
+        "text": "Complexité modérée pour cette chirurgie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Complexite de l'intervention"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgie de l'aorte thoracique réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Chirurgie de l'aorte"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant subi une chirurgie de l'aorte abdominale.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 43,
+                "label": "Chirurgie de l'aorte"
+            }
+        ]
+    },
+    {
+        "text": "Intervention sur l'aorte ascendante prévue.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 33,
+                "label": "Chirurgie de l'aorte"
+            }
+        ]
+    },
+    {
+        "text": "Flap intimal détecté à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Flap intimal (OUI / NON)"
+            }
+        ]
+    },
+    {
+        "text": "Présence d'un Flap intimal dans l'aorte.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 24,
+                "label": "Flap intimal (OUI / NON)"
+            }
+        ]
+    },
+    {
+        "text": "Flap intimal confirmé par imagerie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Flap intimal (OUI / NON)"
+            }
+        ]
+    },
+    {
+        "text": "Maladie des tissus élastiques diagnostiquée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Maladie des tissus elastiques"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une maladie des tissus élastiques.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 41,
+                "label": "Maladie des tissus elastiques"
+            }
+        ]
+    },
+    {
+        "text": "Syndrome de Marfan, une maladie des tissus élastiques.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 44,
+                "label": "Maladie des tissus elastiques"
+            }
+        ]
+    },
+    {
+        "text": "CIV post-infarctus détectée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "CIV post infarctus"
+            }
+        ]
+    },
+    {
+        "text": "Communication interventriculaire (CIV) post-infarctus.",
+        "entities": [
+            {
+                "start": 33,
+                "end": 50,
+                "label": "CIV post infarctus"
+            }
+        ]
+    },
+    {
+        "text": "CIV apparue suite à un infarctus du myocarde.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "CIV post infarctus"
+            }
+        ]
+    },
+    {
+        "text": "Nombre de branches coronaires sténosées : 2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "NB branche coronaire stenosees"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec 3 branches coronaires sténosées.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 48,
+                "label": "NB branche coronaire stenosees"
+            }
+        ]
+    },
+    {
+        "text": "NB de branches coronaires sténosées : 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "NB branche coronaire stenosees"
+            }
+        ]
+    },
+    {
+        "text": "SS TCCG réalisée pour évaluation cardiaque.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "SS TCCG"
+            }
+        ]
+    },
+    {
+        "text": "Scintigraphie myocardique (SS TCCG) normale.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 29,
+                "label": "SS TCCG"
+            }
+        ]
+    },
+    {
+        "text": "SS TCCG montrant une ischémie myocardique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "SS TCCG"
+            }
+        ]
+    },
+    {
+        "text": "Antécédent d'angioplastie (ATL) avec pose de stent.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 16,
+                "label": "ATCD ATL/Stent"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec ATCD de stent coronaire.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 17,
+                "label": "ATCD ATL/Stent"
+            }
+        ]
+    },
+    {
+        "text": "ATCD d'angioplastie transluminale (ATL).",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "ATCD ATL/Stent"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance aortique (IA) grade 2.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "label": "IA(0/1/2/3/4)"
+            }
+        ]
+    },
+    {
+        "text": "IA grade 3 diagnostiquée à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "IA(0/1/2/3/4)"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une IA grade 1.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "IA(0/1/2/3/4)"
+            }
+        ]
+    },
+    {
+        "text": "Régurgitation aortique (RA) légère.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "label": "RA"
+            }
+        ]
+    },
+    {
+        "text": "RA modérée détectée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "RA"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une RA sévère.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "RA"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie de la valve aortique : dégénérative.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Etiologie valve aortique"
+            }
+        ]
+    },
+    {
+        "text": "Valve aortique bicuspide, étiologie congénitale.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 45,
+                "label": "Etiologie valve aortique"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie rhumatismale de la valve aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Etiologie valve aortique"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance mitrale (IM) grade 2.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "label": "IM(0/1/2/3/4)"
+            }
+        ]
+    },
+    {
+        "text": "IM grade 3 détectée à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "IM(0/1/2/3/4)"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une IM grade 1.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "IM(0/1/2/3/4)"
+            }
+        ]
+    },
+    {
+        "text": "Régurgitation mitrale (RM) légère.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "label": "RM"
+            }
+        ]
+    },
+    {
+        "text": "RM modérée observée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "RM"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une RM sévère.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "RM"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie de la valve mitrale : dégénérative.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Etiologie valve mitrale"
+            }
+        ]
+    },
+    {
+        "text": "Valve mitrale prolabée, étiologie myxomateuse.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 45,
+                "label": "Etiologie valve mitrale"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie ischémique de la valve mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Etiologie valve mitrale"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance tricuspide (IT) grade 1.",
+        "entities": [
+            {
+                "start": 25,
+                "end": 27,
+                "label": "IT"
+            }
+        ]
+    },
+    {
+        "text": "IT grade 2 détectée à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "IT"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une IT grade 3.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "IT"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie de la valve tricuspide : fonctionnelle.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "Etiologie valve tricuspide"
+            }
+        ]
+    },
+    {
+        "text": "Valve tricuspide altérée, étiologie secondaire.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 49,
+                "label": "Etiologie valve tricuspide"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie congénitale de la valve tricuspide.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "Etiologie valve tricuspide"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance pulmonaire (IP) légère.",
+        "entities": [
+            {
+                "start": 25,
+                "end": 27,
+                "label": "IP"
+            }
+        ]
+    },
+    {
+        "text": "IP modérée détectée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "IP"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une IP sévère.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "IP"
+            }
+        ]
+    },
+    {
+        "text": "Régurgitation pulmonaire (RP) légère.",
+        "entities": [
+            {
+                "start": 25,
+                "end": 27,
+                "label": "RP"
+            }
+        ]
+    },
+    {
+        "text": "RP modérée observée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "RP"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une RP sévère.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "RP"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie de la valve pulmonaire : congénitale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "Etiologie valve pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Valve pulmonaire dysplasique, étiologie complexe.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 49,
+                "label": "Etiologie valve pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Étiologie rhumatismale de la valve pulmonaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "Etiologie valve pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Traitement par AVK avant l'intervention.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 19,
+                "label": "AVK pre op"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous AVK en pré-opératoire.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 14,
+                "label": "AVK pre op"
+            }
+        ]
+    },
+    {
+        "text": "AVK arrêtés 5 jours avant l'opération.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "AVK pre op"
+            }
+        ]
+    },
+    {
+        "text": "Traitement par NACO avant l'intervention.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 20,
+                "label": "NACO pre op"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous NACO en pré-opératoire.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 15,
+                "label": "NACO pre op"
+            }
+        ]
+    },
+    {
+        "text": "NACO arrêtés 3 jours avant l'opération.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "NACO pre op"
+            }
+        ]
+    },
+    {
+        "text": "Traitement par AAG avant l'intervention.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 19,
+                "label": "AAG pre op"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous AAG en pré-opératoire.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 14,
+                "label": "AAG pre op"
+            }
+        ]
+    },
+    {
+        "text": "AAG arrêtés 24 heures avant l'opération.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "AAG pre op"
+            }
+        ]
+    },
+    {
+        "text": "Traitement par double AAG avant l'intervention.",
+        "entities": [
+            {
+                "start": 16,
+                "end": 26,
+                "label": "double AAG"
+            }
+        ]
+    },
+    {
+        "text": "Patient sous double AAG en pré-opératoire.",
+        "entities": [
+            {
+                "start": 11,
+                "end": 21,
+                "label": "double AAG"
+            }
+        ]
+    },
+    {
+        "text": "Double AAG arrêtés 48 heures avant l'opération.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "double AAG"
+            }
+        ]
+    },
+    {
+        "text": "Sars Cov 2 prouvé par PCR chez le patient.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Sars Cov 2 prouve par PCR"
+            }
+        ]
+    },
+    {
+        "text": "Test PCR positif pour Sars Cov 2.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 29,
+                "label": "Sars Cov 2 prouve par PCR"
+            }
+        ]
+    },
+    {
+        "text": "Infection à Sars Cov 2 confirmée par PCR.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 35,
+                "label": "Sars Cov 2 prouve par PCR"
+            }
+        ]
+    },
+    {
+        "text": "Patient symptomatique pour COVID 19.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 29,
+                "label": "COVID 19 symptomatique"
+            }
+        ]
+    },
+    {
+        "text": "COVID 19 symptomatique avec fièvre et toux.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 9,
+                "label": "COVID 19 symptomatique"
+            }
+        ]
+    },
+    {
+        "text": "Symptômes de COVID 19 présents.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 22,
+                "label": "COVID 19 symptomatique"
+            }
+        ]
+    },
+    {
+        "text": "Patient reculé pour COVID 19 en raison de la pandémie.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 22,
+                "label": "Patient recule pour COVID 19"
+            }
+        ]
+    },
+    {
+        "text": "Intervention reportée pour COVID 19.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 33,
+                "label": "Patient recule pour COVID 19"
+            }
+        ]
+    },
+    {
+        "text": "Patient reculé en raison d'une infection à COVID 19.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 22,
+                "label": "Patient recule pour COVID 19"
+            }
+        ]
+    },
+    {
+        "text": "DTD mesurée à 55 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DTD"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre télédiastolique (DTD) augmenté.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 27,
+                "label": "DTD"
+            }
+        ]
+    },
+    {
+        "text": "DTD à 60 mm à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DTD"
+            }
+        ]
+    },
+    {
+        "text": "DTS mesurée à 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DTS"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre télésystolique (DTS) normal.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 27,
+                "label": "DTS"
+            }
+        ]
+    },
+    {
+        "text": "DTS à 40 mm à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "DTS"
+            }
+        ]
+    },
+    {
+        "text": "SIV mesuré à 10 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "SIV"
+            }
+        ]
+    },
+    {
+        "text": "Septum interventriculaire (SIV) épaissi.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 27,
+                "label": "SIV"
+            }
+        ]
+    },
+    {
+        "text": "SIV normal à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "SIV"
+            }
+        ]
+    },
+    {
+        "text": "Paroi postérieure mesurée à 9 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Paroi posterieure"
+            }
+        ]
+    },
+    {
+        "text": "Hypertrophie de la paroi postérieure.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 34,
+                "label": "Paroi posterieure"
+            }
+        ]
+    },
+    {
+        "text": "Paroi postérieure normale à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Paroi posterieure"
+            }
+        ]
+    },
+    {
+        "text": "Chambre de chasse du ventricule gauche mesurée à 20 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Chambre de chasse"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation de la chambre de chasse.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 34,
+                "label": "Chambre de chasse"
+            }
+        ]
+    },
+    {
+        "text": "Chambre de chasse normale à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Chambre de chasse"
+            }
+        ]
+    },
+    {
+        "text": "Cinétique de la paroi antérieure altérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Cinetique paroi anterieure"
+            }
+        ]
+    },
+    {
+        "text": "Paroi antérieure hypokinétique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Cinetique paroi anterieure"
+            }
+        ]
+    },
+    {
+        "text": "Cinétique paroi antérieure normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Cinetique paroi anterieure"
+            }
+        ]
+    },
+    {
+        "text": "Cinétique de la paroi latérale normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Cinetique paroi laterale"
+            }
+        ]
+    },
+    {
+        "text": "Paroi latérale akinétique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Cinetique paroi laterale"
+            }
+        ]
+    },
+    {
+        "text": "Cinétique paroi latérale altérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Cinetique paroi laterale"
+            }
+        ]
+    },
+    {
+        "text": "Cinétique de la paroi inférieure normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Cinetique paroi inferieure"
+            }
+        ]
+    },
+    {
+        "text": "Paroi inférieure hypokinétique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Cinetique paroi inferieure"
+            }
+        ]
+    },
+    {
+        "text": "Cinétique paroi inférieure altérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Cinetique paroi inferieure"
+            }
+        ]
+    },
+    {
+        "text": "Rupture pariétale détectée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Rupture parietale ou CIV"
+            }
+        ]
+    },
+    {
+        "text": "CIV post-infarctus confirmée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "Rupture parietale ou CIV"
+            }
+        ]
+    },
+    {
+        "text": "Rupture pariétale ou CIV suspectée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Rupture parietale ou CIV"
+            }
+        ]
+    },
+    {
+        "text": "Epanchement péricardique modéré.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epanchement pericardique"
+            }
+        ]
+    },
+    {
+        "text": "Présence d'un épanchement péricardique.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 37,
+                "label": "Epanchement pericardique"
+            }
+        ]
+    },
+    {
+        "text": "Epanchement péricardique important.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epanchement pericardique"
+            }
+        ]
+    },
+    {
+        "text": "VCI mesurée à 15 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "VCI"
+            }
+        ]
+    },
+    {
+        "text": "Veine cave inférieure (VCI) dilatée.",
+        "entities": [
+            {
+                "start": 20,
+                "end": 23,
+                "label": "VCI"
+            }
+        ]
+    },
+    {
+        "text": "VCI normale à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "VCI"
+            }
+        ]
+    },
+    {
+        "text": "Epaississement péricardique détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epaississement pericarde"
+            }
+        ]
+    },
+    {
+        "text": "Péricarde épaissi à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epaississement pericarde"
+            }
+        ]
+    },
+    {
+        "text": "Epaississement péricardique modéré.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epaississement pericarde"
+            }
+        ]
+    },
+    {
+        "text": "Thrombus dans l'oreillette droite détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Thrombus/Tumeur OD"
+            }
+        ]
+    },
+    {
+        "text": "Tumeur de l'oreillette droite suspectée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "label": "Thrombus/Tumeur OD"
+            }
+        ]
+    },
+    {
+        "text": "Thrombus ou tumeur OD confirmé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Thrombus/Tumeur OD"
+            }
+        ]
+    },
+    {
+        "text": "Thrombus dans l'oreillette gauche détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Thrombus/tumeur OG"
+            }
+        ]
+    },
+    {
+        "text": "Tumeur de l'oreillette gauche suspectée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "label": "Thrombus/tumeur OG"
+            }
+        ]
+    },
+    {
+        "text": "Thrombus ou tumeur OG confirmé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 7,
+                "label": "Thrombus/tumeur OG"
+            }
+        ]
+    },
+    {
+        "text": "Aspect normal du ventricule gauche.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Aspect"
+            }
+        ]
+    },
+    {
+        "text": "Aspect anormal de la valve mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Aspect"
+            }
+        ]
+    },
+    {
+        "text": "Aspect échocardiographique normal.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Aspect"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance aortique (IA) grade 2.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "label": "IA"
+            }
+        ]
+    },
+    {
+        "text": "IA grade 3 détectée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "IA"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une IA grade 1.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "IA"
+            }
+        ]
+    },
+    {
+        "text": "Gradient max de 40 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Gradient max"
+            }
+        ]
+    },
+    {
+        "text": "Gradient maximal mesuré à 50 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Gradient max"
+            }
+        ]
+    },
+    {
+        "text": "Gradient max élevé à 60 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Gradient max"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen de 25 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Gradient moyen"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen mesuré à 30 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Gradient moyen"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen normal à 20 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Gradient moyen"
+            }
+        ]
+    },
+    {
+        "text": "Vmax de 2,5 m/s.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "Vmax"
+            }
+        ]
+    },
+    {
+        "text": "Vitesse maximale (Vmax) de 3,0 m/s.",
+        "entities": [
+            {
+                "start": 19,
+                "end": 23,
+                "label": "Vmax"
+            }
+        ]
+    },
+    {
+        "text": "Vmax élevée à 4,0 m/s.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "label": "Vmax"
+            }
+        ]
+    },
+    {
+        "text": "Surface effective de 1,5 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Surface effective"
+            }
+        ]
+    },
+    {
+        "text": "Surface effective mesurée à 2,0 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Surface effective"
+            }
+        ]
+    },
+    {
+        "text": "Surface effective normale à 1,8 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Surface effective"
+            }
+        ]
+    },
+    {
+        "text": "Surface indexée de 1,2 cm²/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Surface indexee"
+            }
+        ]
+    },
+    {
+        "text": "Surface indexée mesurée à 1,0 cm²/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Surface indexee"
+            }
+        ]
+    },
+    {
+        "text": "Surface indexée normale à 1,1 cm²/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Surface indexee"
+            }
+        ]
+    },
+    {
+        "text": "ITV sous aortique de 20 cm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "ITV sous aortique"
+            }
+        ]
+    },
+    {
+        "text": "ITV sous-aortique mesurée à 25 cm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "ITV sous aortique"
+            }
+        ]
+    },
+    {
+        "text": "ITV sous aortique normale à 22 cm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "ITV sous aortique"
+            }
+        ]
+    },
+    {
+        "text": "ITV aortique de 18 cm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "ITV aortique"
+            }
+        ]
+    },
+    {
+        "text": "ITV aortique mesurée à 20 cm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "ITV aortique"
+            }
+        ]
+    },
+    {
+        "text": "ITV aortique normale à 19 cm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "ITV aortique"
+            }
+        ]
+    },
+    {
+        "text": "Index de perméabilité de 0,8.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Index de permeabillite"
+            }
+        ]
+    },
+    {
+        "text": "Index de perméabilité mesuré à 0,9.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Index de permeabillite"
+            }
+        ]
+    },
+    {
+        "text": "Index de perméabilité normal à 1,0.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Index de permeabillite"
+            }
+        ]
+    },
+    {
+        "text": "SOR de 1,2 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "SOR"
+            }
+        ]
+    },
+    {
+        "text": "Surface orifice régurgitant (SOR) mesurée à 1,5 cm².",
+        "entities": [
+            {
+                "start": 30,
+                "end": 33,
+                "label": "SOR"
+            }
+        ]
+    },
+    {
+        "text": "SOR normale à 1,0 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "SOR"
+            }
+        ]
+    },
+    {
+        "text": "Volume régurgitant de 30 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Volume regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Volume régurgitant mesuré à 40 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Volume regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Volume régurgitant normal à 20 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Volume regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Temps 1/2 pression de 200 ms.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Temps 1/2 pression"
+            }
+        ]
+    },
+    {
+        "text": "Temps de demi-pression mesuré à 220 ms.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Temps 1/2 pression"
+            }
+        ]
+    },
+    {
+        "text": "Temps 1/2 pression normal à 180 ms.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Temps 1/2 pression"
+            }
+        ]
+    },
+    {
+        "text": "Reflux diastolique crosse (OUI/NON) : OUI.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Reflux diastolique crosse (OUI/NON)"
+            }
+        ]
+    },
+    {
+        "text": "Pas de Reflux diastolique crosse (OUI/NON) : NON.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Reflux diastolique crosse (OUI/NON)"
+            }
+        ]
+    },
+    {
+        "text": "Reflux diastolique crosse (OUI/NON) absent.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Reflux diastolique crosse (OUI/NON)"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance mitrale (IM) grade 2.",
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "label": "IM"
+            }
+        ]
+    },
+    {
+        "text": "IM grade 3 détectée à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "IM"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec une IM grade 1.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "label": "IM"
+            }
+        ]
+    },
+    {
+        "text": "Prolapsus de la valve mitrale détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 8,
+                "label": "Prolapsus"
+            }
+        ]
+    },
+    {
+        "text": "Valve mitrale avec prolapsus.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 25,
+                "label": "Prolapsus"
+            }
+        ]
+    },
+    {
+        "text": "Prolapsus mitral confirmé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 8,
+                "label": "Prolapsus"
+            }
+        ]
+    },
+    {
+        "text": "Rupture de cordage de la valve mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Rupture de cordage"
+            }
+        ]
+    },
+    {
+        "text": "Cordage mitral rompu.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Rupture de cordage"
+            }
+        ]
+    },
+    {
+        "text": "Rupture de cordage confirmée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Rupture de cordage"
+            }
+        ]
+    },
+    {
+        "text": "IM dystrophique de type Barlow.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "IM dystrophique (Barlow)"
+            }
+        ]
+    },
+    {
+        "text": "Valve mitrale dystrophique (Barlow).",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "IM dystrophique (Barlow)"
+            }
+        ]
+    },
+    {
+        "text": "IM dystrophique confirmée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "IM dystrophique (Barlow)"
+            }
+        ]
+    },
+    {
+        "text": "Cordages épaissis et raccourcis.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Cordages epaissis/raccourcis"
+            }
+        ]
+    },
+    {
+        "text": "Cordages mitraux épaissis.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Cordages epaissis/raccourcis"
+            }
+        ]
+    },
+    {
+        "text": "Cordages raccourcis détectés.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Cordages epaissis/raccourcis"
+            }
+        ]
+    },
+    {
+        "text": "Calcifications de la valve mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Calcifications"
+            }
+        ]
+    },
+    {
+        "text": "Valve mitrale calcifiée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Calcifications"
+            }
+        ]
+    },
+    {
+        "text": "Calcifications importantes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Calcifications"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau mitral de 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre. Anneau mitral"
+            }
+        ]
+    },
+    {
+        "text": "Anneau mitral mesuré à 40 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre. Anneau mitral"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau mitral normal à 38 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre. Anneau mitral"
+            }
+        ]
+    },
+    {
+        "text": "OG dilatée à 50 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "OG dilatee"
+            }
+        ]
+    },
+    {
+        "text": "Oreillette gauche (OG) dilatée.",
+        "entities": [
+            {
+                "start": 17,
+                "end": 27,
+                "label": "OG dilatee"
+            }
+        ]
+    },
+    {
+        "text": "OG dilatée modérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "OG dilatee"
+            }
+        ]
+    },
+    {
+        "text": "Surface de l'OG mesurée à 25 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 15,
+                "label": "Surface de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Surface de l'oreillette gauche (OG) normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 15,
+                "label": "Surface de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Surface de l'OG augmentée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 15,
+                "label": "Surface de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Volume de l'OG mesuré à 100 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Volume de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Volume de l'oreillette gauche (OG) normal.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Volume de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Volume de l'OG augmenté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Volume de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Volume indexé de l'OG à 50 ml/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Volume indexe de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Volume indexé de l'oreillette gauche (OG) normal.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Volume indexe de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "Volume indexé de l'OG augmenté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Volume indexe de l'OG"
+            }
+        ]
+    },
+    {
+        "text": "RM : surface effective de 2,0 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "RM : surface effective"
+            }
+        ]
+    },
+    {
+        "text": "Surface effective de la régurgitation mitrale (RM) mesurée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "RM : surface effective"
+            }
+        ]
+    },
+    {
+        "text": "RM : surface effective normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "RM : surface effective"
+            }
+        ]
+    },
+    {
+        "text": "RM : gradient moyen de 5 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "RM : gradient moyen"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen de la régurgitation mitrale (RM) mesuré.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "RM : gradient moyen"
+            }
+        ]
+    },
+    {
+        "text": "RM : gradient moyen normal.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "RM : gradient moyen"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau tricuspide mesuré à 40 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre anneau tricuspide"
+            }
+        ]
+    },
+    {
+        "text": "Anneau tricuspide dilaté à 45 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre anneau tricuspide"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau tricuspide normal à 38 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre anneau tricuspide"
+            }
+        ]
+    },
+    {
+        "text": "TAPSE mesuré à 18 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "TAPSE"
+            }
+        ]
+    },
+    {
+        "text": "TAPSE réduit à 15 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "TAPSE"
+            }
+        ]
+    },
+    {
+        "text": "TAPSE normal à 20 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "TAPSE"
+            }
+        ]
+    },
+    {
+        "text": "Strain longitudinal global de -18%.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Strain longitudinal global"
+            }
+        ]
+    },
+    {
+        "text": "Strain global réduit à -15%.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Strain longitudinal global"
+            }
+        ]
+    },
+    {
+        "text": "Strain longitudinal global normal à -20%.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Strain longitudinal global"
+            }
+        ]
+    },
+    {
+        "text": "S' mesuré à 10 cm/s.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "S'"
+            }
+        ]
+    },
+    {
+        "text": "Vitesse S' réduite à 8 cm/s.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "S'"
+            }
+        ]
+    },
+    {
+        "text": "S' normal à 12 cm/s.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "label": "S'"
+            }
+        ]
+    },
+    {
+        "text": "Rapport E/A de 1,2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Rapport E/A"
+            }
+        ]
+    },
+    {
+        "text": "Rapport E/A réduit à 0,8.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Rapport E/A"
+            }
+        ]
+    },
+    {
+        "text": "Rapport E/A normal à 1,5.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Rapport E/A"
+            }
+        ]
+    },
+    {
+        "text": "Rapport E/E' de 8.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Rapport E/E'"
+            }
+        ]
+    },
+    {
+        "text": "Rapport E/E' élevé à 15.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Rapport E/E'"
+            }
+        ]
+    },
+    {
+        "text": "Rapport E/E' normal à 6.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Rapport E/E'"
+            }
+        ]
+    },
+    {
+        "text": "Fonction VD altérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Fonction VD"
+            }
+        ]
+    },
+    {
+        "text": "Fonction ventriculaire droite (VD) normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Fonction VD"
+            }
+        ]
+    },
+    {
+        "text": "Fonction VD réduite.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Fonction VD"
+            }
+        ]
+    },
+    {
+        "text": "Flux inversé dans les veines sus-hépatiques.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "Flux inverse des veines sus hepatiques"
+            }
+        ]
+    },
+    {
+        "text": "Flux inversé veines sus-hépatiques détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "Flux inverse des veines sus hepatiques"
+            }
+        ]
+    },
+    {
+        "text": "Absence de flux inversé veines sus-hépatiques.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "Flux inverse des veines sus hepatiques"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation de l'oreillette droite (OD).",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation OD"
+            }
+        ]
+    },
+    {
+        "text": "OD dilatée à 45 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation OD"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation OD modérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation OD"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation du ventricule droit (VD).",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation VD"
+            }
+        ]
+    },
+    {
+        "text": "VD dilaté à 50 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation VD"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation VD importante.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation VD"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation de la veine cave inférieure (VCI).",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation VCI"
+            }
+        ]
+    },
+    {
+        "text": "VCI dilatée à 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation VCI"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation VCI modérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Dilatation VCI"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance pulmonaire légère.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Insuffisance pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance pulmonaire modérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Insuffisance pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance pulmonaire sévère.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Insuffisance pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau pulmonaire mesuré à 22 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre anneau pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Anneau pulmonaire dilaté à 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre anneau pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau pulmonaire normal à 20 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre anneau pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Gradient maximal pulmonaire de 30 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Gradient maximal pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Gradient maximal pulmonaire élevé à 40 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Gradient maximal pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Gradient maximal pulmonaire normal à 25 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Gradient maximal pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen pulmonaire de 15 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Gradient moyen pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen pulmonaire élevé à 20 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Gradient moyen pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Gradient moyen pulmonaire normal à 10 mmHg.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Gradient moyen pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau aortique mesuré à 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Diametre anneau aortique"
+            }
+        ]
+    },
+    {
+        "text": "Anneau aortique dilaté à 30 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Diametre anneau aortique"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau aortique normal à 22 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Diametre anneau aortique"
+            }
+        ]
+    },
+    {
+        "text": "Sinus de ValsalVA_mesuré à 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Sinus de valsalva"
+            }
+        ]
+    },
+    {
+        "text": "Sinus de ValsalVA_dilaté à 40 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Sinus de valsalva"
+            }
+        ]
+    },
+    {
+        "text": "Sinus de ValsalVA_normal à 32 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Sinus de valsalva"
+            }
+        ]
+    },
+    {
+        "text": "JST mesuré à 10 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "JST"
+            }
+        ]
+    },
+    {
+        "text": "Jonction sino-tubulaire (JST) normale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "JST"
+            }
+        ]
+    },
+    {
+        "text": "JST dilaté à 12 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "JST"
+            }
+        ]
+    },
+    {
+        "text": "Aorte tubulaire mesurée à 30 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 15,
+                "label": "Aorte tubulaire"
+            }
+        ]
+    },
+    {
+        "text": "Aorte tubulaire dilatée à 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 15,
+                "label": "Aorte tubulaire"
+            }
+        ]
+    },
+    {
+        "text": "Aorte tubulaire normale à 28 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 15,
+                "label": "Aorte tubulaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre tronc artère pulmonaire mesuré à 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Diametre tronc artere pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Tronc artère pulmonaire dilaté à 30 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Diametre tronc artere pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre tronc artère pulmonaire normal à 22 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Diametre tronc artere pulmonaire"
+            }
+        ]
+    },
+    {
+        "text": "CEC utilisée pendant l'intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "CEC"
+            }
+        ]
+    },
+    {
+        "text": "Circulation extracorporelle (CEC) nécessaire.",
+        "entities": [
+            {
+                "start": 27,
+                "end": 30,
+                "label": "CEC"
+            }
+        ]
+    },
+    {
+        "text": "CEC d'une durée de 120 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "label": "CEC"
+            }
+        ]
+    },
+    {
+        "text": "Durée de clampage de 60 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Duree de clampage"
+            }
+        ]
+    },
+    {
+        "text": "Clampage aortique pendant 45 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Duree de clampage"
+            }
+        ]
+    },
+    {
+        "text": "Durée de clampage prolongée à 90 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Duree de clampage"
+            }
+        ]
+    },
+    {
+        "text": "Durée CEC de 150 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Duree CEC"
+            }
+        ]
+    },
+    {
+        "text": "CEC d'une durée de 180 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Duree CEC"
+            }
+        ]
+    },
+    {
+        "text": "Durée CEC réduite à 120 minutes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Duree CEC"
+            }
+        ]
+    },
+    {
+        "text": "Intervention nécessitant une protection cérébrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 43,
+                "label": "Intervention necessitant une protection cerebrale"
+            }
+        ]
+    },
+    {
+        "text": "Protection cérébrale utilisée pendant l'intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 43,
+                "label": "Intervention necessitant une protection cerebrale"
+            }
+        ]
+    },
+    {
+        "text": "Intervention complexe avec protection cérébrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 43,
+                "label": "Intervention necessitant une protection cerebrale"
+            }
+        ]
+    },
+    {
+        "text": "Type de protection cérébrale : hypothermie modérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Type de protection cerebrale"
+            }
+        ]
+    },
+    {
+        "text": "Protection cérébrale par hypothermie profonde.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Type de protection cerebrale"
+            }
+        ]
+    },
+    {
+        "text": "Type de protection cérébrale : circulation rétrograde.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Type de protection cerebrale"
+            }
+        ]
+    },
+    {
+        "text": "Geste vidéo assisté réalisé avec succès.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Geste video assiste"
+            }
+        ]
+    },
+    {
+        "text": "Intervention vidéo assistée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Geste video assiste"
+            }
+        ]
+    },
+    {
+        "text": "Geste vidéo assisté pour la chirurgie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Geste video assiste"
+            }
+        ]
+    },
+    {
+        "text": "Voie d'abord : sternotomie médiane.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Voie d'abord"
+            }
+        ]
+    },
+    {
+        "text": "Intervention par voie d'abord mini-invasive.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 29,
+                "label": "Voie d'abord"
+            }
+        ]
+    },
+    {
+        "text": "Si voie d'abord transthoracique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Voie d'abord"
+            }
+        ]
+    },
+    {
+        "text": "Si voie d'abord endovasculaire choisie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Si voie d'abord endovasculaire"
+            }
+        ]
+    },
+    {
+        "text": "Intervention réalisée par voie endovasculaire.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 49,
+                "label": "Si voie d'abord endovasculaire"
+            }
+        ]
+    },
+    {
+        "text": "Si voie d'abord endovasculaire préférée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Si voie d'abord endovasculaire"
+            }
+        ]
+    },
+    {
+        "text": "Si voie d'abord transthoracique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Si voie d'abord transthoracique"
+            }
+        ]
+    },
+    {
+        "text": "Intervention par voie transthoracique.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 45,
+                "label": "Si voie d'abord transthoracique"
+            }
+        ]
+    },
+    {
+        "text": "Si voie d'abord transthoracique préférée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Si voie d'abord transthoracique"
+            }
+        ]
+    },
+    {
+        "text": "Voie d'abord périphérique choisie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Si voie d'abord peripherique"
+            }
+        ]
+    },
+    {
+        "text": "Intervention par voie périphérique.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 42,
+                "label": "Si voie d'abord peripherique"
+            }
+        ]
+    },
+    {
+        "text": "Voie d'abord périphérique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Si voie d'abord peripherique"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien 1 : Dr. Dupont.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Chirurgien 1"
+            }
+        ]
+    },
+    {
+        "text": "Intervention réalisée par le chirurgien 1.",
+        "entities": [
+            {
+                "start": 28,
+                "end": 39,
+                "label": "Chirurgien 1"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien 1 en charge de l'intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Chirurgien 1"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien 2 : Dr. Martin.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Chirurgien 2"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien 2 assistant pendant l'intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 11,
+                "label": "Chirurgien 2"
+            }
+        ]
+    },
+    {
+        "text": "Intervention supervisée par le chirurgien 2.",
+        "entities": [
+            {
+                "start": 28,
+                "end": 39,
+                "label": "Chirurgien 2"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien en formation présent pendant l'intervention.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Chirurgien en formation"
+            }
+        ]
+    },
+    {
+        "text": "Intervention assistée par un chirurgien en formation.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 44,
+                "label": "Chirurgien en formation"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien en formation participant à la chirurgie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Chirurgien en formation"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien spécialisé en chirurgie structuelle.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 28,
+                "label": "Chirurgien chirurgie structuelle"
+            }
+        ]
+    },
+    {
+        "text": "Intervention réalisée par un chirurgien en chirurgie structuelle.",
+        "entities": [
+            {
+                "start": 28,
+                "end": 56,
+                "label": "Chirurgien chirurgie structuelle"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgien en chirurgie structuelle présent.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 28,
+                "label": "Chirurgien chirurgie structuelle"
+            }
+        ]
+    },
+    {
+        "text": "Type de chirurgie : pontage aorto-coronarien.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Type de chirurgie"
+            }
+        ]
+    },
+    {
+        "text": "Intervention de type remplacement valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Type de chirurgie"
+            }
+        ]
+    },
+    {
+        "text": "Type de chirurgie : réparation mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Type de chirurgie"
+            }
+        ]
+    },
+    {
+        "text": "Nombre total de conduits artériels : 2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "NB total de conduit arteriel"
+            }
+        ]
+    },
+    {
+        "text": "Conduits artériels utilisés : 3.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "NB total de conduit arteriel"
+            }
+        ]
+    },
+    {
+        "text": "NB total de conduits artériels : 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 29,
+                "label": "NB total de conduit arteriel"
+            }
+        ]
+    },
+    {
+        "text": "Nombre d'anastomoses coronaires avec conduit artériel : 2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 55,
+                "label": "NB anastomoses coronaires avec conduit arteriel"
+            }
+        ]
+    },
+    {
+        "text": "Anastomoses coronaires réalisées avec conduit artériel : 3.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 55,
+                "label": "NB anastomoses coronaires avec conduit arteriel"
+            }
+        ]
+    },
+    {
+        "text": "NB anastomoses coronaires avec conduit artériel : 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 55,
+                "label": "NB anastomoses coronaires avec conduit arteriel"
+            }
+        ]
+    },
+    {
+        "text": "Nombre total de conduits veineux : 2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "NB total conduit veineux"
+            }
+        ]
+    },
+    {
+        "text": "Conduits veineux utilisés : 3.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "NB total conduit veineux"
+            }
+        ]
+    },
+    {
+        "text": "NB total de conduits veineux : 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "NB total conduit veineux"
+            }
+        ]
+    },
+    {
+        "text": "Nombre d'anastomoses coronaires avec conduit veineux : 2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 53,
+                "label": "NB anastomoses coronaires avec conduit veineux"
+            }
+        ]
+    },
+    {
+        "text": "Anastomoses coronaires réalisées avec conduit veineux : 3.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 53,
+                "label": "NB anastomoses coronaires avec conduit veineux"
+            }
+        ]
+    },
+    {
+        "text": "NB anastomoses coronaires avec conduit veineux : 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 53,
+                "label": "NB anastomoses coronaires avec conduit veineux"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire aortique : remplacement valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "VA_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Intervention valvulaire aortique réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "VA_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire aortique : réparation.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "VA_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse aortique : bioprothèse.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VA_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique mécanique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VA_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse aortique : homogreffe.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VA_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant de la prothèse aortique : Medtronic.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique fabriquée par Edwards.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant : St. Jude Medical.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Modèle de la prothèse aortique : Magna Ease.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VA_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique modèle Inspiris.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VA_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Modèle : Trifecta.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VA_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Taille de la prothèse aortique : 23 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique de taille 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Taille : 21 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série de la prothèse aortique : 123456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VA_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique avec numéro de série 789012.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VA_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série : 345678.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VA_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot de la prothèse aortique : LOT123.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique de lot LOT456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot : LOT789.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VA_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire mitral : remplacement valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "VM_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Intervention valvulaire mitrale réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "VM_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire mitral : réparation.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "VM_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse mitrale : bioprothèse.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "VM_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse mitrale mécanique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "VM_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse mitrale : homogreffe.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "VM_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant de la prothèse mitrale : Medtronic.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse mitrale fabriquée par Edwards.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant : St. Jude Medical.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Modèle de la prothèse mitrale : Magna Ease.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VM_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse mitrale modèle Inspiris.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VM_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Modèle : Trifecta.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VM_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Taille de la prothèse mitrale : 27 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse mitrale de taille 29 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Taille : 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série de la prothèse mitrale : 123456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VM_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse mitrale avec numéro de série 789012.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VM_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série : 345678.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VM_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot de la prothèse mitrale : LOT123.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse mitrale de lot LOT456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot : LOT789.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VM_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire tricuspide : remplacement valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "VT_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Intervention valvulaire tricuspide réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "VT_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire tricuspide : réparation.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "VT_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse tricuspide : bioprothèse.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "VT_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse tricuspide mécanique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "VT_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse tricuspide : homogreffe.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "VT_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant de la prothèse tricuspide : Medtronic.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse tricuspide fabriquée par Edwards.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant : St. Jude Medical.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Modèle de la prothèse tricuspide : Magna Ease.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VT_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse tricuspide modèle Inspiris.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VT_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Modèle : Trifecta.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VT_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Taille de la prothèse tricuspide : 29 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse tricuspide de taille 31 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Taille : 27 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série de la prothèse tricuspide : 123456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VT_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse tricuspide avec numéro de série 789012.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VT_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série : 345678.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VT_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot de la prothèse tricuspide : LOT123.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse tricuspide de lot LOT456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot : LOT789.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VT_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire pulmonaire : remplacement valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "VP_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Intervention valvulaire pulmonaire réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "VP_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Geste valvulaire pulmonaire : réparation.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "VP_Geste valvulaire"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse pulmonaire : bioprothèse.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "VP_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse pulmonaire mécanique utilisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "VP_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Type de prothèse pulmonaire : homogreffe.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "VP_Type de prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant de la prothèse pulmonaire : Medtronic.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse pulmonaire fabriquée par Edwards.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Fabricant : St. Jude Medical.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Fabricant"
+            }
+        ]
+    },
+    {
+        "text": "Modèle de la prothèse pulmonaire : Magna Ease.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VP_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse pulmonaire modèle Inspiris.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VP_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Modèle : Trifecta.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "VP_Modele"
+            }
+        ]
+    },
+    {
+        "text": "Taille de la prothèse pulmonaire : 23 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse pulmonaire de taille 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Taille : 21 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Taille (mm)"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série de la prothèse pulmonaire : 123456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VP_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse pulmonaire avec numéro de série 789012.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VP_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de série : 345678.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "VP_Numero de serie"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot de la prothèse pulmonaire : LOT123.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse pulmonaire de lot LOT456.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Numéro de lot : LOT789.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "VP_Numero de lot"
+            }
+        ]
+    },
+    {
+        "text": "Diagnostic : sténose aortique sévère.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Diagnostic"
+            }
+        ]
+    },
+    {
+        "text": "Diagnostic posé : insuffisance mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Diagnostic"
+            }
+        ]
+    },
+    {
+        "text": "Diagnostic final : cardiopathie ischémique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Diagnostic"
+            }
+        ]
+    },
+    {
+        "text": "Indication : remplacement valvulaire aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Indication"
+            }
+        ]
+    },
+    {
+        "text": "Indication chirurgicale : pontage coronarien.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Indication"
+            }
+        ]
+    },
+    {
+        "text": "Indication : réparation valvulaire mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Indication"
+            }
+        ]
+    },
+    {
+        "text": "Geste réalisé : remplacement valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Geste"
+            }
+        ]
+    },
+    {
+        "text": "Geste chirurgical : pontage aorto-coronarien.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Geste"
+            }
+        ]
+    },
+    {
+        "text": "Geste : réparation de la valve mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Geste"
+            }
+        ]
+    },
+    {
+        "text": "Plastie de la valve aortique réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Plastie valve aortique"
+            }
+        ]
+    },
+    {
+        "text": "Plastie valvulaire aortique réussie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Plastie valve aortique"
+            }
+        ]
+    },
+    {
+        "text": "Plastie de la valve aortique nécessaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Plastie valve aortique"
+            }
+        ]
+    },
+    {
+        "text": "Clampage aortique pour nouvelle plastie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Clampage aortique pour nouvelle plastie"
+            }
+        ]
+    },
+    {
+        "text": "Clampage aortique réalisé pour plastie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Clampage aortique pour nouvelle plastie"
+            }
+        ]
+    },
+    {
+        "text": "Nouvelle plastie après clampage aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Clampage aortique pour nouvelle plastie"
+            }
+        ]
+    },
+    {
+        "text": "Localisation du geste chirurgical : thoracique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "Localisation du geste chirurgical"
+            }
+        ]
+    },
+    {
+        "text": "Geste chirurgical localisé en position abdominale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "Localisation du geste chirurgical"
+            }
+        ]
+    },
+    {
+        "text": "Localisation : thoraco-abdominale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "Localisation du geste chirurgical"
+            }
+        ]
+    },
+    {
+        "text": "Stent coronarien posé avec succès.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Stent"
+            }
+        ]
+    },
+    {
+        "text": "Stent utilisé pour la revascularisation.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Stent"
+            }
+        ]
+    },
+    {
+        "text": "Stent placé dans l'artère coronaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "label": "Stent"
+            }
+        ]
+    },
+    {
+        "text": "Type de stent : stent actif.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Type de stent"
+            }
+        ]
+    },
+    {
+        "text": "Stent de type pharmaco-actif.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Type de stent"
+            }
+        ]
+    },
+    {
+        "text": "Type de stent utilisé : stent nu.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 14,
+                "label": "Type de stent"
+            }
+        ]
+    },
+    {
+        "text": "Nombre de tubes vasculaires non valvés : 2.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Nombre de tube vasculaire non valve"
+            }
+        ]
+    },
+    {
+        "text": "Tubes vasculaires non valvés utilisés : 3.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Nombre de tube vasculaire non valve"
+            }
+        ]
+    },
+    {
+        "text": "Nombre de tubes non valvés : 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Nombre de tube vasculaire non valve"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse valvulaire aortique implantée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Prothese valvulaire aortique"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse aortique de type bioprothèse.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Prothese valvulaire aortique"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse valvulaire aortique mécanique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 27,
+                "label": "Prothese valvulaire aortique"
+            }
+        ]
+    },
+    {
+        "text": "Autres chirurgies réalisées : ablation de tumeur.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Autres chirurgies"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgies supplémentaires : réparation herniaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Autres chirurgies"
+            }
+        ]
+    },
+    {
+        "text": "Autres interventions : chirurgie plastique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Autres chirurgies"
+            }
+        ]
+    },
+    {
+        "text": "Autres chirurgies non cardiaques : vasculaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Autres chirurgies non cardiaque : vasculaire"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgie vasculaire réalisée en complément.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Autres chirurgies non cardiaque : vasculaire"
+            }
+        ]
+    },
+    {
+        "text": "Intervention vasculaire non cardiaque.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Autres chirurgies non cardiaque : vasculaire"
+            }
+        ]
+    },
+    {
+        "text": "Autres chirurgies non cardiaques : thoracique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Autres chirurgies non cardiaque : thoracique"
+            }
+        ]
+    },
+    {
+        "text": "Chirurgie thoracique réalisée en complément.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Autres chirurgies non cardiaque : thoracique"
+            }
+        ]
+    },
+    {
+        "text": "Intervention thoracique non cardiaque.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Autres chirurgies non cardiaque : thoracique"
+            }
+        ]
+    },
+    {
+        "text": "Drainage pleural réalisé en post-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 37,
+                "label": "Drainage/ECMO/Assistance ventriculaire"
+            }
+        ]
+    },
+    {
+        "text": "ECMO utilisée pour assistance circulatoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 37,
+                "label": "Drainage/ECMO/Assistance ventriculaire"
+            }
+        ]
+    },
+    {
+        "text": "Assistance ventriculaire gauche mise en place.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 37,
+                "label": "Drainage/ECMO/Assistance ventriculaire"
+            }
+        ]
+    },
+    {
+        "text": "Transfusion de 2 culots globulaires réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Transfusion"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant reçu une transfusion sanguine.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 28,
+                "label": "Transfusion"
+            }
+        ]
+    },
+    {
+        "text": "Transfusion nécessaire en post-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 10,
+                "label": "Transfusion"
+            }
+        ]
+    },
+    {
+        "text": "Type de PSL : culots globulaires.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Type de PSL"
+            }
+        ]
+    },
+    {
+        "text": "PSL utilisés : plasma frais congelé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Type de PSL"
+            }
+        ]
+    },
+    {
+        "text": "Type de produits sanguins labiles (PSL) : plaquettes.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Type de PSL"
+            }
+        ]
+    },
+    {
+        "text": "Complications : hémorragie post-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "Complications"
+            }
+        ]
+    },
+    {
+        "text": "Patient avec complications infectieuses.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 27,
+                "label": "Complications"
+            }
+        ]
+    },
+    {
+        "text": "Complications cardiovasculaires notées.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "Complications"
+            }
+        ]
+    },
+    {
+        "text": "Gravité globale : modérée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Gravite globale"
+            }
+        ]
+    },
+    {
+        "text": "Gravité globale de l'intervention : élevée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Gravite globale"
+            }
+        ]
+    },
+    {
+        "text": "Gravité globale estimée à sévère.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Gravite globale"
+            }
+        ]
+    },
+    {
+        "text": "Réintervention précoce nécessaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Reintervention precoce"
+            }
+        ]
+    },
+    {
+        "text": "Patient ayant subi une réintervention précoce.",
+        "entities": [
+            {
+                "start": 18,
+                "end": 39,
+                "label": "Reintervention precoce"
+            }
+        ]
+    },
+    {
+        "text": "Réintervention précoce pour hémorragie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Reintervention precoce"
+            }
+        ]
+    },
+    {
+        "text": "Réintervention sous CEC réalisée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Si oui : reintervention sous CEC"
+            }
+        ]
+    },
+    {
+        "text": "Si oui, réintervention sous CEC nécessaire.",
+        "entities": [
+            {
+                "start": 7,
+                "end": 33,
+                "label": "Si oui : reintervention sous CEC"
+            }
+        ]
+    },
+    {
+        "text": "Réintervention sous circulation extracorporelle (CEC).",
+        "entities": [
+            {
+                "start": 0,
+                "end": 26,
+                "label": "Si oui : reintervention sous CEC"
+            }
+        ]
+    },
+    {
+        "text": "Complications survenues : infection nosocomiale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Complication survenues"
+            }
+        ]
+    },
+    {
+        "text": "Complications survenues en post-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Complication survenues"
+            }
+        ]
+    },
+    {
+        "text": "Complications survenues : embolie pulmonaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Complication survenues"
+            }
+        ]
+    },
+    {
+        "text": "Septum paradoxal observé à l'échocardiographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Septum paradoxal"
+            }
+        ]
+    },
+    {
+        "text": "Présence d'un septum paradoxal.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 30,
+                "label": "Septum paradoxal"
+            }
+        ]
+    },
+    {
+        "text": "Septum paradoxal confirmé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Septum paradoxal"
+            }
+        ]
+    },
+    {
+        "text": "Epanchement péricardique modéré.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epanchement pericardique"
+            }
+        ]
+    },
+    {
+        "text": "Présence d'un épanchement péricardique.",
+        "entities": [
+            {
+                "start": 13,
+                "end": 37,
+                "label": "Epanchement pericardique"
+            }
+        ]
+    },
+    {
+        "text": "Epanchement péricardique important.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Epanchement pericardique"
+            }
+        ]
+    },
+    {
+        "text": "Épaisseur de l'épanchement : 10 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Epaisseur epanchement"
+            }
+        ]
+    },
+    {
+        "text": "Épaisseur épanchement mesurée à 15 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Epaisseur epanchement"
+            }
+        ]
+    },
+    {
+        "text": "Épaisseur épanchement normale à 5 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Epaisseur epanchement"
+            }
+        ]
+    },
+    {
+        "text": "Localisation de l'épanchement : circonférentiel.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 41,
+                "label": "Localisation de l'epanchement (circonferentiel/localise)"
+            }
+        ]
+    },
+    {
+        "text": "Épanchement localisé dans la région antérieure.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 41,
+                "label": "Localisation de l'epanchement (circonferentiel/localise)"
+            }
+        ]
+    },
+    {
+        "text": "Localisation : épanchement localisé.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 41,
+                "label": "Localisation de l'epanchement (circonferentiel/localise)"
+            }
+        ]
+    },
+    {
+        "text": "Si épanchement localisé, drainage nécessaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Si epanchement localise"
+            }
+        ]
+    },
+    {
+        "text": "Épanchement localisé détecté à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Si epanchement localise"
+            }
+        ]
+    },
+    {
+        "text": "Si épanchement localisé, surveillance accrue.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Si epanchement localise"
+            }
+        ]
+    },
+    {
+        "text": "Nature de l'épanchement : séreux.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Nature epanchement"
+            }
+        ]
+    },
+    {
+        "text": "Épanchement de nature hémorragique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Nature epanchement"
+            }
+        ]
+    },
+    {
+        "text": "Nature épanchement : purulent.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Nature epanchement"
+            }
+        ]
+    },
+    {
+        "text": "Compression des cavités cardiaques.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Compression des cavites"
+            }
+        ]
+    },
+    {
+        "text": "Compression cavités due à l'épanchement.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Compression des cavites"
+            }
+        ]
+    },
+    {
+        "text": "Compression des cavités observée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Compression des cavites"
+            }
+        ]
+    },
+    {
+        "text": "Veine cave inférieure dilatée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Veine cave inf"
+            }
+        ]
+    },
+    {
+        "text": "Dilatation de la veine cave inférieure.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Veine cave inf"
+            }
+        ]
+    },
+    {
+        "text": "Veine cave inférieure compressée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 21,
+                "label": "Veine cave inf"
+            }
+        ]
+    },
+    {
+        "text": "IA post-opératoire grade 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IA post op"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance aortique (IA) post-opératoire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IA post op"
+            }
+        ]
+    },
+    {
+        "text": "IA post-op détectée à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IA post op"
+            }
+        ]
+    },
+    {
+        "text": "Fuite sur prothèse valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Fuite sur prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fuite légère sur la prothèse.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Fuite sur prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fuite sur prothèse aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Fuite sur prothese"
+            }
+        ]
+    },
+    {
+        "text": "Fuite sur plastie valvulaire.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Fuite sur plastie"
+            }
+        ]
+    },
+    {
+        "text": "Fuite résiduelle sur la plastie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Fuite sur plastie"
+            }
+        ]
+    },
+    {
+        "text": "Fuite sur plastie mitrale.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Fuite sur plastie"
+            }
+        ]
+    },
+    {
+        "text": "Surface indexée de 1,2 cm²/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Surface indexee"
+            }
+        ]
+    },
+    {
+        "text": "Surface indexée mesurée à 1,0 cm²/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Surface indexee"
+            }
+        ]
+    },
+    {
+        "text": "Surface indexée normale à 1,1 cm²/m².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 16,
+                "label": "Surface indexee"
+            }
+        ]
+    },
+    {
+        "text": "Index de perméabilité de 0,8.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Index de permeabillite"
+            }
+        ]
+    },
+    {
+        "text": "Index de perméabilité mesuré à 0,9.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Index de permeabillite"
+            }
+        ]
+    },
+    {
+        "text": "Index de perméabilité normal à 1,0.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 20,
+                "label": "Index de permeabillite"
+            }
+        ]
+    },
+    {
+        "text": "Surface orifice régurgitant de 0,5 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 28,
+                "label": "Surface orifice regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Surface orifice régurgitant mesurée à 0,6 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 28,
+                "label": "Surface orifice regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Surface orifice régurgitant normale à 0,4 cm².",
+        "entities": [
+            {
+                "start": 0,
+                "end": 28,
+                "label": "Surface orifice regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Volume régurgitant de 30 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Volume regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Volume régurgitant mesuré à 40 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Volume regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "Volume régurgitant normal à 20 ml.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 19,
+                "label": "Volume regurgitant"
+            }
+        ]
+    },
+    {
+        "text": "IM résiduelle grade 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IM residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance mitrale (IM) résiduelle.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IM residuelle"
+            }
+        ]
+    },
+    {
+        "text": "IM résiduelle détectée à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IM residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Plastie avec fuite résiduelle.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Plastie, fuite residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Fuite résiduelle après plastie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Plastie, fuite residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Plastie valvulaire avec fuite résiduelle.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Plastie, fuite residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau mitral de 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre. Anneau mitral"
+            }
+        ]
+    },
+    {
+        "text": "Anneau mitral mesuré à 40 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre. Anneau mitral"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre anneau mitral normal à 38 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre. Anneau mitral"
+            }
+        ]
+    },
+    {
+        "text": "IT résiduelle grade 1.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IT residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Insuffisance tricuspide (IT) résiduelle.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IT residuelle"
+            }
+        ]
+    },
+    {
+        "text": "IT résiduelle détectée à l'échographie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 13,
+                "label": "IT residuelle"
+            }
+        ]
+    },
+    {
+        "text": "Flux inversé des veines sus-hépatiques.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "Flux inverse des veines sus hepatiques"
+            }
+        ]
+    },
+    {
+        "text": "Flux inversé veines sus-hépatiques détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "Flux inverse des veines sus hepatiques"
+            }
+        ]
+    },
+    {
+        "text": "Absence de flux inversé veines sus-hépatiques.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 35,
+                "label": "Flux inverse des veines sus hepatiques"
+            }
+        ]
+    },
+    {
+        "text": "Flap intimal (OUI / NON) détecté : OUI.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Flap intimal (OUI / NON)"
+            }
+        ]
+    },
+    {
+        "text": "Absence de Flap intimal (OUI / NON) : NON.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Flap intimal (OUI / NON)"
+            }
+        ]
+    },
+    {
+        "text": "Flap intimal (OUI / NON) présent : OUI.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 18,
+                "label": "Flap intimal (OUI / NON)"
+            }
+        ]
+    },
+    {
+        "text": "Calcification de la prothèse valvulaire aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "Calcification prothese Valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Prothèse valvulaire aortique calcifiée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "Calcification prothese Valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Calcification importante sur la prothèse aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "Calcification prothese Valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Épaississement des feuillets valvulaires aortiques.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 32,
+                "label": "Epaississement feuillet valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Feuillets valvulaires aortiques épaissis.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 32,
+                "label": "Epaississement feuillet valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Épaississement valvulaire aortique détecté.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 32,
+                "label": "Epaississement feuillet valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Restriction du mouvement valvulaire aortique.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Restriction mouvement valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Mouvement valvulaire aortique restreint.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Restriction mouvement valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Restriction valvulaire aortique observée.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 33,
+                "label": "Restriction mouvement valv ao"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre sinus de ValsalVA_mesuré à 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Diametre sinus de valsalva"
+            }
+        ]
+    },
+    {
+        "text": "Sinus de ValsalVA_dilaté à 40 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Diametre sinus de valsalva"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre sinus de ValsalVA_normal à 32 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 24,
+                "label": "Diametre sinus de valsalva"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre aortique tubulaire mesuré à 30 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre ao tubulaire"
+            }
+        ]
+    },
+    {
+        "text": "Aorte tubulaire dilatée à 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre ao tubulaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre aortique tubulaire normal à 28 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 22,
+                "label": "Diametre ao tubulaire"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre aortique isthmique mesuré à 25 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Diametre ao isthmique"
+            }
+        ]
+    },
+    {
+        "text": "Aorte isthmique dilatée à 30 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Diametre ao isthmique"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre aortique isthmique normal à 22 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 23,
+                "label": "Diametre ao isthmique"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre aortique thoracique mesuré à 35 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre ao thoracique"
+            }
+        ]
+    },
+    {
+        "text": "Aorte thoracique dilatée à 40 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre ao thoracique"
+            }
+        ]
+    },
+    {
+        "text": "Diamètre aortique thoracique normal à 32 mm.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 25,
+                "label": "Diametre ao thoracique"
+            }
+        ]
+    },
+    {
+        "text": "Statut à la sortie : stable.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Statut a la sortie"
+            }
+        ]
+    },
+    {
+        "text": "Patient en bon état à la sortie.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Statut a la sortie"
+            }
+        ]
+    },
+    {
+        "text": "Statut à la sortie : amélioré.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 17,
+                "label": "Statut a la sortie"
+            }
+        ]
+    },
+    {
+        "text": "Statut à J30 : stable.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Statut a J30"
+            }
+        ]
+    },
+    {
+        "text": "Patient en bon état à J30.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Statut a J30"
+            }
+        ]
+    },
+    {
+        "text": "Statut à J30 : amélioré.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 12,
+                "label": "Statut a J30"
+            }
+        ]
+    },
+    {
+        "text": "Décès après la sortie : OUI.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Deces apres la sortie ou au dela de 30j"
+            }
+        ]
+    },
+    {
+        "text": "Patient décédé au-delà de 30 jours.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Deces apres la sortie ou au dela de 30j"
+            }
+        ]
+    },
+    {
+        "text": "Décès après la sortie ou au-delà de 30j : NON.",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "Deces apres la sortie ou au dela de 30j"
+            }
+        ]
+    }
+]
