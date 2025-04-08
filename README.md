@@ -2,7 +2,7 @@
 Ce projet est conçu pour extraire automatiquement des informations médicales spécifiques à partir de rapports PDF en utilisant un modèle d'IA Ollama. L'application utilise Streamlit comme interface utilisateur et enregistre les résultats dans un fichier Excel téléchargeable.
 
 # Fonctionnalités
-- Extraction de données brutes de rapports hospitaliers en PDF.
+- Extraction de données brutes à partir de comptes rendus d'hospitalisation au format PDF.
 - Traitement et nettoyage des données en utilisant Ollama.
 - Téléchargement des résultats sous format Excel.
 - Barre de progression pour suivre l'avancement de l'extraction.
@@ -10,7 +10,14 @@ Ce projet est conçu pour extraire automatiquement des informations médicales s
 # Installation
 Prérequis
 - **Python** : Assurez-vous que Python 3.11 ou une version compatible est installé sur votre système.
-- **Ollama** : Nécessaire pour la gestion des modèles de génération de texte (LLM) comme llama2.
+- **Ollama** : Nécessaire pour la gestion des modèles de génération de texte (LLM) comme llama3.2.
+
+## Important - Choix du modèle
+L’utilisation d’un modèle plus performant (ex. : meditron 7B ou un modèle spécialisé dans le domaine médical avec davantage de paramètres) permet d’obtenir des résultats nettement meilleurs.
+
+Avec un modèle plus grand, nous avons atteint jusqu’à 79 % de termes correctement identifiés. Ce chiffre inclut toutefois des cas où des mots non pertinents ont également été extraits — les bons termes étaient présents, mais souvent accompagnés de contenu superflu. Cela dit, l’usage de modèles plus puissants allonge considérablement le temps de traitement et n’élimine pas totalement les phénomènes d’hallucination, en particulier sur les termes complexes ou ambigus.
+
+- Pour des raisons de rapidité d'exécution, nous avons utilisé le modèle llama3.2-1b, plus léger mais aussi moins précis. Ce choix était fait dans une logique de proof of concept et ne reflète donc pas les performances réelles qu’on pourrait obtenir avec un modèle plus robuste.
 
 # Étapes d'Installation
 
@@ -54,7 +61,7 @@ streamlit run apothicare.py
 
 ## Utilisation
 
-**Importer un fichier PDF** : Téléchargez un rapport médical au format PDF via l'interface Streamlit.
+**Importer un fichier PDF** : Téléchargez un compte rendu d’hospitalisation au format PDF via l’interface Streamlit. **Étant donné que ces documents sont strictement confidentiels, des exemples fictifs sont fournis avec le projet, mais peuvent être remplacés par de véritables comptes rendus si nécessaire.**
 
 **Extraire les informations** : Cliquez sur le bouton d'extraction pour démarrer le traitement.
 
